@@ -60,6 +60,7 @@ The Standard Model of Cosmology (in Malayalam)
 
 ഇവ തമ്മിലുള്ള അകലം എങ്ങനെ കണക്കാക്കും?
 നാം ഡിസ്റ്റന്‍സ് D അഥവാ അകലം എന്ന കോണ്‍സപ്റ്റ് ഡിഫൈന്‍ ചെയ്യാന്‍ പോകുകയാണ്:
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" title="D = a * \Delta x" /></a>
 
 ഇവിടെ, a എന്നാല്‍ നമ്മുടെ ഒരു ലാറ്റിസ് സെപറേഷന്‍. ഇതിനെ നമുക്ക് സ്കെയില്‍ ഫാക്ടര്‍ അല്ലെങ്കില്‍ സ്കെയില്‍ പരാമീറ്റര്‍ എന്ന് വിളിക്കാം.
@@ -85,7 +86,10 @@ a യും b യും തമ്മിലുള്ള റെലറ്റീവ�
 അതായത്, ഡിസ്റ്റന്‍സ് D എന്നത്:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;D_{ab}&space;=&space;a(t)&space;*&space;\Delta&space;x_{ab}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;D_{ab}&space;=&space;a(t)&space;*&space;\Delta&space;x_{ab}" title="D_{ab} = a(t) * \Delta x_{ab}" /></a>
+
+
 അപ്പോള്‍ വെലോസിറ്റി എന്നത്:
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;V_{ab}&space;=&space;\frac{\mathrm{d}&space;D_{ab}}{\mathrm{d}&space;t}&space;=&space;\dot{D}_{ab}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;V_{ab}&space;=&space;\frac{\mathrm{d}&space;D_{ab}}{\mathrm{d}&space;t}&space;=&space;\dot{D}_{ab}" title="V_{ab} = \frac{\mathrm{d} D_{ab}}{\mathrm{d} t} = \dot{D}_{ab}" /></a>
 
 (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;\dot{D}_{ab}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;\dot{D}_{ab}" title="\dot{D}_{ab}" /></a> എന്നതിനെ ഡി ഡോട്ട് എ ബി എന്ന് വായിക്കാം. ഡോട്ട് സൂചിപ്പിക്കുന്നത് ഡെറിവേറ്റിവ് വിത്ത്‌ റെസ്പക്ട് ടു ടൈം എന്നാണ്. ഒരു ഡോട്ട് ആയതിനാല്‍ ഒന്നാം ഡെറിവേറ്റിവ്, രണ്ടു ഡോട്ട് ഉണ്ടെങ്കില്‍ രണ്ടാം ഡെറിവേറ്റിവ് അങ്ങിനെ അങ്ങിനെ.)
