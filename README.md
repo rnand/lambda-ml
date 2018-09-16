@@ -60,7 +60,7 @@ The Standard Model of Cosmology (in Malayalam)
 
 ഇവ തമ്മിലുള്ള അകലം എങ്ങനെ കണക്കാക്കും?
 നാം ഡിസ്റ്റന്‍സ് D അഥവാ അകലം എന്ന കോണ്‍സപ്റ്റ് ഡിഫൈന്‍ ചെയ്യാന്‍ പോകുകയാണ്:
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" title="D = a * \Delta x" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" title="D = a * \Delta x" /></a>
 
 ഇവിടെ, a എന്നാല്‍ നമ്മുടെ ഒരു ലാറ്റിസ് സെപറേഷന്‍. ഇതിനെ നമുക്ക് സ്കെയില്‍ ഫാക്ടര്‍ അല്ലെങ്കില്‍ സ്കെയില്‍ പരാമീറ്റര്‍ എന്ന് വിളിക്കാം.
 
