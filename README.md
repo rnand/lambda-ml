@@ -76,7 +76,9 @@ The Standard Model of Cosmology (in Malayalam)
 [[arbitrary points]]
 
 ഇവ തമ്മില്‍ ഉള്ള ഡിസ്റ്റന്‍സ്:
-<img src="https://latex.codecogs.com/gif.latex?\dpi{200}&space;\small&space;D_{ab}&space;=&space;a(t)&space;*&space;\sqrt{\Delta&space;x^{2}_{ab}&space;&plus;&space;\Delta&space;y^{2}_{ab}&space;&plus;&space;\Delta&space;z^{2}_{ab}}" title="\small D_{ab} = a(t) * \sqrt{\Delta x^{2}_{ab} + \Delta y^{2}_{ab} + \Delta z^{2}_{ab}}" />
+
+<img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\small&space;D_{ab}&space;=&space;a(t)&space;*&space;\sqrt{\Delta&space;x^{2}_{ab}&space;&plus;&space;\Delta&space;y^{2}_{ab}&space;&plus;&space;\Delta&space;z^{2}_{ab}}" title="\small D_{ab} = a(t) * \sqrt{\Delta x^{2}_{ab} + \Delta y^{2}_{ab} + \Delta z^{2}_{ab}}" />
+
 (പൈതാഗറസ്‌ തിയറം)
 
 a യും b യും തമ്മിലുള്ള വെലോസിറ്റി കണക്കാക്കി നോക്കാം.
