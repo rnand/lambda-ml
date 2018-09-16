@@ -68,7 +68,7 @@ The Standard Model of Cosmology (in Malayalam)
 ഈ സ്കെയില്‍ പരാമീറ്റര്‍ ഒരു കോണ്‍സ്റ്റന്‍റ് ആകാം അല്ലെങ്കില്‍ വേരിയബിളും ആകാം. കോണ്‍സ്റ്റന്‍റ് ആണെങ്കില്‍ രണ്ടു പോയിന്‍റ്കള്‍ തമ്മിലുള്ള അകലം എക്കാലവും കോണ്‍സ്റ്റന്‍റ് ആയിരുക്കും.
 നമുക്ക് ഈ സ്കെയില്‍ പരാമീറ്ററിനെ ടൈം ഡിപ്പെണ്ടന്‍റ് ആയി കണക്കാക്കാം. അതായത് a എന്നത് ടൈം  t യുടെ ഒരു ഫങ്ങ്ഷന്‍ ആണ്.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;D&space;=&space;a(t)&space;*&space;\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;D&space;=&space;a(t)&space;*&space;\Delta&space;x" title="D = a(t) * \Delta x" /></a>
+<img src="https://latex.codecogs.com/gif.latex?\dpi{200}&space;\small&space;D_{ab}&space;=&space;a(t)&space;*&space;\Delta&space;x_{ab}" title="\small D_{ab} = a(t) * \Delta x_{ab}" />
 
 എന്തുകൊണ്ട് സ്കെയില്‍ പരാമീറ്ററിനെ ടൈം ഡിപ്പെണ്ടന്‍റ് ആയി കണക്കാക്കുന്നു? കാരണം അതാണ്‌ നാം പ്രപഞ്ചത്തില്‍ കാണുന്നത്. ഈ പ്രപഞ്ചത്തില്‍ സ്കെയില്‍ പരാമീറ്റര്‍ ടൈം ഡിപ്പെണ്ടന്‍റ് ആണ്.
 
