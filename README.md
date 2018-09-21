@@ -100,7 +100,7 @@ $$D_{ab} = a(t) \cdot \Delta x_{ab}$$
 
 അപ്പോള്‍ വെലോസിറ്റി എന്നത്:
 
-$$V_{ab} = dD_{ab} \over dt = D\dot_{ab}$$
+$$ V_{ab} = dD_{ab} \over dt = D \dot_{ab}$$
 
 (<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{200}&space;\dot{D}_{ab}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;\dot{D}_{ab}" title="\dot{D}_{ab}" /></a> എന്നതിനെ ഡി ഡോട്ട് എ ബി എന്ന് വായിക്കാം. ഡോട്ട് സൂചിപ്പിക്കുന്നത് ഡെറിവേറ്റിവ് വിത്ത്‌ റെസ്പക്ട് ടു ടൈം എന്നാണ്. ഒരു ഡോട്ട് ആയതിനാല്‍ ഒന്നാം ഡെറിവേറ്റിവ്, രണ്ടു ഡോട്ട് ഉണ്ടെങ്കില്‍ രണ്ടാം ഡെറിവേറ്റിവ് അങ്ങിനെ അങ്ങിനെ.)
 
