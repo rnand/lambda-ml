@@ -68,7 +68,7 @@ The Standard Model of Cosmology (in Malayalam)
 ഇവ തമ്മിലുള്ള അകലം എങ്ങനെ കണക്കാക്കും?
 നാം ഡിസ്റ്റന്‍സ് D അഥവാ അകലം എന്ന കോണ്‍സപ്റ്റ് ഡിഫൈന്‍ ചെയ്യാന്‍ പോകുകയാണ്:
 
-$$D = a \cdot \delta x
+$$D = a \cdot \delta x$$
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{200}&space;D&space;=&space;a&space;*&space;\Delta&space;x" title="D = a * \Delta x" /></a>
 
