@@ -28,7 +28,7 @@ The Standard Model of Cosmology (in Malayalam)
 
 കോസ്മളോജിക്കൽ തത്വം പറയുന്നു:
 
-<div style="background-color:#e3e7ed; border: thin solid black"> 
+<div style="background-color:#e3e7ed; border: thin solid black;padding: 8px"> 
 പ്രപഞ്ചത്തിലെ മാറ്റര്‍/എനര്‍ജി ഡിസ്ട്രിബ്യൂഷന്‍ വളരെ വലിയ സ്കെയിലുകളില്‍ (ബില്ല്യണ്‍ പ്രകാശവര്‍ഷങ്ങളുടെ സ്കെയിലുകളില്‍) ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ്.    
 </div>
 <br/>
