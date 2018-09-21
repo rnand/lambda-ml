@@ -1,6 +1,3 @@
----
-mathjax: true
----
 
 # കോസ്മോളജി  --- സ്റ്റാൻഡേർഡ് മോഡൽ 
 The Standard Model of Cosmology (in Malayalam)
