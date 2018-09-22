@@ -108,7 +108,7 @@ $$\frac{V_{ab}}{D_{ab}} =  \frac {\dot a(t)}{a(t)}$$
 
 മുകളില്‍ പറഞ്ഞ ഇക്വേഷന്‍ റീ അറേഞ്ച് ചെയ്‌താല്‍:
 
-<div style="background-color:#e3e7ed; border: thin solid black;padding: 8px;display: inline">
+<div style="background-color:#e3e7ed; border: thin solid black;padding: 8px">
  $$V=HD$$
 </div>
 ഇതാണ് ഹബ്ബിള്‍ നിമയം അതിന്‍റെ സ്റ്റാന്‍ഡേര്‍ഡ് ഫോമില്‍.
