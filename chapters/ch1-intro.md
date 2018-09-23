@@ -21,11 +21,12 @@
 തീർച്ചയായും, ഭൂമിയില്‍ നിന്നും ആകാശത്തേക്ക് നോക്കിയാൽ പ്രപഞ്ചം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണെന്ന് നമുക്ക് അനുഭവപ്പെടില്ല. പക്ഷെ, ലക്ഷക്കണക്കിന് പ്രകാശ വർഷങ്ങളുടെ സ്കെയിലിൽ പ്രപഞ്ചം വളരെ അധികം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ്. 
 
 <p align="center">
-  <img src="../images/large_scale_structure_cr.jpg" width="500" title="Large scale structure of the universe">
-  <p style = "font-size:9px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics</a></p>
-  <img src="../images/Millenium-Simulation.jpg" width="500" title="Large scale structure of the universe">
-  <p style = "font-size:8px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml">Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2</a></p>
-  <br/><p align="center">കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
+  <img src="../images/large_scale_structure_cr.jpg" width="400" title="Large scale structure of the universe">
+  <p style = "font-size:9px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics</a></p></p>
+  <p align="center">
+  <img src="../images/Millenium-Simulation.jpg" width="400" title="Large scale structure of the universe">
+  <p style = "font-size:8px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml">Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2</a></p></p>
+  <br/><p align="center">പ്രപഞ്ചത്തിന്‍റെ  വലിയ സ്കെയിലുകളിലെ സ്ട്രക്ചര്‍ - കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
 </p>
 
 വളരെ വലിയ സ്കെയിലുകളിൽ പ്രപഞ്ചത്തിന്‍റെ അഥവാ സ്പേസിന്‍റെ ഘടന ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ് എന്ന് പലതരം ഒബ്സർവേഷൻസിൽ നിന്നും നമുക്ക് മനസ്സിലാക്കാം. ഉദാഹരണത്തിന്, WMAP (Wilkinson Microwave Anisotropic Probe)  മിഷൻ പകർത്തിയ കോസ്മിക് മൈക്രോവേവ് ബാക്ക്ഗ്രൗണ്ട് റേഡിയേഷൻ (CMB) പരിശോധിച്ചാൽ ഇത് വ്യക്തമാകും.
