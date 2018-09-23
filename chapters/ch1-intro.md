@@ -8,13 +8,27 @@
   <img src="../images/isotropi1.png" width="200" title="Isotropic from the center">
   <br/><p align="center">ചിത്രത്തില്‍ മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഐസോട്രോപിക് ആണ്</p>
 </p>
- 
 
- 
-തീർച്ചയായും, ആകാശത്തു നോക്കിയാൽ ഇത് ചെറിയ സ്കെയിലുകളിൽ ശരിയല്ല എന്ന് കാണാം. പക്ഷെ, ലക്ഷക്കണക്കിന് പ്രകാശ വർഷങ്ങളുടെ സ്കെയിലിൽ പ്രപഞ്ചം വളരെ അധികം ഐസോട്രോപിക് ആണ്. 
 
-ഒരു സിസ്റ്റം ഐസോട്രോപിക് ആണെങ്കിൽ അത് ഹോമോജീനിയസ് ആകാൻ സാധ്യത കൂടുതലാണ്. ഹോമോജീനിയസ്  എന്ന് വെച്ചാൽ, എല്ലാ ഇടവും സമം. അതായതു ഒരു സിസ്റ്റത്തിൽ എല്ലാ പോയിന്‍റുകളും തുല്യം. ഒരു പോയിന്‍റിനും പ്രതേക പരിഗണന ഇല്ല.
+ഒരു സിസ്റ്റം ഐസോട്രോപിക് ആണെങ്കിൽ അത് ഹോമോജീനിയസ് ആകാൻ സാധ്യത കൂടുതലാണ് (പക്ഷെ അങ്ങനെ ആകണം എന്ന് ഉറപ്പൊന്നും ഇല്ല. ആകാം ആകതെയുമിരിക്കാം). ഹോമോജീനിയസ്  എന്ന് വെച്ചാൽ, എല്ലാ ഇടവും സമം. അതായതു ഒരു സിസ്റ്റത്തിൽ എല്ലാ പോയിന്‍റുകളും തുല്യം. ഒരു പോയിന്‍റിനും പ്രതേക പരിഗണന ഇല്ല.
 
+<p align="center">
+  <img src="../images/homogeneity1.png" width="200" title="Homogenious from the center">
+  <br/><p align="center">മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഹോമോജീനിയസ്സ് ആണ്</p>
+</p>
+
+
+തീർച്ചയായും, ഭൂമിയില്‍ നിന്നും ആകാശത്തേക്ക് നോക്കിയാൽ പ്രപഞ്ചം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണെന്ന് നമുക്ക് അനുഭവപ്പെടില്ല. പക്ഷെ, ലക്ഷക്കണക്കിന് പ്രകാശ വർഷങ്ങളുടെ സ്കെയിലിൽ പ്രപഞ്ചം വളരെ അധികം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ്. 
+
+<p align="center">
+  <img src="../images/large_scale_structure_cr.jpg" width="200" title="Large scale structure of the universe">
+  <p style = "font-size:8px"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics
+     https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml</p>
+  <img src="../images/Millenium-Simulation.jpg" width="200" title="Large scale structure of the universe">
+  <p style = "font-size:8px"> Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics
+    Simulation code: Gadget-2</p>
+  <br/><p align="center">കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
+</p>
 
 വളരെ വലിയ സ്കെയിലുകളിൽ പ്രപഞ്ചത്തിന്‍റെ അഥവാ സ്പേസിന്‍റെ ഘടന ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ് എന്ന് പലതരം ഒബ്സർവേഷൻസിൽ നിന്നും നമുക്ക് മനസ്സിലാക്കാം. ഉദാഹരണത്തിന്, WMAP (Wilkinson Microwave Anisotropic Probe)  മിഷൻ പകർത്തിയ കോസ്മിക് മൈക്രോവേവ് ബാക്ക്ഗ്രൗണ്ട് റേഡിയേഷൻ (CMB) പരിശോധിച്ചാൽ ഇത് വ്യക്തമാകും.
 
