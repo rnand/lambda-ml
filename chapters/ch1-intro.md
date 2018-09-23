@@ -22,11 +22,10 @@
 
 <p align="center">
   <img src="../images/large_scale_structure_cr.jpg" width="200" title="Large scale structure of the universe">
-  <p style = "font-size:8px"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics
-     https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml</p>
+  <p style = "font-size:8px"> [Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics]
+     (https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml)</p>
   <img src="../images/Millenium-Simulation.jpg" width="200" title="Large scale structure of the universe">
-  <p style = "font-size:8px"> Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics
-    Simulation code: Gadget-2</p>
+  <p style = "font-size:8px"> [Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2](https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml)</p>
   <br/><p align="center">കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
 </p>
 
