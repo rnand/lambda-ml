@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="../images/isotropi1.png" width="200" title="Isotropic from the center">
-  <br/>ചിത്രത്തില്‍ മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഐസോട്രോപിക് ആണ്
+  <br/><p align="center">ചിത്രത്തില്‍ മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഐസോട്രോപിക് ആണ്</p>
  </p>
   
 
