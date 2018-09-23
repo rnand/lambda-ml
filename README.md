@@ -14,6 +14,12 @@ The Standard Model of Cosmology (in Malayalam)
 
 #### ചില കാര്യങ്ങള്‍ 
 
+“The story so far:
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move.”
+
+― Douglas Adams, The Restaurant at the End of the Universe
+
 പ്രപഞ്ചത്തിന്‍റെ ഉത്ഭവം എന്നത് വളരെ സെന്‍സിറ്റീവ് ആയ ഒരു കാര്യം ആണ് - ലോകത്തിലെ ഏത് കള്‍ച്ചര്‍ എടുത്താലും ഏത് മതവിശ്വാസം എടുത്താലും അതില്‍ പ്രപഞ്ചത്തിന്‍റെ ഉത്ഭവത്തെ കുറിച്ച് വിവരിചിട്ടുണ്ടാകും.
 
  ഈ കഥകള്‍ മനുഷ്യ സമൂഹത്തിലും ചരിത്രത്തിലും വളരെ വലിയ പങ്ക് വഹിക്കുന്നു.
