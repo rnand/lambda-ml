@@ -21,11 +21,10 @@
 തീർച്ചയായും, ഭൂമിയില്‍ നിന്നും ആകാശത്തേക്ക് നോക്കിയാൽ പ്രപഞ്ചം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണെന്ന് നമുക്ക് അനുഭവപ്പെടില്ല. പക്ഷെ, ലക്ഷക്കണക്കിന് പ്രകാശ വർഷങ്ങളുടെ സ്കെയിലിൽ പ്രപഞ്ചം വളരെ അധികം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ്. 
 
 <p align="center">
-  <img src="../images/large_scale_structure_cr.jpg" width="200" title="Large scale structure of the universe">
-  <p style = "font-size:8px"> [Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics]
-     (https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml)</p>
-  <img src="../images/Millenium-Simulation.jpg" width="200" title="Large scale structure of the universe">
-  <p style = "font-size:8px"> [Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2](https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml)</p>
+  <img src="../images/large_scale_structure_cr.jpg" width="500" title="Large scale structure of the universe">
+  <p style = "font-size:9px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics</a></p>
+  <img src="../images/Millenium-Simulation.jpg" width="500" title="Large scale structure of the universe">
+  <p style = "font-size:8px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml">Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2</a></p>
   <br/><p align="center">കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
 </p>
 
