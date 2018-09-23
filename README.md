@@ -39,6 +39,6 @@ This has made a lot of people very angry and been widely regarded as a bad move.
 * ക്യൂരിയോസിറ്റി: ഇതില്ലാതെ ഒന്നും നടക്കില്ല!
 
 
-###ചാപ്റ്ററുകള്‍
+### ചാപ്റ്ററുകള്‍
 
 [Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/28) 
