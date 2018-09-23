@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="../images/isotropi1.png" width="200" title="Isotropic from the center">
-  <br/><p align="center">ചിത്രത്തില്‍ മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഐസോട്രോപിക് ആണ്</p>
+  <br/><p align="center">ചിത്രത്തില്‍, മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഐസോട്രോപിക് ആണ്</p>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="../images/homogeneity1.png" width="200" title="Homogenious from the center">
-  <br/><p align="center">മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഹോമോജീനിയസ്സ് ആണ്</p>
+  <br/><p align="center">ഈ ചിത്രത്തില്‍, മദ്ധ്യത്തില്‍ നിന്ന് നോക്കിയാല്‍ സിസ്റ്റം ഹോമോജീനിയസ്സ് ആണ്</p>
 </p>
 
 
@@ -26,7 +26,7 @@
   <p align="center">
   <img src="../images/Millenium-Simulation.jpg" width="400" title="Large scale structure of the universe">
   <p align="center" style = "font-size:8px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml">Springel et al. (Virgo Consortium), Max-Planck-Institute for Astrophysics, Simulation code: Gadget-2</a></p></p>
-  <br/><p align="center">പ്രപഞ്ചത്തിന്‍റെ  വലിയ സ്കെയിലുകളിലെ സ്ട്രക്ചര്‍ - കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍</p>
+  <br/><p align="center">പ്രപഞ്ചത്തിന്‍റെ  വലിയ സ്കെയിലുകളിലെ സ്ട്രക്ചര്‍ - കംപ്യൂട്ടര്‍ സിമുലേഷനുകള്‍ നിര്‍മ്മിച്ച ചിത്രങ്ങള്‍ </p>
 
 
 വളരെ വലിയ സ്കെയിലുകളിൽ പ്രപഞ്ചത്തിന്‍റെ അഥവാ സ്പേസിന്‍റെ ഘടന ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ് എന്ന് പലതരം ഒബ്സർവേഷൻസിൽ നിന്നും നമുക്ക് മനസ്സിലാക്കാം. ഉദാഹരണത്തിന്, WMAP (Wilkinson Microwave Anisotropic Probe)  മിഷൻ പകർത്തിയ കോസ്മിക് മൈക്രോവേവ് ബാക്ക്ഗ്രൗണ്ട് റേഡിയേഷൻ (CMB) പരിശോധിച്ചാൽ ഇത് വ്യക്തമാകും.
