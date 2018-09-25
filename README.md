@@ -15,3 +15,15 @@ The Standard Model of Cosmology (in Malayalam)
 ### ചാപ്റ്ററുകള്‍
 
 [Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/28) 
+
+
+### റെഫറന്‍സ് 
+
+എവിടെയെങ്കിലും "സ്റ്റക്ക്" ആകുന്നു എന്ന് തോന്നുന്നു എങ്കില്‍ താഴെ പറയുന്ന റിസോര്‍സുകള്‍ 
+
+(From beginner to advanced level)
+
+1. Introduction to Cosmology 2nd Edition by Barbara Ryden
+2. Cosmology lecture series by Leonard Susskind
+3. Modern Cosmology 1st Edition by Scott Dodelson
+4. Physical Foundations of Cosmology 1st Edition by Viatcheslav Mukhanov
