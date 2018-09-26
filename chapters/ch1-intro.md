@@ -203,7 +203,7 @@ $$C = HD$$
 ചുറ്റുമുള്ള കുറെ ഗാലക്സികളുടെ റെഡ്ഷിഫ്റ്റ്‌ ഹബ്ബിള്‍ അളന്നു. എന്നിട്ട് അവയിലേക്കുള്ള ദൂരവും. ഇത് രണ്ടും കൂടി ഒരു x-y അക്ഷത്തില്‍ പ്ലോട്ട് ചെയ്തു. അങ്ങനെയാണ് ഹബ്ബിള്‍ നിയമം ഡിറൈവ് ചെയ്തത്. 
 
 <p align="center">
-  <img src="../images/hubble-plot_ai.png" width="300" title="Isotropic from the center">
+  <img src="../images/hubble-plot_ai.png" width="300" title="Hubble plot">
   <br/><p align="center">ഹബ്ബിള്‍ ഡയഗ്രം</p>
 </p>
 
