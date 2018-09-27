@@ -192,7 +192,7 @@ $$C = HD$$
 
 ഒരു ഉദാഹരണം, കാര്‍ ഹോണ്‍:
 <audio src="https://upload.wikimedia.org/wikipedia/commons/9/90/Speeding-car-horn_doppler_effect_sample.ogg" controls preload></audio>
-<p align="center" style = "font-size:8px"> <a href="https://en.wikipedia.org/wiki/File:Speeding-car-horn_doppler_effect_sample.ogg">Created by Wikipedia user Magickallwiz</a></p>
+<p align="left" style = "font-size:8px"> <a href="https://en.wikipedia.org/wiki/File:Speeding-car-horn_doppler_effect_sample.ogg">Credit: Wikipedia user Magickallwiz</a></p>
 
 എല്ലാ തരംഗങ്ങള്‍ക്കും ഇത് സംഭവിക്കും. പ്രകാശത്തിനു ഉള്‍പ്പടെ. 
 ഒരു വീക്ഷകന്‍റെ അടുത്തേക്ക് വരുന്ന ഒരു ഓബ്ജക്ടില്‍ നിന്നും വരുന്ന പ്രകാശ തരംഗങ്ങള്‍ കംപ്രസ്സ് ആകുന്നു. അതിനാല്‍ അവ EM സ്പെക്ട്രത്തിന്‍റെ “നീല“ വിഭാഗത്തിലേക്ക് ഷിഫ്റ്റ്‌ ചെയ്യുന്നു. ഇതിനെ ബ്ലു ഷിഫ്റ്റ്‌ എന്ന് വിളിക്കുന്നു. ഇതിന്‍റെ നേര്‍ വിപരീതമാണ് റെഡ് ഷിഫ്റ്റ്‌. അതായത്  ഒരു വീക്ഷകനില്‍ നിന്നും അകന്നു പൊയ്ക്കൊണ്ടിരിക്കുന്ന ഒരു ഓബ്ജക്ടില്‍ നിന്നും വരുന്ന പ്രകാശ തരംഗങ്ങള്‍ വലിഞ്ഞു പോകുന്നു. അങ്ങനെ അവ ചുവക്കുന്നു.
