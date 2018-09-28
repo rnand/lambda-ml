@@ -198,9 +198,10 @@ $$C = HD$$
 <p align="left" style = "font-size:8px"> <a href="https://en.wikipedia.org/wiki/File:Speeding-car-horn_doppler_effect_sample.ogg">Credit: Wikipedia user Magickallwiz</a></p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Dopplereffectstationary.gif" width="300" title="Waves from a stationary object">സ്റ്റേഷണറി ആയിട്ടുള്ള ഒരു വസ്തുവില്‍ നിന്നുള്ള തരംഗങ്ങള്‍ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Dopplereffectstationary.gif" width="300" title="Waves from a stationary object">
+  <p align="center" style = "font-size:10px">സ്റ്റേഷണറി ആയിട്ടുള്ള ഒരു വസ്തുവില്‍ നിന്നുള്ള തരംഗങ്ങള്‍ </p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Dopplereffectsourcemovingrightatmach0.7.gif" width="300" title="Doppler shift">ഒരു വസ്തുവില്‍ നിന്നുള്ള തരംഗങ്ങള്‍ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Dopplereffectsourcemovingrightatmach0.7.gif" width="300" title="Doppler shift"> <p align="center" style = "font-size:10px"> മൂവ് ആകുന്ന ഒരു വസ്തുവില്‍ നിന്നുള്ള തരംഗങ്ങള്‍ </p>
   <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Dopplereffectsourcemovingrightatmach0.7.gif"> Credit: Wikipedia user Lookang,  Fu-Kwun Hwang and author of Easy Java Simulation Francisco Esquembre </a></p></p></p>
 
 എല്ലാ തരംഗങ്ങള്‍ക്കും ഇത് സംഭവിക്കും. പ്രകാശത്തിനു ഉള്‍പ്പടെ. 
