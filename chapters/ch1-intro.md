@@ -191,9 +191,9 @@ $$C = HD$$
 ഇതിനു കാരണം ഡോപ്ലര്‍ ഷിഫ്റ്റ്‌ എന്ന പ്രതിഭാസം ആണ്.
 
 ഒരു ഉദാഹരണം, കാര്‍ ഹോണ്‍:
-<aside class="notice">
+<div style="background-color:#f2dede; border-color: #ebccd1;padding: 8px">
   ഹെഡ് ഫോണ്‍ ഉപയോഗിക്കുന്നവര്‍ വോള്യം കുറയ്ക്കുക
-</aside>  
+</div>  
 <audio src="https://upload.wikimedia.org/wikipedia/commons/9/90/Speeding-car-horn_doppler_effect_sample.ogg" controls preload></audio>
 <p align="left" style = "font-size:8px"> <a href="https://en.wikipedia.org/wiki/File:Speeding-car-horn_doppler_effect_sample.ogg">Credit: Wikipedia user Magickallwiz</a></p>
 
