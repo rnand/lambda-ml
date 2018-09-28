@@ -62,7 +62,7 @@ The Standard Model of Cosmology (in Malayalam)
  
 ### ചാപ്റ്ററുകള്‍
 
-[Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/30) 
+[Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/35) 
 
 
 ### റെഫറന്‍സ് 
