@@ -210,7 +210,7 @@ $$C = HD$$
 കെമിക്കല്‍ എലമെന്‍റ്കള്‍ പ്രകാശം അബ്സോര്‍ബ് ചെയ്യുന്നതും എമിറ്റ് ചെയ്യുന്നതും അതിന്‍റേതായ അദ്വിതീയമായ രീതിയിലാണ്. സ്പെക്ട്രോസ്കോപ്പി എന്ന പ്രക്രിയയിലൂടെ ഇവ തിരിച്ചറിയാനാകും.  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Redshift.svg/301px-Redshift.svg.png" width="300" title="Reshift -spectra">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Redshift.svg/301px-Redshift.svg.png" width="300" title="Reshift -spectra" />
   <br/><p align="center">സൂര്യനില്‍ നിന്നുള്ള പ്രകാശത്തിന്‍റെ വിസിബിള്‍ സ്പെക്ട്രത്തിന്‍റെ അബ്സോര്‍ബ്ഷഷന്‍ ലൈന്‍ (ഇടത്) - വിദൂരത്തുള്ള ഗാലക്സി ക്ലസ്റ്ററില്‍ നിന്നുള്ള പ്രകാശത്തിന്‍റെ സ്പെക്ട്രത്തിന്‍റെ അബ്സോര്‍ബ്ഷഷന്‍ ലൈന്‍.
 ആരോകള്‍ റെഡ് ഷിഫ്റ്റിനെ ചൂണ്ടിക്കാണിക്കുന്നു.</p>
 
@@ -224,7 +224,7 @@ $$C = HD$$
 ചുറ്റുമുള്ള കുറെ ഗാലക്സികളുടെ റെഡ്ഷിഫ്റ്റ്‌ ഹബ്ബിള്‍ അളന്നു. എന്നിട്ട് അവയിലേക്കുള്ള ദൂരവും. ഇത് രണ്ടും കൂടി ഒരു x-y അക്ഷത്തില്‍ പ്ലോട്ട് ചെയ്തു. അങ്ങനെയാണ് ഹബ്ബിള്‍ നിയമം ഡിറൈവ് ചെയ്തത്. <br/><br/>
 
 <p align="center">
-  <img src="../images/hubble-plot_ai.png" width="300" title="Hubble plot">
+  <img src="../images/hubble-plot_ai.png" width="300" title="Hubble plot" />
   <br/><p align="center">ഹബ്ബിള്‍ ഡയഗ്രം</p>
 </p>
 
