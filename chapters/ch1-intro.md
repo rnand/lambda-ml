@@ -213,7 +213,7 @@ $$C = HD$$
 ചുരുക്കി പറഞ്ഞാല്‍ പ്രകാശവും ദ്രവ്യവും തമ്മിലുള്ള ഇന്‍ററാക്ഷന്‍ ദ്രവ്യത്തിന്‍റെ ഇലക്ട്രോണ്‍ കോണ്‍ഫിഗറെഷന്‍ അനുസരിച്ച് ഇരിക്കും. ഇത് ഡിസ്ക്രൈബ് ചെയ്യുന്ന ശാഖയാണ്‌ ക്വാണ്ടം ഇലക്ട്രോ ഡൈനാമിക്സ്.
 
 <p align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hydrogen-SpinFlip.svg/374px-Hydrogen-SpinFlip.svg.png width="300" title="Hydrogen Photon Emission">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hydrogen-SpinFlip.svg/374px-Hydrogen-SpinFlip.svg.png" width="300" title="Hydrogen Photon Emission" />
 <p align="center">ഹൈഡ്രജന്‍ ആറ്റത്തിന്‍റെ ഫോട്ടോണ്‍ എമിഷന്‍ കൊസ്മോളജിയില്‍ വളരെ പ്രാധാന്യമുള്ളതാണ്. പ്രപഞ്ചത്തില്‍ ഉള്ള ദ്രവ്യത്തിന്‍റെ ഭൂരിഭാഗവും ഹൈഡ്രജന്‍ ആണല്ലോ. ഈ എമിഷന്‍ ലൈനിനെ 21 cm ലൈന്‍ എന്ന് അറിയപ്പെടുന്നു. ഇവയുടെ പഠനം ഒരു പ്രത്യേക മേഖല തന്നെയാണ് – 21 cm കൊസ്മോളജി എന്ന് ഇത് അറിയപ്പെടുന്നു.</p></p>
 
 
