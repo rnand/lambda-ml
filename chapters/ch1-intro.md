@@ -214,11 +214,13 @@ $$C = HD$$
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hydrogen-SpinFlip.svg/374px-Hydrogen-SpinFlip.svg.png" width="300" title="Hydrogen Photon Emission" />
+<p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Hydrogen-SpinFlip.svg"> Credit: Wikipedia</a></p>
 <p align="center">ഹൈഡ്രജന്‍ ആറ്റത്തിന്‍റെ ഫോട്ടോണ്‍ എമിഷന്‍ കൊസ്മോളജിയില്‍ വളരെ പ്രാധാന്യമുള്ളതാണ്. പ്രപഞ്ചത്തില്‍ ഉള്ള ദ്രവ്യത്തിന്‍റെ ഭൂരിഭാഗവും ഹൈഡ്രജന്‍ ആണല്ലോ. ഈ എമിഷന്‍ ലൈനിനെ 21 cm ലൈന്‍ എന്ന് അറിയപ്പെടുന്നു. ഇവയുടെ പഠനം ഒരു പ്രത്യേക മേഖല തന്നെയാണ് – 21 cm കൊസ്മോളജി എന്ന് ഇത് അറിയപ്പെടുന്നു.</p></p>
 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Redshift.svg/301px-Redshift.svg.png" width="300" title="Reshift -spectra" />
+  <p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/wiki/File:Redshift.svg"> Credit: Wikipedia</a></p>
   <br/><p align="center">സൂര്യനില്‍ നിന്നുള്ള പ്രകാശത്തിന്‍റെ വിസിബിള്‍ സ്പെക്ട്രത്തിന്‍റെ അബ്സോര്‍ബ്ഷഷന്‍ ലൈന്‍ (ഇടത്) - വിദൂരത്തുള്ള ഗാലക്സി ക്ലസ്റ്ററില്‍ നിന്നുള്ള പ്രകാശത്തിന്‍റെ സ്പെക്ട്രത്തിന്‍റെ അബ്സോര്‍ബ്ഷഷന്‍ ലൈന്‍.
 ആരോകള്‍ റെഡ് ഷിഫ്റ്റിനെ ചൂണ്ടിക്കാണിക്കുന്നു.</p></p>
 
