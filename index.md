@@ -67,39 +67,38 @@ The Standard Model of Cosmology (in Malayalam)
 I'll let Carl Sagan explain that:
 
 <div style="background-color:#d2e1c8; padding: 8px">
-<p>" The Cosmos is all that is or ever was or ever will be.
- 
+<p>" The Cosmos is all that is or ever was or ever will be.<br/><br/>
 
 Our contemplations of the Cosmos stirs - there is a tingling in the spine, a catch in the voice, a faint sensation, as if a 
-distant memory, of falling from a height. 
+distant memory, of falling from a height. <br/><br/>
 
 
-We know we are approaching the grandest of mysteries. 
+We know we are approaching the grandest of mysteries. <br/><br/>
 
 
-The size and age of the Cosmos are beyond ordinary human understanding.
+The size and age of the Cosmos are beyond ordinary human understanding.<br/><br/>
 
 
-Lost somewhere between immensity and eternity is our tiny planetary home. 
+Lost somewhere between immensity and eternity is our tiny planetary home. <br/><br/>
 
 
-In a cosmic perspective, most human concerns seem insignificant, even petty.
+In a cosmic perspective, most human concerns seem insignificant, even petty.<br/><br/>
 
 
-And yet our species is young and curious and brave and shows much promise. 
+And yet our species is young and curious and brave and shows much promise. <br/><br/>
 
 
 In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place 
-within it. 
+within it. <br/><br/>
 
-They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival.
+They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival.<br/><br/>
 
 
-I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky. 
+I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky. <br/><br/>
 
 
 We wish to pursue the truth no matter where it leads. But to find the truth, we need imagination and skepticism both.
-We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.
+We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.<br/><br/>
 
 
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."</p>
