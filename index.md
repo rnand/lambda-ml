@@ -98,7 +98,7 @@ I believe our future depends on how well we know this Cosmos in which we float l
 
 
 We wish to pursue the truth no matter where it leads. But to find the truth, we need imagination and skepticism both.
-We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.<br/><br/>
+We will not be afraid to speculate. But we'll be careful to distinguish speculation from fact.<br/><br/>
 
 
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."</p>
