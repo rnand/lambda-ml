@@ -63,34 +63,45 @@ The Standard Model of Cosmology (in Malayalam)
  ഇതില്ലാതെ ഒന്നും നടക്കില്ല!
  
  
- ## എന്തിനാണ് ഞാന്‍ ഇത് ചെയ്യുന്നത്?
+ ### എന്തിനാണ് ഞാന്‍ ഇത് ചെയ്യുന്നത്?
  
  I'll let Carl Sagan explain that:
  
  <div style="background-color:#d2e1c8; border: thin solid black;padding: 8px">
 " The Cosmos is all that is or ever was or ever will be.
+ 
 
 Our contemplations of the Cosmos stirs - there is a tingling in the spine, a catch in the voice, a faint sensation, as if a 
 distant memory, of falling from a height. 
 
+
 We know we are approaching the grandest of mysteries. 
+
 
 The size and age of the Cosmos are beyond ordinary human understanding.
 
+
 Lost somewhere between immensity and eternity is our tiny planetary home. 
+
 
 In a cosmic perspective, most human concerns seem insignificant, even petty.
 
+
 And yet our species is young and curious and brave and shows much promise. 
+
 
 In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place 
 within it. 
+
 They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival.
+
 
 I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky. 
 
+
 We wish to pursue the truth no matter where it leads. But to find the truth, we need imagination and skepticism both.
 We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.
+
 
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."
 </div>
