@@ -90,7 +90,7 @@ They remind us that humans have evolved to wonder, that understanding is a joy, 
 I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky. 
 
 We wish to pursue the truth no matter where it leads. But to find the truth, we need imagination and skepticism both.
-We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.
+We will not be afraid to speculate. But we'll be careful to distinguish speculation from fact.
 
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."
  
