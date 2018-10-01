@@ -68,7 +68,7 @@ The Standard Model of Cosmology (in Malayalam)
  I'll let Carl Sagan explain that:
  
  <div style="background-color:#d2e1c8; border: thin solid black;padding: 8px">
-" The Cosmos is all that is or ever was or ever will be.
+<p>" The Cosmos is all that is or ever was or ever will be.
  
 
 Our contemplations of the Cosmos stirs - there is a tingling in the spine, a catch in the voice, a faint sensation, as if a 
@@ -103,7 +103,7 @@ We wish to pursue the truth no matter where it leads. But to find the truth, we 
 We will not be afraid to speculate. But we'll be careful to distinguish skepticism from fact.
 
 
-The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."
+The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."</p>
 </div>
  
 ### ചാപ്റ്ററുകള്‍
