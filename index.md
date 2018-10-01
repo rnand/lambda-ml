@@ -70,7 +70,7 @@ I'll let Carl Sagan explain that:
 <p>" The Cosmos is all that is or ever was or ever will be.<br/><br/>
 
 Our contemplations of the Cosmos stirs - there is a tingling in the spine, a catch in the voice, a faint sensation, as if a 
-distant memory, of falling from a height. <br/><br/>
+distant memory, of falling from a great height. <br/><br/>
 
 
 We know we are approaching the grandest of mysteries. <br/><br/>
