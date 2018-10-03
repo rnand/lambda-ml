@@ -304,7 +304,7 @@ $$ z = \frac {\lambda_{o}}{\lambda_{e}} - 1 $$<br/><br/>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png" width="300" title="Cosmic Microwave Background" />
-  <br/><p align="center">   Nine year Microwave sky – ഒന്‍പതു വര്‍ഷത്തെ WMAP ഡാറ്റയില്‍ നിന്ന് ചിത്രീകരിച്ച നവജാത പ്രപഞ്ചത്തിന്‍റെ ചിത്രം. 13.77 ബില്ല്യണ്‍ വര്‍ഷത്തെ താപനിലാ വ്യതിയാനങ്ങള്‍ ഇതില്‍ കാണാം (വര്‍ണ്ണ വ്യത്യാസങ്ങള്‍ ഇവ ചൂണ്ടിക്കാട്ടുന്നു). ഇവയാണ് പിന്നീട് ഗാലക്സികളായി പരിണമിച്ചത്.± 200 മൈക്രോ കെല്‍വിന്‍ റേഞ്ചില്‍ ഉള്ള താപനിലയാണ് ഇതില്‍.  </p>
+  <br/><p align="center">   Nine year Microwave sky – ഒന്‍പതു വര്‍ഷത്തെ WMAP ഡാറ്റയില്‍ നിന്ന് ചിത്രീകരിച്ച നവജാത പ്രപഞ്ചത്തിന്‍റെ ചിത്രം. 13.77 ബില്ല്യണ്‍ വര്‍ഷത്തെ താപനിലാ വ്യതിയാനങ്ങള്‍ ഇതില്‍ കാണാം (വര്‍ണ്ണ വ്യത്യാസങ്ങള്‍ ഇവ ചൂണ്ടിക്കാട്ടുന്നു). ഇവയാണ് പിന്നീട് ഗാലക്സികളായി പരിണമിച്ചത്.± 200 മൈക്രോ കെല്‍വിന്‍ റേഞ്ചില്‍ ഉള്ള താപനിലയാണ് ഇതില്‍.  <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Ilc_9yr_moll4096.png"> Credit: NASA / WMAP Science Team, hosted on Wikipedia</a></p></p>
 </p>
 
 
