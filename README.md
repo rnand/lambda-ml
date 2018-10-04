@@ -64,7 +64,7 @@ The Standard Model of Cosmology (in Malayalam)
 
  ഇതില്ലാതെ ഒന്നും നടക്കില്ല!
  
- ## എന്തി
+ ## എന്തിന്
  
  I'll let Carl Sagan explain that:
  
