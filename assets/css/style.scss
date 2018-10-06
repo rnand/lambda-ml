@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 $primary-color: #FF6B6B;
 $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 
