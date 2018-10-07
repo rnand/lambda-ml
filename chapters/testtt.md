@@ -92,7 +92,7 @@ div {
 /* The actual content */
 .content {
     padding: 20px 30px;
-    background-color: white;
+    background-color: #ffe2e2;
     position: relative;
     border-radius: 6px;
 }
