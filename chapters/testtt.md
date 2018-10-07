@@ -16,6 +16,7 @@ div {
 div.epoch{
     position: relative;    
     color: white;
+    z-index: 1;
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Safari 3-8 */
     transform: rotate(-90deg);
