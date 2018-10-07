@@ -13,8 +13,8 @@ div {
 }
 
 /* Epoch text - rotated */
-div.epoch::after{ 
-    content: '';
+div.epoch{ 
+    
     position: relative;    
     left: 0;
     top: 50%;
@@ -104,9 +104,7 @@ div.epoch::after{
   .timeline::after {
     left: 31px;
   }
-  .epoch{
-   left: 31px;
-  }
+  
   
   /* Full-width containers */
   .container {
