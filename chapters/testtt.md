@@ -103,6 +103,9 @@ div.epoch{
   .timeline::after {
     left: 31px;
   }
+  .epoch{
+   left: 31px;
+  }
   
   /* Full-width containers */
   .container {
