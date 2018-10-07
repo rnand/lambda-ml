@@ -85,7 +85,7 @@ div.epoch{
 }
 
 /* Fix the circle for containers on the right side */
-.right::after {
+.left::after, .right::after {
     left: -16px;
 }
 
