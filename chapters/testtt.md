@@ -13,7 +13,8 @@ div {
 }
 
 /* Epoch text - rotated */
-div.epoch{   
+div.epoch::after{ 
+    content: '';
     position: relative;    
     left: 0;
     top: 50%;
