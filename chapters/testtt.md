@@ -85,7 +85,7 @@ div.epoch{
 }
 
 /* Fix the circle for containers on the right side */
-.left::after, .right::after {
+ .right::after {
     left: -16px;
 }
 
@@ -120,7 +120,7 @@ div.epoch{
   }
 
   /* Make sure all circles are at the same spot */
-  .right::after {
+  .left::after, .right::after {
     left: 15px;
   }
   
