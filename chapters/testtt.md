@@ -17,7 +17,7 @@ div {
     content: '';
     position: absolute;
     width: 6px;
-    background-color: black;
+    background-color: #4a494a;
     top: 0;
     bottom: 0;
     left: 50%;
