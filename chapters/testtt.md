@@ -123,7 +123,7 @@ div.epoch{
     left: 60px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent #ffe2e2 transparent transparent;
   }
 
   /* Make sure all circles are at the same spot */
