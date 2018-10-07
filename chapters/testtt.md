@@ -1,6 +1,5 @@
 <style>
-* {
-    box-sizing: border-box;
+
 }
 </style>
 <div class="timeline">
