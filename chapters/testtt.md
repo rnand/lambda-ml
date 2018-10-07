@@ -134,8 +134,8 @@ body {
   }
 }
 </style>
-</head>
-<body>
+
+
 
 <div class="timeline">
   <div class="container left">
@@ -176,5 +176,5 @@ body {
   </div>
 </div>
 
-</body>
+
 
