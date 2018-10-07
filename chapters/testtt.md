@@ -67,7 +67,7 @@ div {
     right: 30px;
     border: medium solid white;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
+    border-color: transparent transparent transparent #ffe2e2;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -81,7 +81,7 @@ div {
     left: 30px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent #ffe2e2 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
