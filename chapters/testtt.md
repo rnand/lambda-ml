@@ -149,9 +149,7 @@ div.epoch{
     <div class="epoch">
             Planck Epoch
         </div>
-  <div class="container left">
-    
-  </div>
+  
   <div class="container right">
     <div class="content">
       <h2>2016</h2>
