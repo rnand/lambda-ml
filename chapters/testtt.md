@@ -1,5 +1,8 @@
-
-
+<style>
+* {
+    box-sizing: border-box;
+}
+</style>
 <div class="timeline">
   <div class="container left">
     <div class="content">
