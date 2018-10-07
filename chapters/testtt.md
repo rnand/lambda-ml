@@ -68,19 +68,7 @@ div.epoch{
     left: 50%;
 }
 
-/* Add arrows to the left container (pointing right) */
-.left::before {
-    content: " ";
-    height: 0;
-    position: absolute;
-    top: 22px;
-    width: 0;
-    z-index: 1;
-    right: 30px;
-    border: medium solid white;
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent #ffe2e2;
-}
+
 
 /* Add arrows to the right container (pointing left) */
 .right::before {
