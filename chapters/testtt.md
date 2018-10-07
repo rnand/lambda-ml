@@ -14,7 +14,7 @@ div {
 
 /* Epoch text - rotated */
 div.epoch{
-    position: relative    
+    position: relative;    
     color: white;
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Safari 3-8 */
