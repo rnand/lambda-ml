@@ -141,13 +141,14 @@ div.epoch{
 
 
 <div class="timeline">
+    <div class="epoch">
+            Planck Epoch
+        </div>
   <div class="container left">
     <div class="content">
       <h2>2017</h2>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-        <div class="epoch">
-            Planck Epoch
-        </div>
+        
     </div>
   </div>
   <div class="container right">
