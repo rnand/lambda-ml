@@ -120,7 +120,7 @@ div.epoch{
   }
 
   /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
+  .right::after {
     left: 15px;
   }
   
