@@ -5,7 +5,7 @@
 /* The actual timeline (the vertical ruler) */
 .timeline {
     position: relative;
-    
+    box-sizing: border-box;
     margin: 0 auto;
 }
 
