@@ -13,11 +13,10 @@ div {
 }
 
 /* Epoch text - rotated */
-div.epoch{
-   
+div.epoch{   
     position: absolute;    
-    left: 50%;
-    top: 50px;
+    left: 40%;
+    top: 70px;
     color: #FF9F55;
     z-index: 1;
     -ms-transform: rotate(-90deg); /* IE 9 */
