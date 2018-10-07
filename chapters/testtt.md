@@ -14,7 +14,7 @@ div {
 
 /* Epoch text - rotated */
 div.epoch{   
-    position: absolute;    
+    position: relative;    
     left: 0;
     top: 50%;
     color: #FF9F55;
