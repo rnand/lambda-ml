@@ -134,7 +134,7 @@ div.epoch{
 
 <div class="timeline">
     
-  <div class="container left">
+  <div class="container left2">
     <div class="epoch">
             Planck Epoch
     </div>
