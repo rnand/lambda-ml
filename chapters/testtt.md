@@ -12,6 +12,13 @@ div {
     margin: 0 auto;
 }
 
+/* Epoch text - rotated */
+div.epoch{
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Safari 3-8 */
+    transform: rotate(-90deg);
+}
+
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
     content: '';
@@ -137,6 +144,9 @@ div {
     <div class="content">
       <h2>2017</h2>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+        <div class="epoch">
+            Planck Epoch
+        </div>
     </div>
   </div>
   <div class="container right">
