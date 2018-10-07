@@ -150,11 +150,7 @@ div.epoch{
             Planck Epoch
         </div>
   <div class="container left">
-    <div class="content">
-      <h2>\(10^{-43} s\)</h2>
-      <p>Lorem ipsum dolor sit amet, </p>
-        
-    </div>
+    
   </div>
   <div class="container right">
     <div class="content">
