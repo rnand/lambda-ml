@@ -120,3 +120,8 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 2. Cosmology lecture series by Leonard Susskind
 3. Modern Cosmology 1st Edition by Scott Dodelson
 4. Physical Foundations of Cosmology 1st Edition by Viatcheslav Mukhanov
+
+<div style="background-color:#d2e1c8; padding: 8px">
+The goal is to understand, not to memorize.
+മനസ്സിലാക്കുക എന്നതാണ് നമ്മുടെ ലക്ഷ്യം, കാണാപ്പാഠം ആക്കുക അല്ല.
+ </div>
