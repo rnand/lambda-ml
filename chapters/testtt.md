@@ -144,32 +144,80 @@ div.epoch{
   
   <div class="container right">
     <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2015</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>\\(10^{-43}s\\)</h2>
+      <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2012</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2011</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>\\(10^{-36}s\\)</h2>
+      <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2007</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>\\(10^{-32}s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(10^{-12}s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(10^{-6}s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(1 s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(10 s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(10^{3}s\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(1.2 * 10^{13}s (380 ka)\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(150 Ma\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(1 Ga\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(10 Ga\\)</h2>
+      <p></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>\\(13.8 Ga\\)</h2>
+      <p>Today</p>
     </div>
   </div>
 </div>
