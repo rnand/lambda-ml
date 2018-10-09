@@ -144,79 +144,79 @@ div.epoch{
   
   <div class="container right">
     <div class="content">
-      <h2>\(10^{-43}s\)</h2>
+      <p>\(10^{-43}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10^{-36}s\)</h2>
+      <p>\(10^{-36}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10^{-32}s\)</h2>
+      <p>\(10^{-32}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10^{-12}s\)</h2>
+      <p>\(10^{-12}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10^{-6}s\)</h2>
+      <p>\(10^{-6}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(1 s\)</h2>
+      <p>\(1 s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10 s\)</h2>
+      <p>\(10 s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10^{3}s\)</h2>
+      <p>\(10^{3}s\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(1.2 * 10^{13}s (380 ka)\)</h2>
+      <p>\(1.2 * 10^{13}s (380 ka)\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(150 Ma\)</h2>
+      <p>\(150 Ma\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(1 Ga\)</h2>
+      <p>\(1 Ga\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(10 Ga\)</h2>
+      <p>\(10 Ga\)</p>
       <p></p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>\(13.8 Ga\)</h2>
+      <p>\(13.8 Ga\)</p>
       <p>Today</p>
     </div>
   </div>
