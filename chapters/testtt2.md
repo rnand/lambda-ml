@@ -1,7 +1,7 @@
 
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" />
-  <circle cx="250" cy="100" r="10" fill="red" />
+  <circle cx="250" cy="100" r="10" fill="red" /><text x="255" y="100" fill="red">\(10^{-43}s\)</text>
   <circle cx="250" cy="200" r="10" fill="red" />
   <circle cx="250" cy="300" r="10" fill="red" />
   <circle cx="250" cy="400" r="10" fill="red" />
