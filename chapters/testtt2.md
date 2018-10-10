@@ -5,6 +5,7 @@
   <circle cx="250" cy="200" r="10" fill="red" />
   <circle cx="250" cy="300" r="10" fill="red" />
   <circle cx="250" cy="400" r="10" fill="red" />
+  <circle cx="250" cy="500" r="10" fill="red" />
   <circle cx="250" cy="600" r="10" fill="red" />
   <circle cx="250" cy="700" r="10" fill="red" />
   <circle cx="250" cy="800" r="10" fill="red" />
