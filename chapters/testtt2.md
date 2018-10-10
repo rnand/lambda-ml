@@ -18,6 +18,11 @@
 
 </style>
 
+<div class="outer">
+ <canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+</div>
+
 
 <script>
 var c = document.getElementById("myCanvas");
@@ -40,7 +45,3 @@ ctx4.font = "30px Arial";
 ctx4.fillText("Hello World",250,120);
 </script>
 
-<div class="outer">
- <canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
-Your browser does not support the HTML5 canvas tag.</canvas>
-</div>
