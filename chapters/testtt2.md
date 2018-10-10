@@ -19,7 +19,7 @@
 </style>
 
 <div class="outer">
- <canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
+ <canvas id="myCanvas"  height="1800" style="display: block;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 </div>
 
