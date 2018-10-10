@@ -3,9 +3,21 @@
   border: solid 1px blue;  
   width: 100%;
 }
+  
+  .outer {
+ position: relative;
+ width: 100%;
+ padding-bottom: 100%;
+}
+
+#canvas {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+}
+
 </style>
-<canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
-Your browser does not support the HTML5 canvas tag.</canvas>
+
 
 <script>
 var c = document.getElementById("myCanvas");
@@ -27,3 +39,8 @@ var ctx4 = c.getContext("2d");
 ctx4.font = "30px Arial";
 ctx4.fillText("Hello World",250,120);
 </script>
+
+<div class="outer">
+ <canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+</div>
