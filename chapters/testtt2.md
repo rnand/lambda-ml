@@ -32,7 +32,7 @@
   <circle cx="250" cy="2900" r="10" fill="red" />
   <circle cx="250" cy="3000" r="10" fill="red" />
   <circle cx="250" cy="3100" r="10" fill="red" />
-  <line x1="260" y1="3150" x2="360" y2="3150" style="stroke:black; stroke-width:2;" />
+  <line x1="260" y1="3150" x2="360" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="370" y="3150" fill="red">TODAY</text>
   <circle cx="250" cy="3200" r="10" fill="red" />
   <a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"><text x="0" y="15" fill="red">I love SVG!</text></a>
 </svg>
