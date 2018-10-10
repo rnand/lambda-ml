@@ -1,8 +1,5 @@
 <style>
-#canvas{
-  border: solid 1px blue;  
-  width: 100%;
-}
+
   
   .outer {
  position: relative;
