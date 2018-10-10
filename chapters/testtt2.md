@@ -22,6 +22,8 @@ Your browser does not support the HTML5 canvas tag.</canvas>
 
 <script>
 var c = document.getElementById("myCanvas");
+c.width=1000;//horizontal resolution (?) - increase for better looking text
+c.height=500;//vertical resolution (?) - increase for better looking text
 var ctx = c.getContext("2d");
 ctx.moveTo(200,0);
 ctx.lineTo(200,1800);
