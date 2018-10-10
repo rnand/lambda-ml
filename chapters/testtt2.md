@@ -1,3 +1,9 @@
+<style>
+#canvas{
+  border: solid 1px blue;  
+  width: 100%;
+}
+</style>
 <canvas id="myCanvas"  height="1800" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 
