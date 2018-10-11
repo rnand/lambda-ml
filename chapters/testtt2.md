@@ -15,7 +15,7 @@
   <line x1="200" y1="50" x2="200" y2="85" style="stroke:black; stroke-width:1;" />
   <text x="130" y="100" font-size="12px" fill="red">പ്ലാങ്ക് യുഗം </text>
   <text x="130" y="120" font-size="12px" fill="red">(Planck Epoch)</text>
-  <line x1="200" y1="125" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="125" x2="200" y2="148" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="148" x2="220" y2="148" style="stroke:black; stroke-width:1;" />
   
   
@@ -23,8 +23,16 @@
   <line x1="200" y1="150" x2="200" y2="285" style="stroke:black; stroke-width:1;" />
   <text x="50" y="300" font-size="10px" fill="red">ഗ്രാന്‍ഡ്‌ യൂണിഫിക്കേഷന്‍ യുഗം</text>
   <text x="50" y="320" font-size="10px" fill="red">(Grand Unification Epoch)</text>
-  <line x1="200" y1="325" x2="200" y2="500" style="stroke:black; stroke-width:1;" />
-  <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="325" x2="200" y2="498" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="498" x2="220" y2="498" style="stroke:black; stroke-width:1;" />
+  
+  
+  <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" /><!--Inflationary, Electro-weak Epoch -->
+  <line x1="200" y1="500" x2="200" y2="550" style="stroke:black; stroke-width:1;" />
+  <text x="50" y="300" font-size="10px" fill="red">ഇന്‍ഫ്ലേഷണറി, ഇലക്ട്രോ വീക്ക് യുഗം</text>
+  <text x="50" y="320" font-size="10px" fill="red">(Inflationary, Electro-weak Epoch)</text>
+  <line x1="200" y1="555" x2="200" y2="700" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="700" x2="220" y2="700" style="stroke:black; stroke-width:1;" />
   
   
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
