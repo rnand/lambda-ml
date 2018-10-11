@@ -52,7 +52,7 @@
    
    
    <line x1="200" y1="2300" x2="220" y2="2300" style="stroke:black; stroke-width:1;" /><!--Lepton Epoch -->
-   <line x1="200" y1="2300" x2="200" y2="2320" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2300" x2="200" y2="2315" style="stroke:black; stroke-width:1;" />
    <text x="130" y="2326" font-size="12px" fill="red">ലെപ്റ്റോണ്‍ യുഗം </text>
    <text x="130" y="2340" font-size="12px" fill="red">(Lepton Epoch)</text>
    <line x1="200" y1="2345" x2="200" y2="2350" style="stroke:black; stroke-width:1;" />
@@ -251,7 +251,7 @@
   <circle cx="250" cy="2300" r="5" fill="red" /> 
   <line x1="250" y1="2300" x2="280" y2="2320" style="stroke:black; stroke-width:2;" /> 
   <text x="285" y="2320" font-size="10px" fill="red">ന്യൂട്രിനോ ഡീ കപ്ലിംഗ്</text>
-  <text x="285" y="2336" font-size="10px" fill="red">(Neutrino Decoupling)</text>
+  <text x="285" y="2332" font-size="10px" fill="red">(Neutrino Decoupling)</text>
   
   
   <line x1="240" y1="2350" x2="260" y2="2350" style="stroke:black; stroke-width:1;" />  <!-- Mark 23.5 with 10^1 s-->
