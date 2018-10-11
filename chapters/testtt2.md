@@ -28,9 +28,9 @@
   
   
   <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" /><!--Inflationary, Electro-weak Epoch -->
-  <line x1="200" y1="500" x2="200" y2="580" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="500" x2="200" y2="578" style="stroke:black; stroke-width:1;" />
   <text x="35" y="584" font-size="10px" fill="red">ഇന്‍ഫ്ലേഷണറി, ഇലക്ട്രോ വീക്ക് യുഗം</text>
-  <text x="35" y="596" font-size="10px" fill="red">(Inflationary, Electro-weak Epoch)</text>
+  <text x="35" y="598" font-size="10px" fill="red">(Inflationary, Electro-weak Epoch)</text>
   <line x1="200" y1="600" x2="200" y2="700" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="700" x2="220" y2="700" style="stroke:black; stroke-width:1;" />
   
