@@ -106,82 +106,87 @@
   <circle cx="250" cy="1800" r="10" fill="red" />
   <foreignObject x="270" y="1785" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-20}s\)
+    \(10^{-10}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="1900" r="10" fill="red" />
   <foreignObject x="270" y="1885" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-18}s\)
+    \(10^{-8}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2000" r="10" fill="red" />
   <foreignObject x="270" y="1985" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-16}s\)
+    \(10^{-6}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2100" r="10" fill="red" />
   <foreignObject x="270" y="2085" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-14}s\)
+    \(10^{-4}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2200" r="10" fill="red" />
   <foreignObject x="270" y="2185" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-12}s\)
+    \(10^{-2}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2300" r="10" fill="red" />
-  <foreignObject x="270" y="2285" width="100" height="100">
+  <foreignObject x="270" y="2285" width="200" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-10}s\)
+    \(10^{-0}s\) 1 second
     </div>
   </foreignObject>
   <circle cx="250" cy="2400" r="10" fill="red" />
   <foreignObject x="270" y="2385" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-8}s\)
+    \(10^{2}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2500" r="10" fill="red" />
   <foreignObject x="270" y="2485" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-6}s\)
+    \(10^{4}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2600" r="10" fill="red" />
   <foreignObject x="270" y="2585" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-4}s\)
+    \(10^{6}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2700" r="10" fill="red" />
   <foreignObject x="270" y="2685" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-2}s\)
+    \(10^{8}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2800" r="10" fill="red" />
   <foreignObject x="270" y="2785" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{-0}s\) (1 second)
+    \(10^{10}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="2900" r="10" fill="red" />
   <foreignObject x="270" y="2885" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{2}s\)
+    \(10^{12}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="3000" r="10" fill="red" />
   <foreignObject x="270" y="2985" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(10^{4}s\)
+    \(10^{14}s\)
     </div>
   </foreignObject>
   <circle cx="250" cy="3100" r="10" fill="red" />
+  <foreignObject x="270" y="3085" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(10^{16}s\)
+    </div>
+  </foreignObject>
   <line x1="260" y1="3150" x2="360" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="365" y="3155" fill="red">TODAY</text>
   <circle cx="250" cy="3200" r="10" fill="red" />
   
