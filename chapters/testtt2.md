@@ -21,8 +21,8 @@
   
   <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" /> <!-- Grand unification Epoch -->
   <line x1="200" y1="150" x2="200" y2="285" style="stroke:black; stroke-width:1;" />
-  <text x="10" y="300" font-size="10px" fill="red">ഗ്രാന്‍ഡ്‌ യൂണിഫിക്കേഷന്‍ യുഗം</text>
-  <text x="10" y="320" font-size="10px" fill="red">(Grand Unification Epoch)</text>
+  <text x="50" y="300" font-size="10px" fill="red">ഗ്രാന്‍ഡ്‌ യൂണിഫിക്കേഷന്‍ യുഗം</text>
+  <text x="50" y="320" font-size="10px" fill="red">(Grand Unification Epoch)</text>
   <line x1="200" y1="325" x2="200" y2="500" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" />
   
