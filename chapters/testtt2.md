@@ -1,32 +1,43 @@
 
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
-  <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" />
-  <line x1="240" y1="100" x2="260" y2="100" style="stroke:black; stroke-width:2;" />
   
+  <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" /> <!-- The main vertical line -->
+  
+  <line x1="240" y1="100" x2="260" y2="100" style="stroke:black; stroke-width:2;" />  <!-- Mark 1 with 10^-44 s-->
   <foreignObject x="270" y="85" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-44}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="200" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="100" x2="260" y2="200" style="stroke:black; stroke-width:2;" />  <!-- Mark 2 with 10^-42 s-->
   <foreignObject x="270" y="185" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-42}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="300" r="10" fill="red" />
+  
+  
+   <line x1="240" y1="100" x2="260" y2="300" style="stroke:black; stroke-width:2;" />  <!-- Mark 3 with 10^-40 s-->
    <foreignObject x="270" y="285" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-40}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="400" r="10" fill="red" />
+  
+  
+  
+  <line x1="240" y1="100" x2="260" y2="400" style="stroke:black; stroke-width:2;" />  <!-- Mark 4 with 10^-38 s-->
    <foreignObject x="270" y="385" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-38}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="500" r="10" fill="red" />
+  
+  
+  
+  <line x1="240" y1="100" x2="260" y2="500" style="stroke:black; stroke-width:2;" />  <!-- Mark 5 with 10^-36 s-->
    <foreignObject x="270" y="485" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-36}s\)
