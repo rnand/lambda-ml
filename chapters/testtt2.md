@@ -11,6 +11,14 @@
   </foreignObject>
   
   
+  <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
+  <foreignObject x="270" y="135" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(\small{10^{-43}s}\)
+    </div>
+  </foreignObject>
+  
+  
   <line x1="240" y1="200" x2="260" y2="200" style="stroke:black; stroke-width:2;" />  <!-- Mark 2 with 10^-42 s-->
   <foreignObject x="270" y="185" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
@@ -253,7 +261,7 @@
     </div>
   </foreignObject>
   
-  <line x1="240" y1="3150" x2="260" y2="3150" style="stroke:black; stroke-width:2;" />  <!-- Mark 32 with 10^17 s-->
+  <line x1="240" y1="3150" x2="260" y2="3150" style="stroke:black; stroke-width:1;" />  <!-- Mark 31.5 with 10^17 s-->
   <foreignObject x="270" y="3135" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{17}s\)
