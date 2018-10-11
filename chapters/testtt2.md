@@ -56,7 +56,7 @@
    <text x="130" y="2326" font-size="12px" fill="red">ലെപ്റ്റോണ്‍ യുഗം </text>
    <text x="130" y="2340" font-size="12px" fill="red">(Lepton Epoch)</text>
    <line x1="200" y1="2345" x2="200" y2="2350" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;/>
+   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;"/>
    
    
   
@@ -255,7 +255,7 @@
   
   
   <line x1="240" y1="2350" x2="260" y2="2350" style="stroke:black; stroke-width:1;" />  <!-- Mark 23.5 with 10^1 s-->
-  <foreignObject x="270" y="2350" width="100" height="100">
+  <foreignObject x="270" y="2330" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(\small{10^{1}s} (10 seconds)\)
     </div>
