@@ -11,13 +11,18 @@
   </foreignObject>
   
   
-  <line x1="200" y1="50" x2="220" y2="50" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="50" x2="220" y2="50" style="stroke:black; stroke-width:1;" /> <!-- Planck Epoch -->
   <line x1="200" y1="50" x2="200" y2="85" style="stroke:black; stroke-width:1;" />
   <text x="90" y="100" font-size="10px" fill="red">പ്ലാങ്ക് യുഗം (Planck Epoch)</text>
   <line x1="200" y1="115" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
-  <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="149" x2="220" y2="149" style="stroke:black; stroke-width:1;" />
   
   
+  <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" /> <!-- Grand unification Epoch -->
+  <line x1="200" y1="150" x2="200" y2="285" style="stroke:black; stroke-width:1;" />
+  <text x="50" y="300" font-size="10px" fill="red">ഗ്രാന്‍ഡ്‌ യൂണിഫിക്കേഷന്‍ യുഗം (Grand Unification Epoch)</text>
+  <line x1="200" y1="310" x2="200" y2="500" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" />
   
   
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
