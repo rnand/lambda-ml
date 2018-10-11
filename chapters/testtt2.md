@@ -45,8 +45,8 @@
   
   <line x1="200" y1="2000" x2="220" y2="2000" style="stroke:black; stroke-width:1;" /><!--Hadron Epoch -->
   <line x1="200" y1="2000" x2="200" y2="2150" style="stroke:black; stroke-width:1;" />
-  <text x="130" y="1900" font-size="12px" fill="red">ഹാഡ്രോണ്‍ യുഗം </text>
-  <text x="130" y="1913" font-size="12px" fill="red">(Hadron Epoch)</text>
+  <text x="130" y="2160" font-size="12px" fill="red">ഹാഡ്രോണ്‍ യുഗം </text>
+  <text x="130" y="2172" font-size="12px" fill="red">(Hadron Epoch)</text>
    <line x1="200" y1="2190" x2="200" y2="2300" style="stroke:black; stroke-width:1;" />
    <line x1="200" y1="2300" x2="220" y2="2300" style="stroke:black; stroke-width:1;" />
   
