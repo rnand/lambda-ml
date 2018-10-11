@@ -2,7 +2,7 @@
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" />
   <circle cx="250" cy="100" r="10" fill="red" />
-  <foreignObject x="255" y="100" width="100" height="100">
+  <foreignObject x="260" y="95" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-43}s\)
     </div>
