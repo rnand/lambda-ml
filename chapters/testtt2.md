@@ -237,7 +237,7 @@
   </foreignObject>
   
   <circle cx="250" cy="2300" r="5" fill="red" /> 
-  <line x1="180" y1="2300" x2="150" y2="2300" style="stroke:black; stroke-width:2;" /> <text x="10" y="2300" fill="red">ന്യൂട്രിനോ ഡീ കപ്ലിംഗ് (Neutrino Decoupling)</text>
+  <line x1="250" y1="2300" x2="280" y2="2180" style="stroke:black; stroke-width:2;" /> <text x="10" y="2300" fill="red">ന്യൂട്രിനോ ഡീ കപ്ലിംഗ് (Neutrino Decoupling)</text>
   
   <line x1="240" y1="2400" x2="260" y2="2400" style="stroke:black; stroke-width:2;" />  <!-- Mark 24 with 10^2 s-->
   <foreignObject x="270" y="2385" width="100" height="100">
