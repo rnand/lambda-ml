@@ -35,6 +35,14 @@
   <line x1="200" y1="700" x2="220" y2="700" style="stroke:black; stroke-width:1;" />
   
   
+  <line x1="200" y1="1700" x2="220" y2="1700" style="stroke:black; stroke-width:1;" /><!--Quark Epoch -->
+  <line x1="200" y1="1700" x2="200" y2="1850" style="stroke:black; stroke-width:1;" />
+  <text x="130" y="1900" font-size="12px" fill="red">ക്വാര്‍ക്ക് യുഗം </text>
+  <text x="130" y="1913" font-size="12px" fill="red">(Quark Epoch)</text>
+  <line x1="200" y1="1920" x2="200" y2="2000" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="2000" x2="220" y2="2000" style="stroke:black; stroke-width:1;" />
+  
+  
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
   <foreignObject x="270" y="135" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
