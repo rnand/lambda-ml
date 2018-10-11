@@ -2,7 +2,7 @@
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" />
   <circle cx="250" cy="100" r="10" fill="red" />
-  <foreignObject x="260" y="95" width="100" height="100">
+  <foreignObject x="270" y="80" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-43}s\)
     </div>
@@ -39,5 +39,5 @@
   <circle cx="250" cy="3100" r="10" fill="red" />
   <line x1="260" y1="3150" x2="360" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="365" y="3155" fill="red">TODAY</text>
   <circle cx="250" cy="3200" r="10" fill="red" />
-  <a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"><text x="0" y="15" fill="red">I love SVG!</text></a>
+  
 </svg>
