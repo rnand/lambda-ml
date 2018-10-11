@@ -243,13 +243,6 @@
   </foreignObject>
   
   
-  line x1="240" y1="2350" x2="260" y2="2350" style="stroke:black; stroke-width:1;" />  <!-- Mark 23.5 with 10^1 s-->
-  <foreignObject x="270" y="2355" width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(\small{10^{1}s} (10 seconds)\)
-    </div>
-  </foreignObject>
-  
   
   <circle cx="250" cy="2300" r="5" fill="red" /> 
   <line x1="250" y1="2300" x2="280" y2="2320" style="stroke:black; stroke-width:2;" /> 
@@ -257,6 +250,13 @@
   <text x="285" y="2346" font-size="10px" fill="red">(Neutrino Decoupling)</text>
   
   
+  <line x1="240" y1="2350" x2="260" y2="2350" style="stroke:black; stroke-width:1;" />  <!-- Mark 23.5 with 10^1 s-->
+  <foreignObject x="270" y="2355" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(\small{10^{1}s} (10 seconds)\)
+    </div>
+  </foreignObject>
+
   
   <line x1="240" y1="2400" x2="260" y2="2400" style="stroke:black; stroke-width:2;" />  <!-- Mark 24 with 10^2 s-->
   <foreignObject x="270" y="2385" width="100" height="100">
