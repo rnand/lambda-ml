@@ -254,7 +254,7 @@
   </foreignObject>
   
   <line x1="240" y1="3150" x2="260" y2="3150" style="stroke:black; stroke-width:2;" />  <!-- Mark 32 with 10^17 s-->
-  <foreignObject x="270" y="3085" width="100" height="100">
+  <foreignObject x="270" y="3150" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{17}s\)
     </div>
