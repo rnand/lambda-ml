@@ -1,7 +1,8 @@
 
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" />
-  <circle cx="250" cy="100" r="10" fill="red" />
+  <line x1="240" y1="100" x2="260" y2="100" style="stroke:black; stroke-width:2;" />
+  
   <foreignObject x="270" y="85" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-44}s\)
