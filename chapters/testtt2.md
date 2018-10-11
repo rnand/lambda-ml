@@ -331,7 +331,7 @@
     \(\small{10^{17}s}\)
     </div>
   </foreignObject>
-  <line x1="315" y1="3150" x2="380" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="385" y="3155" fill="red">ഇന്ന്‍ (TODAY)</text>
+  <line x1="315" y1="3150" x2="380" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="385" y="3155" fill="red">ഇന്ന്‍(TODAY)</text>
   
   
 </svg>
