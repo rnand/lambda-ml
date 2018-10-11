@@ -13,9 +13,9 @@
   
   <line x1="200" y1="50" x2="220" y2="50" style="stroke:black; stroke-width:1;" /> <!-- Planck Epoch -->
   <line x1="200" y1="50" x2="200" y2="85" style="stroke:black; stroke-width:1;" />
-  <text x="120" y="100" font-size="12px" fill="red">പ്ലാങ്ക് യുഗം </text>
-  <text x="120" y="120" font-size="12px" fill="red">(Planck Epoch)</text>
-  <line x1="200" y1="115" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
+  <text x="130" y="100" font-size="12px" fill="red">പ്ലാങ്ക് യുഗം </text>
+  <text x="130" y="120" font-size="12px" fill="red">(Planck Epoch)</text>
+  <line x1="200" y1="125" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="148" x2="220" y2="148" style="stroke:black; stroke-width:1;" />
   
   
