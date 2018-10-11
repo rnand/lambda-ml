@@ -10,6 +10,7 @@
     </div>
   </foreignObject>
   
+  <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" />
   
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
   <foreignObject x="270" y="135" width="100" height="100">
