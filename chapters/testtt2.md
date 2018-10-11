@@ -12,7 +12,9 @@
   
   
   <line x1="200" y1="50" x2="220" y2="50" style="stroke:black; stroke-width:1;" />
-  <line x1="200" y1="50" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="50" x2="200" y2="90" style="stroke:black; stroke-width:1;" />
+  <text x="200" y="100" fill="red">പ്ലാങ്ക് യുഗം (Planck Epoch)</text>
+  <line x1="200" y1="90" x2="200" y2="150" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" />
   
   
