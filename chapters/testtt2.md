@@ -44,67 +44,89 @@
     </div>
   </foreignObject>
   
-  <circle cx="250" cy="600" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="600" x2="260" y2="600" style="stroke:black; stroke-width:2;" />  <!-- Mark 6 with 10^-34 s-->
    <foreignObject x="270" y="585" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-34}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="700" r="10" fill="red" />
+  
+    
+  <line x1="240" y1="700" x2="260" y2="700" style="stroke:black; stroke-width:2;" />  <!-- Mark 7 with 10^-32 s-->
    <foreignObject x="270" y="685" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-32}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="800" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="800" x2="260" y2="800" style="stroke:black; stroke-width:2;" />  <!-- Mark 8 with 10^-30 s-->
    <foreignObject x="270" y="785" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-30}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="900" r="10" fill="red" />
+  
+  
+   <line x1="240" y1="900" x2="260" y2="900" style="stroke:black; stroke-width:2;" />  <!-- Mark 9 with 10^-28 s-->
    <foreignObject x="270" y="885" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-28}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1000" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1000" x2="260" y2="1000" style="stroke:black; stroke-width:2;" />  <!-- Mark 10 with 10^-26 s-->
    <foreignObject x="270" y="985" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-26}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1100" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1100" x2="260" y2="1100" style="stroke:black; stroke-width:2;" />  <!-- Mark 11 with 10^-24 s-->
    <foreignObject x="270" y="1085" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-24}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1200" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1200" x2="260" y2="1200" style="stroke:black; stroke-width:2;" />  <!-- Mark 12 with 10^-22 s-->
   <foreignObject x="270" y="1185" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-22}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1300" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1300" x2="260" y2="1300" style="stroke:black; stroke-width:2;" />  <!-- Mark 13 with 10^-20 s-->
   <foreignObject x="270" y="1285" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-20}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1400" r="10" fill="red" />
+  
+ 
+  <line x1="240" y1="1400" x2="260" y2="1400" style="stroke:black; stroke-width:2;" />  <!-- Mark 14 with 10^-18 s-->
   <foreignObject x="270" y="1385" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-18}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1500" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1500" x2="260" y2="1500" style="stroke:black; stroke-width:2;" />  <!-- Mark 15 with 10^-16 s-->
   <foreignObject x="270" y="1485" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-16}s\)
     </div>
   </foreignObject>
-  <circle cx="250" cy="1600" r="10" fill="red" />
+  
+  
+  <line x1="240" y1="1600" x2="260" y2="1600" style="stroke:black; stroke-width:2;" />  <!-- Mark 16 with 10^-14 s-->
   <foreignObject x="270" y="1585" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{-14}s\)
