@@ -28,10 +28,10 @@
   
   
   <line x1="200" y1="500" x2="220" y2="500" style="stroke:black; stroke-width:1;" /><!--Inflationary, Electro-weak Epoch -->
-  <line x1="200" y1="500" x2="200" y2="560" style="stroke:black; stroke-width:1;" />
-  <text x="50" y="562" font-size="10px" fill="red">ഇന്‍ഫ്ലേഷണറി, ഇലക്ട്രോ വീക്ക് യുഗം</text>
-  <text x="50" y="568" font-size="10px" fill="red">(Inflationary, Electro-weak Epoch)</text>
-  <line x1="200" y1="570" x2="200" y2="700" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="500" x2="200" y2="580" style="stroke:black; stroke-width:1;" />
+  <text x="50" y="582" font-size="10px" fill="red">ഇന്‍ഫ്ലേഷണറി, ഇലക്ട്രോ വീക്ക് യുഗം</text>
+  <text x="50" y="590" font-size="10px" fill="red">(Inflationary, Electro-weak Epoch)</text>
+  <line x1="200" y1="595" x2="200" y2="700" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="700" x2="220" y2="700" style="stroke:black; stroke-width:1;" />
   
   
