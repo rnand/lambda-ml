@@ -56,7 +56,7 @@
    <text x="130" y="2326" font-size="12px" fill="red">ലെപ്റ്റോണ്‍ യുഗം </text>
    <text x="130" y="2340" font-size="12px" fill="red">(Lepton Epoch)</text>
    <line x1="200" y1="2345" x2="200" y2="2350" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;
+   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;/>
    
    
   
