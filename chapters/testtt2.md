@@ -36,7 +36,7 @@
   
   
   <line x1="200" y1="1700" x2="220" y2="1700" style="stroke:black; stroke-width:1;" /><!--Quark Epoch -->
-  <line x1="200" y1="1700" x2="200" y2="1890" style="stroke:black; stroke-width:1;" />
+  <line x1="200" y1="1700" x2="200" y2="1880" style="stroke:black; stroke-width:1;" />
   <text x="130" y="1900" font-size="12px" fill="red">ക്വാര്‍ക്ക് യുഗം </text>
   <text x="130" y="1913" font-size="12px" fill="red">(Quark Epoch)</text>
   <line x1="200" y1="1925" x2="200" y2="1998" style="stroke:black; stroke-width:1;" />
