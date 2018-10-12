@@ -1,4 +1,5 @@
-**പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍** (Scale: 2 orders of magnitude)     
+**പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍** 
+(Scale: logarithmic)     
 
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   
