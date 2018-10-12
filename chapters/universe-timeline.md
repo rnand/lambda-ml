@@ -92,8 +92,8 @@
   
    <line x1="200" y1="3100" x2="220" y2="3100" style="stroke:black; stroke-width:1;" /><!-- Galaxy formation -->
    <line x1="200" y1="3100" x2="200" y2="3120" style="stroke:black; stroke-width:1;" />
-   <text x="90" y="3125" font-size="10px" fill="red">ഗാലക്സികളുടെ ഉത്ഭവം  </text>
-   <text x="90" y="3137" font-size="10px" fill="red">(Galaxy formation)</text>
+   <text x="90" y="3129" font-size="10px" fill="red">ഗാലക്സികളുടെ ഉത്ഭവം  </text>
+   <text x="90" y="3141" font-size="10px" fill="red">(Galaxy formation)</text>
    <line x1="200" y1="3146" x2="200" y2="3150" style="stroke:black; stroke-width:1;" />
    <line x1="200" y1="3150" x2="220" y2="3150" style="stroke:black; stroke-width:1;"/>
   
