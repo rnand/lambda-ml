@@ -1,3 +1,4 @@
+**പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍ ** ( സ്കെയില്‍: 2 ഓഡര്‍ ഓഫ് മാഗ്നിറ്റ്യൂഡ്)     
 
 <svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
   
