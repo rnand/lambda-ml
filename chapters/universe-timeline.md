@@ -86,8 +86,8 @@
    <line x1="200" y1="3050" x2="200" y2="3083" style="stroke:black; stroke-width:1;" />
    <text x="130" y="3095" font-size="10px" fill="red">റീ അയോണൈസേഷന്‍ </text>
    <text x="130" y="3107" font-size="10px" fill="red">(Reionization)</text>
-   <line x1="200" y1="3119" x2="200" y2="3198" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="3198" x2="220" y2="3198" style="stroke:black; stroke-width:1;"/>
+   <line x1="200" y1="3119" x2="200" y2="3098" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="3098" x2="220" y2="3098" style="stroke:black; stroke-width:1;"/>
   
   
   
