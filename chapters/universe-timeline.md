@@ -59,7 +59,7 @@
    <line x1="200" y1="2348" x2="220" y2="2348" style="stroke:black; stroke-width:1;"/>
    
    <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;" /><!--Big Bang Nucleosynthesis -->
-   <line x1="200" y1="2350" x2="200" y2="2395" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2350" x2="200" y2="2388" style="stroke:black; stroke-width:1;" />
    <text x="50" y="2400" font-size="10px" fill="red">ബിഗ്‌ ബാംഗ്‌ നൂക്ലിയോ സിന്തസിസ് </text>
    <text x="50" y="2412" font-size="10px" fill="red">(Big Bang Nucleosynthesis)</text>
    <line x1="200" y1="2417" x2="200" y2="2450" style="stroke:black; stroke-width:1;" />
