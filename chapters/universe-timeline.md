@@ -71,7 +71,15 @@
    <text x="130" y="2700" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
    <text x="130" y="2712" font-size="10px" fill="red">(Photon Epoch)</text>
    <line x1="200" y1="2717" x2="200" y2="2950" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;"/>
+   <line x1="200" y1="2948" x2="220" y2="2948" style="stroke:black; stroke-width:1;"/>
+   
+   
+   <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;" /><!-- Dark Ages -->
+   <line x1="200" y1="2950" x2="200" y2="2988" style="stroke:black; stroke-width:1;" />
+   <text x="130" y="3000" font-size="10px" fill="red">ഇരുണ്ട യുഗങ്ങള്‍ </text>
+   <text x="130" y="3012" font-size="10px" fill="red">(Dark Ages)</text>
+   <line x1="200" y1="3022" x2="200" y2="3048" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="3048" x2="220" y2="3048" style="stroke:black; stroke-width:1;"/>
    
   
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
@@ -348,6 +356,13 @@
   <foreignObject x="270" y="2985" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{14}s\)
+    </div>
+  </foreignObject>
+  
+  <line x1="240" y1="3050" x2="260" y2="3050" style="stroke:black; stroke-width:1;" />  <!-- Mark 30.5 with 10^15 s-->
+  <foreignObject x="270" y="3030" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(\scriptsize{10^{15}}\)
     </div>
   </foreignObject>
   
