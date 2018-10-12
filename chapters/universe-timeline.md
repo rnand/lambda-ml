@@ -55,8 +55,15 @@
    <line x1="200" y1="2300" x2="200" y2="2315" style="stroke:black; stroke-width:1;" />
    <text x="130" y="2326" font-size="12px" fill="red">ലെപ്റ്റോണ്‍ യുഗം </text>
    <text x="130" y="2340" font-size="12px" fill="red">(Lepton Epoch)</text>
-   <line x1="200" y1="2345" x2="200" y2="2350" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;"/>
+   <line x1="200" y1="2345" x2="200" y2="2348" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2348" x2="220" y2="2348" style="stroke:black; stroke-width:1;"/>
+   
+   <line x1="200" y1="2350" x2="220" y2="2350" style="stroke:black; stroke-width:1;" /><!--Big Bang Nucleosynthesis -->
+   <line x1="200" y1="2350" x2="200" y2="2370" style="stroke:black; stroke-width:1;" />
+   <text x="130" y="2372" font-size="10px" fill="red">ബിഗ്‌ ബാംഗ്‌ നൂക്ലിയോ സിന്തസിസ് </text>
+   <text x="130" y="2384" font-size="10px" fill="red">(Big Bang Nucleosynthesis)</text>
+   <line x1="200" y1="2430" x2="200" y2="2450" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2450" x2="220" y2="2450" style="stroke:black; stroke-width:1;"/>
    
    
   
