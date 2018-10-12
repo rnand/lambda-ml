@@ -82,12 +82,12 @@
    <line x1="200" y1="3048" x2="220" y2="3048" style="stroke:black; stroke-width:1;"/>
    
    
-   <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;" /><!-- Reionization -->
-   <line x1="200" y1="2950" x2="200" y2="2988" style="stroke:black; stroke-width:1;" />
-   <text x="130" y="3000" font-size="10px" fill="red">റീ അയോണൈസേഷന്‍ </text>
-   <text x="130" y="3012" font-size="10px" fill="red">(Reionization)</text>
-   <line x1="200" y1="3022" x2="200" y2="3048" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="3048" x2="220" y2="3048" style="stroke:black; stroke-width:1;"/>
+   <line x1="200" y1="3050" x2="220" y2="3050" style="stroke:black; stroke-width:1;" /><!-- Reionization -->
+   <line x1="200" y1="3050" x2="200" y2="3083" style="stroke:black; stroke-width:1;" />
+   <text x="130" y="3095" font-size="10px" fill="red">റീ അയോണൈസേഷന്‍ </text>
+   <text x="130" y="3107" font-size="10px" fill="red">(Reionization)</text>
+   <line x1="200" y1="3119" x2="200" y2="3198" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="3198" x2="220" y2="3198" style="stroke:black; stroke-width:1;"/>
   
   
   
