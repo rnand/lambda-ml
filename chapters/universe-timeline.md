@@ -340,8 +340,8 @@
   
   <circle cx="250" cy="2950" r="5" fill="red" /> 
   <line x1="250" y1="2950" x2="280" y2="2967" style="stroke:black; stroke-width:2;" /> 
-  <text x="285" y="2979" font-size="10px" fill="red">റീ കോംബിനേഷന്‍ </text>
-  <text x="285" y="2991" font-size="10px" fill="red">(Recombination)</text>
+  <text x="285" y="2975" font-size="10px" fill="red">റീ കോംബിനേഷന്‍ </text>
+  <text x="285" y="2987" font-size="10px" fill="red">(Recombination)</text>
   
   
   <line x1="240" y1="3000" x2="260" y2="3000" style="stroke:black; stroke-width:2;" />  <!-- Mark 30 with 10^14 s-->
