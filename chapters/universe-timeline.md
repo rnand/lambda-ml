@@ -63,7 +63,7 @@
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
   <foreignObject x="270" y="135" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(\small{10^{-43}s}\)
+    \(\scriptsize{10^{-43}s}\)
     </div>
   </foreignObject>
   
@@ -257,7 +257,7 @@
   <line x1="240" y1="2350" x2="260" y2="2350" style="stroke:black; stroke-width:1;" />  <!-- Mark 23.5 with 10^1 s-->
   <foreignObject x="270" y="2330" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(\small{10^{1}s} (10 seconds)\)
+    \(\scriptsize{10^{1}s} (10 seconds)\)
     </div>
   </foreignObject>
 
@@ -266,6 +266,14 @@
   <foreignObject x="270" y="2385" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{2}s\)
+    </div>
+  </foreignObject>
+  
+  
+  <line x1="240" y1="2450" x2="260" y2="2450" style="stroke:black; stroke-width:1;" />  <!-- Mark 24.5 with 10^3 s-->
+  <foreignObject x="270" y="2430" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(\scriptsize{10^2}\)
     </div>
   </foreignObject>
   
@@ -328,7 +336,7 @@
   <line x1="240" y1="3150" x2="260" y2="3150" style="stroke:black; stroke-width:1;" />  <!-- Mark 31.5 with 10^17 s-->
   <foreignObject x="270" y="3135" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(\small{10^{17}s}\)
+    \(\scriptsize{10^{17}s}\)
     </div>
   </foreignObject>
   <line x1="315" y1="3150" x2="380" y2="3150" style="stroke:black; stroke-width:2;" /> <text x="385" y="3155" fill="red">ഇന്ന്(TODAY)</text>
