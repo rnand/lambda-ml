@@ -62,9 +62,16 @@
    <line x1="200" y1="2350" x2="200" y2="2388" style="stroke:black; stroke-width:1;" />
    <text x="50" y="2400" font-size="10px" fill="red">ബിഗ്‌ ബാംഗ്‌ നൂക്ലിയോ സിന്തസിസ് </text>
    <text x="50" y="2412" font-size="10px" fill="red">(Big Bang Nucleosynthesis)</text>
-   <line x1="200" y1="2417" x2="200" y2="2450" style="stroke:black; stroke-width:1;" />
-   <line x1="200" y1="2450" x2="220" y2="2450" style="stroke:black; stroke-width:1;"/>
+   <line x1="200" y1="2417" x2="200" y2="2448" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2448" x2="220" y2="2448" style="stroke:black; stroke-width:1;"/>
    
+   
+   <line x1="200" y1="2450" x2="220" y2="2450" style="stroke:black; stroke-width:1;" /><!-- Photon Epoch -->
+   <line x1="200" y1="2450" x2="200" y2="2488" style="stroke:black; stroke-width:1;" />
+   <text x="50" y="2500" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
+   <text x="50" y="2512" font-size="10px" fill="red">(Photon Epoch)</text>
+   <line x1="200" y1="2517" x2="200" y2="2950" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;"/>
    
   
   <line x1="240" y1="150" x2="260" y2="150" style="stroke:black; stroke-width:1;" />  <!-- Mark 1.5 with 10^-43 s-->
@@ -321,6 +328,13 @@
   <foreignObject x="270" y="2885" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(10^{12}s\)
+    </div>
+  </foreignObject>
+  
+  <line x1="240" y1="2950" x2="260" y2="2950" style="stroke:black; stroke-width:1;" />  <!-- Mark 29.5 with 1.2 x 10^13 s-->
+  <foreignObject x="270" y="2930" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
+    \(\scriptsize{1.2*10^2} (380,000 years)\)
     </div>
   </foreignObject>
   
