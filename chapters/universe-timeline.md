@@ -67,10 +67,10 @@
    
    
    <line x1="200" y1="2450" x2="220" y2="2450" style="stroke:black; stroke-width:1;" /><!-- Photon Epoch -->
-   <line x1="200" y1="2450" x2="200" y2="2488" style="stroke:black; stroke-width:1;" />
-   <text x="130" y="2500" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
-   <text x="130" y="2512" font-size="10px" fill="red">(Photon Epoch)</text>
-   <line x1="200" y1="2517" x2="200" y2="2950" style="stroke:black; stroke-width:1;" />
+   <line x1="200" y1="2450" x2="200" y2="2688" style="stroke:black; stroke-width:1;" />
+   <text x="130" y="2700" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
+   <text x="130" y="2712" font-size="10px" fill="red">(Photon Epoch)</text>
+   <line x1="200" y1="2717" x2="200" y2="2950" style="stroke:black; stroke-width:1;" />
    <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;"/>
    
   
