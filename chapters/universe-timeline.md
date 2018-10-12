@@ -68,8 +68,8 @@
    
    <line x1="200" y1="2450" x2="220" y2="2450" style="stroke:black; stroke-width:1;" /><!-- Photon Epoch -->
    <line x1="200" y1="2450" x2="200" y2="2488" style="stroke:black; stroke-width:1;" />
-   <text x="50" y="2500" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
-   <text x="50" y="2512" font-size="10px" fill="red">(Photon Epoch)</text>
+   <text x="130" y="2500" font-size="10px" fill="red">ഫോട്ടോണ്‍ യുഗം </text>
+   <text x="130" y="2512" font-size="10px" fill="red">(Photon Epoch)</text>
    <line x1="200" y1="2517" x2="200" y2="2950" style="stroke:black; stroke-width:1;" />
    <line x1="200" y1="2950" x2="220" y2="2950" style="stroke:black; stroke-width:1;"/>
    
@@ -334,7 +334,7 @@
   <line x1="240" y1="2950" x2="260" y2="2950" style="stroke:black; stroke-width:1;" />  <!-- Mark 29.5 with 1.2 x 10^13 s-->
   <foreignObject x="270" y="2930" width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
-    \(\scriptsize{1.2*10^2} (380,000 years)\)
+    \(\scriptsize{1.2 * 10^2} (380,000 years)\)
     </div>
   </foreignObject>
   
