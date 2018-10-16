@@ -20,9 +20,9 @@
   <line x1="200" y1="125" x2="200" y2="148" style="stroke:black; stroke-width:1;" />
   <line x1="200" y1="148" x2="220" y2="148" style="stroke:black; stroke-width:1;" />
   
-  <line x1="315" y1="148" x2="380" y2="148" style="stroke:black; stroke-width:2;" /> <text x="385" y="130" fill="black" font-size="6">ഈ കാലഘട്ടത്തില്‍ പ്രബലമായത്</text>
- <text x="385" y="138" fill="black" font-size="6">  ക്വാണ്ടം ഗ്രാവിറ്റി ആണെന്ന് കരുതുന്നു. </text>
- <text x="385" y="145" fill="black" font-size="6">വളരെ പരിമിതമായ അറിവ് മാത്രമേ നമുക്ക് ഈ കാലഘട്ടത്തെക്കുറിച്ച് ഉള്ളു.</text>
+  <line x1="315" y1="148" x2="330" y2="148" style="stroke:black; stroke-width:2;" /> <text x="330" y="130" fill="black" font-size="6">ഈ കാലഘട്ടത്തില്‍ പ്രബലമായത്</text>
+ <text x="330" y="138" fill="black" font-size="6">  ക്വാണ്ടം ഗ്രാവിറ്റി ആണെന്ന് കരുതുന്നു. </text>
+ <text x="330" y="145" fill="black" font-size="6">വളരെ പരിമിതമായ അറിവ് മാത്രമേ നമുക്ക് ഈ കാലഘട്ടത്തെക്കുറിച്ച് ഉള്ളു.</text>
   
   
   <line x1="200" y1="150" x2="220" y2="150" style="stroke:black; stroke-width:1;" /> <!-- Grand unification Epoch -->
