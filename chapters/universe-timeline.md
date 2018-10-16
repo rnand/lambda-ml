@@ -1,7 +1,7 @@
 **പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍** 
 (Scale: logarithmic)     
 
-<svg viewBox="0 0 500 3300" style="margin-left:auto; margin-right:auto; display:block;">
+<svg viewBox="0 0 550 3300" style="margin-left:auto; margin-right:auto; display:block;">
   
   <line x1="250" y1="50" x2="250" y2="3250" style="stroke:black; stroke-width:3;" /> <!-- The main vertical line -->
   
