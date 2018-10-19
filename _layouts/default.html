@@ -22,17 +22,13 @@
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         
         
-         <font color="red"><a href="https://rnand.github.io/lambda-ml/chapters/ch1-intro.html">ചാപ്റ്റര്‍ 1 - ആമുഖം </a>
+         <font color="red"><a href="https://rnand.github.io/lambda-ml/chapters/ch1-intro.html">ചാപ്റ്റര്‍ 1 - ആമുഖം </a></font>
               
           <a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">ചാപ്റ്റര്‍ 2 - ഫ്രീഡ്മന്‍ സമവാക്യം </a></font>
        
+              
         
-
         
-        
-        {% if site.github.is_project_page %}
-          <p class="header"><font size="1">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></font></p>
-        {% endif %}
 
         {% if site.github.is_user_page %}
           <ul>
@@ -46,7 +42,7 @@
       </section>
 
       <footer>
-        <p align="center" style = "font-size:9px; line-height: 1.2;">Licenced under Creative Commons Attribution-ShareAlike 4.0 International unless mentioned otherwise. Some images may be copyrighted by their respective owners.</p>
+        <p align="center" style = "font-size:9px; line-height: 1.2;">Licenced under Creative Commons Attribution-ShareAlike 4.0 International unless mentioned otherwise. Some images may be copyrighted by their respective owners.<br>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></font></p></p>
           <p ><a href="https://creativecommons.org/licenses/by-sa/4.0/"> 
            <img title="Licenced under Creative Commons Attribution-ShareAlike 4.0 International" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cc-by-sa_%281%29.svg/640px-Cc-by-sa_%281%29.svg.png" width="80" /></a>
            <a href="https://www.mathjax.org">
