@@ -210,7 +210,7 @@ $$\frac{\ddot a}{a} =- \frac {4}{3} \pi G \rho $$
 എറിഞ്ഞതിന്‍റെ ശക്തി അനുസരിച്ച് ആ കല്ല്‌ കുറച്ചു ദൂരം മേല്‍പ്പോട്ടു പോകും. എന്നിട്ട് തിരിച്ചു ഭൂമിയില്‍ വീഴും.
 
 <p align="center">
- <img src="../videos/traj_stone particle.gif" width="200" title="Trajectory of a particle"/>
+ <img src="../videos/traj_stone particle.gif" width="500" title="Trajectory of a particle"/>
 </p>
 
 
