@@ -209,6 +209,12 @@ $$\frac{\ddot a}{a} =- \frac {4}{3} \pi G \rho $$
 
 എറിഞ്ഞതിന്‍റെ ശക്തി അനുസരിച്ച് ആ കല്ല്‌ കുറച്ചു ദൂരം മേല്‍പ്പോട്ടു പോകും. എന്നിട്ട് തിരിച്ചു ഭൂമിയില്‍ വീഴും.
 
+<video width="320" height="240" autoplay loop>
+  <source src="/videos/traj_stone particle.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+traj_stone particle.mp4
+
 ഇതിനെ വിവരിക്കുന്ന സമവാക്യം നമുക്ക് എഴുതി നോക്കാം.
 
 രണ്ടു തരം സമവാക്യങ്ങള്‍ നമുക്ക് എഴുതാം – ന്യൂട്ടന്‍റെ ചലന നിയമങ്ങളുടെ സമവാക്യം, എനര്‍ജി കണ്‍സര്‍വേഷന്‍ സമവാക്യം.
