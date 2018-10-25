@@ -64,7 +64,7 @@ The Standard Model of Cosmology (in Malayalam)
 
  ഇതില്ലാതെ ഒന്നും നടക്കില്ല!
  
- ## എന്തിന്
+ ## എന്തിന്?
  
  I'll let Carl Sagan explain that:
  
@@ -96,7 +96,11 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
  
 ### ചാപ്റ്ററുകള്‍
 
-[Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/55) 
+[Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) ![Progress](http://progressed.io/bar/100) 
+
+[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](/chapters/ch2-from-newton.html) ![Progress](http://progressed.io/bar/50)
+
+[Timeline of the Universe](/chapters/universe-timeline) ![Progress](http://progressed.io/bar/100)
 
 
 ### റെഫറന്‍സ് 
