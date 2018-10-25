@@ -108,7 +108,9 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 ### ചാപ്റ്ററുകള്‍
 
 [Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) 
+
 [Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](/chapters/ch2-from-newton.html)
+
 [Timeline of the Universe](/chapters/universe-timeline)
 
 
