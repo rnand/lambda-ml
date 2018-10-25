@@ -209,7 +209,7 @@ $$\frac{\ddot a}{a} =- \frac {4}{3} \pi G \rho $$
 
 എറിഞ്ഞതിന്‍റെ ശക്തി അനുസരിച്ച് ആ കല്ല്‌ കുറച്ചു ദൂരം മേല്‍പ്പോട്ടു പോകും. എന്നിട്ട് തിരിച്ചു ഭൂമിയില്‍ വീഴും.
 
-<video width="320" height="240" autoplay loop>
+<video  controls loop>>
   <source src="../videos/traj_stone particle.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
