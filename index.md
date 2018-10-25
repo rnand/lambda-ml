@@ -107,11 +107,11 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
  
 ### ചാപ്റ്ററുകള്‍
 
-[Chapter 1 - Introductory ideas](/chapters/ch1-intro.md) 
+[Chapter 1 - Introductory ideas](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html) 
 
-[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](/chapters/ch2-from-newton.html)
+[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html)
 
-[Timeline of the Universe](/chapters/universe-timeline)
+[Timeline of the Universe](https://rnand.github.io/lambda-ml/chapters/universe-timeline)
 
 
 ### റെഫറന്‍സ് 
