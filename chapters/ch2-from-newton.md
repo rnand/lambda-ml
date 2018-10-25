@@ -213,7 +213,7 @@ $$\frac{\ddot a}{a} =- \frac {4}{3} \pi G \rho $$
   <source src="/videos/traj_stone particle.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
-traj_stone particle.mp4
+
 
 ഇതിനെ വിവരിക്കുന്ന സമവാക്യം നമുക്ക് എഴുതി നോക്കാം.
 
