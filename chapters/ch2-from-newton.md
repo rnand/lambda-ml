@@ -345,5 +345,8 @@ $$\frac {\dot a^2}{a^2} = \frac {8}{3} \pi  G \rho $$
 
 സ്റ്റാന്‍ഡേര്‍ഡ് ഫോമില്‍ ആക്കുകയാണെങ്കില്‍:
 
+<div style="background-color:#e3e7ed; border: thin solid black;padding: 8px">
 $$\left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho $$
+</div>
+ഇതാണ് ഫ്രീഡ്മന്‍ സമവാക്യം – ന്യൂട്ടോണിയന്‍ കാഴ്ചപ്പാടില്‍.
 
