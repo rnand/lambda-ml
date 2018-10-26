@@ -345,5 +345,5 @@ $$\frac {\dot a^2}{a^2} = \frac {8}{3} \pi  G \rho $$
 
 സ്റ്റാന്‍ഡേര്‍ഡ് ഫോമില്‍ ആക്കുകയാണെങ്കില്‍:
 
-$$({\frac {\dot a}{a}})^2 = \frac {8}{3} \pi  G \rho $$
+$$\left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho $$
 
