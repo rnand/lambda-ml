@@ -427,3 +427,10 @@ $$  \frac {p^2}{ t^2}  = \frac {1}{c^3t^{3p}} $$
 
 $$ a = ct^{\frac{2}{3}}$$
 
+അതായത് \\(a\\) എന്നത് സമയം \\(t\\)യുടെ \\(\frac{2}{3}\\) പവറിനു ആനുപാതികമായി ആണ് മാറുന്നത്.
+
+ഗ്രാഫ് നോക്കൂ:
+
+<p align="center">
+ <img src="../images/friedman from newton cp23rds graph.png" width="320" title="Expansion of the scale factor a"/>
+</p>
