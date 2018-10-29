@@ -434,3 +434,10 @@ $$ a = ct^{\frac{2}{3}}$$
 <p align="center">
  <img src="../images/friedman from newton cp23rds graph_alpha.png" width="320" title="Expansion of the scale factor a"/>
 </p>
+
+നാം പരിഗണിച്ച മറ്റു സാഹചര്യങ്ങളുടെ ഗ്രാഫ്:
+
+<p align="center">
+ <img src="../images/friedman from newton possible scenarios_labelled_alpha.png" width="320" title="Different scenarios for a"/>
+</p>
+
