@@ -432,5 +432,5 @@ $$ a = ct^{\frac{2}{3}}$$
 ഗ്രാഫ് നോക്കൂ:
 
 <p align="center">
- <img src="../images/friedman from newton cp23rds graph.png" width="320" title="Expansion of the scale factor a"/>
+ <img src="../images/friedman from newton cp23rds graph_alpha.png" width="320" title="Expansion of the scale factor a"/>
 </p>
