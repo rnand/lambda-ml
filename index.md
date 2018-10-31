@@ -111,6 +111,8 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 [Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html)
 
+[Chapter 3 - Matter, Radiation and the scale factor](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation.html)
+
 [Timeline of the Universe](https://rnand.github.io/lambda-ml/chapters/universe-timeline)
 
 
