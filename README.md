@@ -98,7 +98,9 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 [Chapter 1 - Introductory ideas](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html) ![Progress](http://progressed.io/bar/100) 
 
-[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html) ![Progress](http://progressed.io/bar/50)
+[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html) ![Progress](http://progressed.io/bar/100)
+
+[Chapter 3 - Matter, Radiation and the scale factor](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation.html) ![Progress](http://progressed.io/bar/5)
 
 [Timeline of the Universe](https://rnand.github.io/lambda-ml/chapters/universe-timeline) ![Progress](http://progressed.io/bar/100)
 
