@@ -72,6 +72,14 @@ $$\rho=\frac{\nu}{a^3}$$
 3.	ഈ സ്ഫിയറിനു പുറത്തുള്ള എല്ലാ മാസ്സും അവഗണിക്കുക.
 
 
+ചുരുക്കത്തില്‍:
+
+<video width="320" autoplay="" loop="" muted="" controls="">
+        <source src="../videos/shell theorem.mp4">        
+        <p class="warning">Your browser does not support HTML5 video.</p>
+</video>
+
+
 ഒറിജിന്‍ പോയിന്‍റും പാര്‍ടിക്ക്ളും തമ്മിലുള്ള ദൂരം:
 
 $$D=a(t)\sqrt{x^2+y^2+z^2}$$
