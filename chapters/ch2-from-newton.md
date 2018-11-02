@@ -89,7 +89,7 @@ $$\rho=\frac{\nu}{a^3}$$
 3.	ഈ സ്ഫിയറിനു പുറത്തുള്ള എല്ലാ മാസ്സും അവഗണിക്കുക.
 
 <p align="center">
- <img src="../ignore other mass.png" width="320" title="Ignore all the other mass"/>
+ <img src="../images/ignore other mass.png" width="320" title="Ignore all the other mass"/>
 </p>
 
 ചുരുക്കത്തില്‍:
