@@ -94,7 +94,7 @@ $$\rho=\frac{\nu}{a^3}$$
 
 ചുരുക്കത്തില്‍:
 
-<video width="320" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto;" width="320" autoplay="" loop="" muted="" controls="">
         <source src="../videos/shell theorem.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
