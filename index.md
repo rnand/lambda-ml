@@ -54,6 +54,13 @@ The Standard Model of Cosmology (in Malayalam)
 
 ദൃഠമായ മാത്തമാറ്റിക്സ്‌ ആണ് ഫിസിക്സിന്‍റെ നട്ടെല്ല്. അതിനാല്‍ ഒന്നും സ്കിപ് ചെയ്യാതെ കവര്‍ ചെയ്യാന്‍ ഞാന്‍ ഉദ്ദേശിക്കുന്നു.
 
+<div style="background-color:#d2e1c8; padding: 8px">
+ "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong. In that simple statement is the key to science." 
+ 
+ -Feynman
+</div>
+
+
 ### വായനക്കാര്‍ക്ക് താഴെ പറയുന്ന സ്കില്‍സ് ഉണ്ടെന്നു ഞാന്‍ പ്രതീക്ഷിക്കുന്നു:
  
 * സയന്‍റിഫിക് / മാത്തമാറ്റിക്കല്‍ റീസണിംഗ്:
