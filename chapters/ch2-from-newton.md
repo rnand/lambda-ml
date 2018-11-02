@@ -94,12 +94,13 @@ $$\rho=\frac{\nu}{a^3}$$
 
 ചുരുക്കത്തില്‍:
 
-<p>
+
 <video style="display:block; margin: 0 auto;" width="320" autoplay="" loop="" muted="" controls="">
         <source src="../videos/shell theorem.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
-</p>
+<br/>
+
 
 ഒറിജിന്‍ പോയിന്‍റും പാര്‍ടിക്ക്ളും തമ്മിലുള്ള ദൂരം:
 
