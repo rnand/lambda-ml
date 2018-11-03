@@ -27,11 +27,13 @@
 
 പക്ഷെ പാര്‍ടിക്ക്ളുടെ എണ്ണം കൂടുന്നതനുസരിച്ച് അവ തമ്മിലുള്ള ശരാശരി അകലം തുല്യമാകാന്‍ തുടങ്ങുന്നു:
 
-<video style="display:block; margin: 0 auto;" width="360" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto;" width="320" autoplay="" loop="" muted="" controls="">
         <source src="../videos/gas distribution.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
 
+<br/>
+<br/>
 
 <p align="center">
   <img src="../images/large_scale_structure_cr.jpg" width="300" title="Large scale structure of the universe">
