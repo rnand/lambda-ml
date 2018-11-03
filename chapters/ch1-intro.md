@@ -49,26 +49,26 @@
 
 ഗാലക്സികളുടെ ഡിസ്ട്രിബ്യൂഷന്‍ എങ്ങനെയാണ് എന്ന് കണ്ടെത്താന്‍ വളരെയധികം സര്‍വേകള്‍ ഇതിനോടകം നടത്തിയിട്ടുണ്ട്. അതില്‍ ചിലത് ഇവയാണ്:
 
-•	CfA Redshift Survey (Center for Astrophysics, Harvard University)
-•	2dF Galaxy Redshift Survey (Australian National University)
-•	6dF Galaxy Survey (Australian Astronomical Optics, Royal Observatory, UK)
-•	2MASS, the Two Micron All Sky Survey (Caltech)
-•	VLA FIRST Survey: Faint Images of the Radio Sky at Twenty-cm using NRAO Vary Large Array (National Radio Astronomy Observatory, United States)
-•	EDisCS: ESO Distant Clusters Survey  (Max Planck Institute for Astrophysics, Germany)
-•	LCRS, the Las Campanas Redshift Survey (University of Toronto)
-•	ESP: the ESO Slice Project (National Institute for Astrophysics, Italy)
-•	CNOC1 Cluster Survey (University of Toronto)
-•	CNOC2 Field Galaxy Survey  (University of Toronto)
-•	Sloan Digital Sky Survey (Sloan Foundation, U.S. Department of Energy Office of Science)
-•	GAMA: Galaxy And Mass Assembly Survey (GAMA team, various universities)
-•	DEEP2 Redshift Survey
-•	VIMOS-VLT Deep Survey
-•	UKIDSS: UKIRT Infrared Deep Sky Survey
-•	Pan-STARRS: the Panoramic Survey Telescope & Rapid Response System
-•	PRIMUS: PRIsm MUlti-object Survey
-•	BOSS: Baryon Oscillation Spectroscopic Survey
-•	DES: the Dark Energy Survey
-•	LSST: the Large Synoptic Survey Telescope
+*	CfA Redshift Survey (Center for Astrophysics, Harvard University)
+*	2dF Galaxy Redshift Survey (Australian National University)
+*	6dF Galaxy Survey (Australian Astronomical Optics, Royal Observatory, UK)
+*	2MASS, the Two Micron All Sky Survey (Caltech)
+*	VLA FIRST Survey: Faint Images of the Radio Sky at Twenty-cm using NRAO Vary Large Array (National Radio Astronomy Observatory, United States)
+*	EDisCS: ESO Distant Clusters Survey  (Max Planck Institute for Astrophysics, Germany)
+*	LCRS, the Las Campanas Redshift Survey (University of Toronto)
+*	ESP: the ESO Slice Project (National Institute for Astrophysics, Italy)
+*	CNOC1 Cluster Survey (University of Toronto)
+*	CNOC2 Field Galaxy Survey  (University of Toronto)
+*	Sloan Digital Sky Survey (Sloan Foundation, U.S. Department of Energy Office of Science)
+*	GAMA: Galaxy And Mass Assembly Survey (GAMA team, various universities)
+*	DEEP2 Redshift Survey
+*	VIMOS-VLT Deep Survey
+*	UKIDSS: UKIRT Infrared Deep Sky Survey
+*	Pan-STARRS: the Panoramic Survey Telescope & Rapid Response System
+*	PRIMUS: PRIsm MUlti-object Survey
+*	BOSS: Baryon Oscillation Spectroscopic Survey
+*	DES: the Dark Energy Survey
+*	LSST: the Large Synoptic Survey Telescope
 
 ഇവയില്‍ നിന്നുള്ള ഡാറ്റയും കണ്ടെത്തലുകളും മറ്റു വിവരങ്ങളും ഇവിടെ വായിക്കാം: [http://openmetric.org/science/galaxy-surveys/](http://openmetric.org/science/galaxy-surveys/)
 
