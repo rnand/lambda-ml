@@ -20,6 +20,19 @@
 
 തീർച്ചയായും, ഭൂമിയില്‍ നിന്നും ആകാശത്തേക്ക് നോക്കിയാൽ പ്രപഞ്ചം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണെന്ന് നമുക്ക് അനുഭവപ്പെടില്ല. പക്ഷെ, ലക്ഷക്കണക്കിന് പ്രകാശ വർഷങ്ങളുടെ സ്കെയിലിൽ പ്രപഞ്ചം വളരെ അധികം ഐസോട്രോപിക്കും ഹോമോജീനിയസും ആണ്. 
 
+
+ഉദാഹരണത്തിന്, ഒരു പെട്ടിയില്‍ കുറച്ചു ഗ്യാസ് പാര്‍ടിക്ക്ള്‍സ് ഉണ്ടെന്നു വെക്കുക. അവ റാന്‍ഡം ആയി ഡിസ്ട്രിബ്യൂട്ട് ചെയ്തിരിക്കുന്നു
+
+ഒന്നോ രണ്ടോ പാര്‍ടിക്ക്ളുടെ സ്കയിലില്‍ അവയുടെ ഡിസ്ട്രിബ്യൂഷന്‍ സമമല്ല.
+
+പക്ഷെ പാര്‍ടിക്ക്ളുടെ എണ്ണം കൂടുന്നതനുസരിച്ച് അവ തമ്മിലുള്ള ശരാശരി അകലം തുല്യമാകാന്‍ തുടങ്ങുന്നു:
+
+<video width="320" autoplay="" loop="" muted="" controls="">
+        <source src="../videos/gas distribution.mp4">        
+        <p class="warning">Your browser does not support HTML5 video.</p>
+</video>
+
+
 <p align="center">
   <img src="../images/large_scale_structure_cr.jpg" width="300" title="Large scale structure of the universe">
   <p align="center" style = "font-size:9px"> <a href="https://wwwmpa.mpa-garching.mpg.de/galform/data_vis/index.shtml"> Volker Springel, Millennium simulation, Max-Planck-Institute for Astrophysics</a></p></p>
