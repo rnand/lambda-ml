@@ -27,7 +27,7 @@
 
 പക്ഷെ പാര്‍ടിക്ക്ളുടെ എണ്ണം കൂടുന്നതനുസരിച്ച് അവ തമ്മിലുള്ള ശരാശരി അകലം തുല്യമാകാന്‍ തുടങ്ങുന്നു:
 
-<video width="320" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto;" width="360" autoplay="" loop="" muted="" controls="">
         <source src="../videos/gas distribution.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
