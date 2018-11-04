@@ -62,17 +62,17 @@ $$V = \dot a $$
 
 $$\dot a^2 - \frac {2MG}{a}=\frac {2E}{m}$$
 
-വലതു വശത്ത് ഉള്ളവയെല്ലാം കോണ്‍സ്റ്റന്‍റുകളാണ്. അവയെ നമുക്ക് \\(constant\\) എന്ന് വിളിക്കാം.
+വലതു വശത്ത് ഉള്ളവയെല്ലാം കോണ്‍സ്റ്റന്‍റുകളാണ്. അവയെ നമുക്ക് \\(\kappa\\) (ഗ്രീക്ക് ലെറ്റര്‍ കാപ) എന്ന് വിളിക്കാം.
 
 അപ്പോള്‍:
 
-$$\dot a^2 - \frac {2MG}{a}=constant$$
+$$\dot a^2 - \frac {2MG}{a}=\kappa$$
 
 നമുക്ക് വേണ്ടത് \\(a\\)യുടെ റേഷിയോകളാണ്.
 
 \\(a^2 \\) കൊണ്ട് ഹരിക്കാം:
 
-$$\frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {constant}{a^2}$$
+$$frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {\kappa}{a^2}$$
 
 ഇപ്പോള്‍ വലതു വശം കോണ്‍സ്റ്റന്‍റ് അല്ല.
 
@@ -80,7 +80,7 @@ $$\frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {constant}{a^2}$$
 
 മദ്ധ്യത്തില്‍ \\(  \frac {\frac {4}{3} \pi} { \frac {4}{3} \pi } \\) കൊണ്ട് ഗുണിക്കാം: 
 
-$$\frac {\dot a^2}{a^2}  - \frac {2MG \frac {4}{3} \pi  }{ \frac {4}{3} \pi  a^3}= \frac {constant}{a^2}$$
+$$frac {\dot a^2}{a^2}  - \frac {2MG \frac {4}{3} \pi  }{ \frac {4}{3} \pi  a^3}= \frac {\kappa}{a^2}$$
 
 നമുക്കറിയാം:
 
@@ -88,14 +88,15 @@ $$ \frac {M}{\frac{4}{3} \pi a^3} = \frac {Mass}{Volume} = \rho$$
 
 അപ്പോള്‍:
 
-$$\frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {constant}{a^2}$$
+$$frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {\kappa}{a^2}$$
 
 ഒന്ന് സിംപ്ലിഫൈ ചെയ്‌താല്‍:
 
-$$\left( \frac {\dot a}{a}\right)^2  - \frac {8}{3} \pi  G \rho = \frac {constant}{a^2}$$
+$${\left frac {\dot a}{a} }^2 - \frac {8}{3} \pi  G \rho = \frac {\kappa}{a^2}$$
 
 മദ്ധ്യത്തില്‍ ഉള്ളതിനെ വലത് വശത്തേക്ക് ആക്കിയാല്‍:
 
-$$\left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho +  \frac {constant}{a^2}$$
+$${\left frac {\dot a}{a} }^2 = \frac {8}{3} \pi  G \rho +  \frac {\kappa}{a^2}$$
 
 ഫ്രീഡ്മന്‍ സമവാക്യത്തില്‍ നാം എത്തിച്ചേര്‍ന്നു. പക്ഷെ ഇവിടെ വലത് ഭാഗത്ത്‌ പുതിയൊരു ഘടകവും ഉണ്ട്. ഈ ഘടകം മൊത്തം എനര്‍ജിയെ സൂചിപ്പിക്കുന്നു.
+
