@@ -92,10 +92,10 @@ $$\frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {constant}{a^2}$$
 
 ഒന്ന് സിംപ്ലിഫൈ ചെയ്‌താല്‍:
 
-$${\left frac {\dot a}{a} } \right ^2 - \frac {8}{3} \pi  G \rho = \frac {constant}{a^2}$$
+$${\left {\frac {\dot a}{a} }^2 \right  - \frac {8}{3} \pi  G \rho = \frac {constant}{a^2}$$
 
 മദ്ധ്യത്തില്‍ ഉള്ളതിനെ വലത് വശത്തേക്ക് ആക്കിയാല്‍:
 
-$${\left frac {\dot a}{a} }^2 = \frac {8}{3} \pi  G \rho +  \frac {constant}{a^2}$$
+$$\left {\frac {\dot a}{a} }^2 \right = \frac {8}{3} \pi  G \rho +  \frac {constant}{a^2}$$
 
 ഫ്രീഡ്മന്‍ സമവാക്യത്തില്‍ നാം എത്തിച്ചേര്‍ന്നു. പക്ഷെ ഇവിടെ വലത് ഭാഗത്ത്‌ പുതിയൊരു ഘടകവും ഉണ്ട്. ഈ ഘടകം മൊത്തം എനര്‍ജിയെ സൂചിപ്പിക്കുന്നു.
