@@ -80,7 +80,7 @@ $$\frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {constant}{a^2}$$
 
 മദ്ധ്യത്തില്‍ \\(  \frac {\frac {4}{3} \pi} { \frac {4}{3} \pi } \\) കൊണ്ട് ഗുണിക്കാം: 
 
-$$frac {\dot a^2}{a^2}  - \frac {2MG \frac {4}{3} \pi  }{ \frac {4}{3} \pi  a^3}= \frac {constant}{a^2}$$
+$$\frac {\dot a^2}{a^2}  - \frac {2MG \frac {4}{3} \pi  }{ \frac {4}{3} \pi  a^3}= \frac {constant}{a^2}$$
 
 നമുക്കറിയാം:
 
@@ -88,7 +88,7 @@ $$ \frac {M}{\frac{4}{3} \pi a^3} = \frac {Mass}{Volume} = \rho$$
 
 അപ്പോള്‍:
 
-$$frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {constant}{a^2}$$
+$$\frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {constant}{a^2}$$
 
 ഒന്ന് സിംപ്ലിഫൈ ചെയ്‌താല്‍:
 
