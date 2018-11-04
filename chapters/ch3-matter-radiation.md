@@ -92,7 +92,7 @@ $$\frac {\dot a^2}{a^2}  - 2G \frac {4}{3} \pi  \rho = \frac {constant}{a^2}$$
 
 ഒന്ന് സിംപ്ലിഫൈ ചെയ്‌താല്‍:
 
-$${\left frac {\dot a}{a} }^2 - \frac {8}{3} \pi  G \rho = \frac {constant}{a^2}$$
+$${\left frac {\dot a}{a} } \right ^2 - \frac {8}{3} \pi  G \rho = \frac {constant}{a^2}$$
 
 മദ്ധ്യത്തില്‍ ഉള്ളതിനെ വലത് വശത്തേക്ക് ആക്കിയാല്‍:
 
