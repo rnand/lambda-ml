@@ -72,7 +72,7 @@ $$\dot a^2 - \frac {2MG}{a}=constant$$
 
 \\(a^2 \\) കൊണ്ട് ഹരിക്കാം:
 
-$$frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {constant}{a^2}$$
+$$\frac {\dot a^2}{a^2}  - \frac {2MG}{a^3}= \frac {constant}{a^2}$$
 
 ഇപ്പോള്‍ വലതു വശം കോണ്‍സ്റ്റന്‍റ് അല്ല.
 
