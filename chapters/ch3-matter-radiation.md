@@ -259,7 +259,7 @@ $$E= \frac{h}{a}$$
 അപ്പോള്‍ നമ്മുടെ സമവാക്യത്തില്‍, വലതു വശത്ത് ഒരു \\(\frac{1}{a}\\) കൂടി വരും.
 അതായത്,
 
-$$\left (\frac{\dot a}{a})\right ^2 = \frac{8 \pi}{3} G \frac{\nu}{a^4}$$
+$$\left( \frac {\dot a}{a}\right)^2 = \frac{8 \pi}{3} G \frac{\nu}{a^4}$$
 
 (മുന്‍പ്, ഡെന്‍സിറ്റി ഘടകം \\(\frac{1}{a^3}\\) പോലെ ആയിരുന്നു എന്ന് ഓര്‍ക്കുക.)
 
@@ -267,7 +267,7 @@ $$\left (\frac{\dot a}{a})\right ^2 = \frac{8 \pi}{3} G \frac{\nu}{a^4}$$
 
 അപ്പോള്‍:
 
-$$\left (\frac{\dot a}{a})\right ^2 = \frac{1}{a^4}$$
+$$\left( \frac {\dot a}{a}\right)^2 = \frac{1}{a^4}$$
 
 സ്ക്വയര്‍ റൂട്ട് എടുത്താല്‍:
 
