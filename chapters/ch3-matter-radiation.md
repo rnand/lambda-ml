@@ -303,3 +303,9 @@ $$a=t^{\frac{1}{2}}$$
 അപ്പോള്‍ എന്ത് മനസ്സിലാക്കി?
 
 റേഡിയേഷന്‍ കൊണ്ട് നിറഞ്ഞ പ്രപഞ്ചം \\(t\\)യുടെ സ്ക്വയര്‍ റൂട്ടിന് ആനുപാതുകമായി വികസിക്കും.
+
+ഗ്രാഫ്:
+
+<p align="center">
+ <img src="../images/friedman from newton radiation filled universe graph sqrt(t).png" width="320" title="Expansion of radiation filled universe"/>
+</p>
