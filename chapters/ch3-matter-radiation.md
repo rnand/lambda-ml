@@ -198,11 +198,11 @@ $$ \left( \frac {\dot a}{a}\right)^2 + \frac {\kappa}{a^2} = \frac {8}{3} \pi  G
 
 
 <p align="center">
- <img src="../images/photon-in-a-box-particle-view.png" width="320" title="Empty box"/>
+ <img src="../images/photon-in-a-box-particle-view.png" width="320" title="Photons in a box - particle view"/>
 </p>
 
 <p align="center">
- <img src="../images/photon-in-a-box-wave-view.png" width="320" title="Empty box"/>
+ <img src="../images/photon-in-a-box-wave-view.png" width="320" title="Photons in a box - wave view"/>
 </p>
 
 സാധാരണ പാര്‍ടിക്ക്ളുകള്‍ ആണെങ്കില്‍ അവയ്ക്ക് അവയുടെ മാസ്സിനു തുല്യമായ എനര്‍ജി ഉണ്ടാകും. ഇത് മാറില്ല (അവ വെറുതെ പെട്ടിയില്‍ ഇരിക്കുകയാണെങ്കില്‍). പക്ഷെ ഫോട്ടോണുകള്‍ വ്യത്യസ്തമാണ്. അവയുടെ എനര്‍ജി എന്നത് അവയുടെ വേവ് ലെങ്ങ്തുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു, താഴെ പറയുന്ന റിലേഷനിലൂടെ:
@@ -237,3 +237,7 @@ $$\lambda f = c$$
 
 
 ഇത് മനസ്സില്‍ ചിത്രീകരിക്കാന്‍ ഒരു വഴി: ഫോട്ടോണുകളെ തരംഗങ്ങള്‍ ആയി ചിന്തിക്കുമ്പോള്‍ അവ പെട്ടിയുടെ വശങ്ങളിന്‍ ഘടിപ്പിച്ച സ്പ്രിങ്ങുകള്‍ ആയി മനസ്സില്‍ ചിത്രീകരിച്ചാല്‍ മതി. അപ്പോള്‍ പെട്ടിയുടെ വശങ്ങളുടെ നീളം കൂടുമ്പോള്‍ സ്പ്രിങ്ങുകള്‍ വലിയും, അവയുടെ വേവ് ലെങ്ങ്ത് കൂടും.
+
+<p align="center">
+ <img src="../images/box-expn.png" width="320" title="Expanding box"/>
+</p>
