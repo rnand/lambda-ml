@@ -307,5 +307,5 @@ $$a=t^{\frac{1}{2}}$$
 ഗ്രാഫ്:
 
 <p align="center">
- <img src="../images/friedman from newton radiation filled universe graph sqrt(t).png" width="320" title="Expansion of radiation filled universe"/>
+ <img src="../images/friedman from newton radiation filled universe graph sqrt(t).png" width="500" title="Expansion of radiation filled universe"/>
 </p>
