@@ -484,7 +484,7 @@ $$\rho dV+ d\rho V = -w \rho dV$$
 
 \\(dV\\)യെ ഒരു വശത്ത് ആക്കിയാല്‍:
 
-$$Vd\rho = - \rho dV – w \rho dv$$
+$$Vd\rho = - \rho dV – w \rho dV$$
 
 വലതു വശത്ത് \\(\rho dV\\) യെ പുറത്തെടുത്താല്‍:
 
