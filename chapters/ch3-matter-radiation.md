@@ -510,7 +510,7 @@ $$  \frac{d \rho}{\rho} = -(1 + w) \frac{dV}{V}$$
 
 $$log \rho = -(1+w) log V$$
 
-$$\therefore \rho = \frac{constant}{V^{1+w}}$$
+$$\therefore \rho = \frac{constant}{V^{(1+w)}}$$
 
 ഇനി, എന്താണ് \\(V \\)?
 
