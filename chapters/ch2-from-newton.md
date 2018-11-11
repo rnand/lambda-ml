@@ -74,23 +74,23 @@ $$\rho=\frac{\nu}{a^3}$$
 1.	കോര്‍ഡിനേറ്റ് സിസ്റ്റത്തിന്‍റെ മദ്ധ്യത്തില്‍ ഉള്ള നമ്മളില്‍ നിന്നും   നാം പരിഗണിക്കുന്ന പാര്‍ടിക്ക്ളിനെ ബൌണ്ടറിയില്‍ വരുന്ന രീതിയില്‍ ഒരു വൃത്തം അല്ലെങ്കില്‍ സ്ഫിയര്‍ വരക്കുക:
 
 
-  <p align="center">
-    <img src="../images/shell sphere.png" width="320" title="The Shell"/>
-   </p>
+    <p align="center">
+      <img src="../images/shell sphere.png" width="320" title="The Shell"/>
+    </p>
 
 
 2.	ഈ സ്ഫിയറിനുള്ളില്‍ ഉള്ള എല്ലാ മാസ്സും ഒറിജിന്‍ പോയിന്‍റില്‍ കേന്ദ്രീകരിക്കുന്നതായി സങ്കല്‍പ്പിക്കുക:
 
 
-   <p align="center">
-     <img src="../images/mass M at the center.png" width="320" title="The big M"/>
-   </p>
+    <p align="center">
+      <img src="../images/mass M at the center.png" width="320" title="The big M"/>
+    </p>
 
 3.	ഈ സ്ഫിയറിനു പുറത്തുള്ള എല്ലാ മാസ്സും അവഗണിക്കുക.
 
-<p align="center">
- <img src="../images/ignore other mass.png" width="320" title="Ignore all the other mass"/>
-</p>
+    <p align="center">
+      <img src="../images/ignore other mass.png" width="320" title="Ignore all the other mass"/>
+    </p>
 
 ചുരുക്കത്തില്‍:
 
