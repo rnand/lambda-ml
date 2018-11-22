@@ -640,7 +640,7 @@ $$N = \Delta x \; A \; \nu$$
 
 അപ്പോള്‍, മൊത്തം ഫോര്‍സ് എന്നത്:
 
-$$F = \frac{2\eplison cos \theta}{\Delta t} \Delta x A \nu$$
+$$F = \frac{2 \epsilon cos \theta}{\Delta t} \Delta x A \nu$$
 
 ഇതില്‍, \\(\Delta x\\) എന്നത് എന്താണ്?
 
