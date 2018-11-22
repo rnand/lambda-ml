@@ -390,7 +390,7 @@ $$ z = \frac {\lambda_{o}}{\lambda_{e}} - 1 $$<br/><br/>
 [(പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍ കാണാന്‍ ക്ലിക്ക് ചെയ്യുക)](universe-timeline.md)
 
 
-<table style="width: 188px;" border="1">
+<table style=" border=1">
 <tbody>
 <tr>
 <td ><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
