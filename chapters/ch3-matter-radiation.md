@@ -623,3 +623,35 @@ $$\Delta \Pi = 2 \epsilon cos \theta$$
 
  $$\frac{\Delta \Pi}{\Delta t} = \frac{2 \epsilon cos \theta}{\Delta t}$$
 
+
+
+ഇത് ഒരു ഫോട്ടോണ്‍ ഭിത്തിയിയില്‍ ചെലുത്തുന്ന ഫോര്‍സ്. ഇനി, ഇതുപോലെ എത്ര ഫോട്ടോണുകള്‍ ഭിത്തിയിയില്‍ ഫോര്‍സ് ചെലുത്തുന്നു?
+
+ഉത്തരം: \\(\Delta x\\)ന് ഉള്ളില്‍ ഉള്ള, ആങ്കില്‍ \\(\theta\\)യില്‍ ചലിക്കുന്ന ഫോട്ടോണുകള്‍.
+
+ഇവയെ \\(N\\) എന്ന് വിളിക്കാം:
+
+$$N = \Delta x \; A \; \nu$$
+
+ഇവിടെ,
+
+\\(A\\) എന്നത് ഏരിയ 
+\\(\nu\\) എന്നത് \\(\frac{\text{number of photons}}{\text{volume}}\\)
+
+അപ്പോള്‍, മൊത്തം ഫോര്‍സ് എന്നത്:
+
+$$F = \frac{2\eplison cos \theta}{\Delta t} \Delta x A \nu$$
+
+ഇതില്‍, \\(\Delta x\\) എന്നത് എന്താണ്?
+
+\\(\Delta x = \Delta t cos \theta\\)
+
+അപ്പോള്‍, \\(\frac {\Delta x}{\Delta t}\\) എന്നത് \\( cos \theta\\) ആണല്ലോ.
+
+$$\therefore F = 2 \epsilon cos^2 \theta A \nu$$
+
+പ്രഷര്‍ എന്നത് \\(\frac{F}{A}\\) ആണല്ലോ. അപ്പോള്‍ രണ്ടു വശവും \\(A \\) കൊണ്ട് ഡിവൈഡ് ചെയ്യാം:
+
+$$ \frac{F}{A} = 2 \epsilon cos^2 \theta \frac{A \nu}{A}$$
+
+$$P = 2 \epsilon cos^2 \theta \nu$$
