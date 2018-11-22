@@ -394,7 +394,7 @@ $$ z = \frac {\lambda_{o}}{\lambda_{e}} - 1 $$<br/><br/>
 <tbody>
 <tr>
 <td style="width: 30px;"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td style="width: 106px;"><a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
+<td style="width: 206px;"><a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
 </tr>
 </tbody>
 </table>
