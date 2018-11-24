@@ -498,9 +498,9 @@ $$a = t^{\frac{2}{3}}$$
 <table>
 <tbody>
 <tr>
-<td><a href="https://rnand.github.io/lambda-ml/chapters/ch1-intro.html">മുമ്പത്തെ  ചാപ്റ്റര്&zwj;</a></td>
-<td ><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td ><a href="https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch1-intro.html">മുമ്പത്തെ  ചാപ്റ്റര്&zwj;</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
 </tr>
 </tbody>
 </table>
