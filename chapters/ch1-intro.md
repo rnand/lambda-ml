@@ -393,8 +393,8 @@ $$ z = \frac {\lambda_{o}}{\lambda_{e}} - 1 $$<br/><br/>
 <table style=" border=1">
 <tbody>
 <tr>
-<td ><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td ><a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
 </tr>
 </tbody>
 </table>
