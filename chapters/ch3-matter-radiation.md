@@ -737,7 +737,7 @@ $$ \rho = \frac{\text{constant}}{V^{1+w}} $$
 
 $$V = a^3$$
 
-$$\therefore \rho = \frac{\text{constant}}{a^({1+\frac{1}{3}})}$$
+$$\therefore \rho = \frac{\text{constant}}{a^3({1+\frac{1}{3}})}$$
 
 $$ie, \; \rho = \frac{\text{constant}}{a^4}$$
 
