@@ -745,3 +745,14 @@ $$ie, \; \rho = \frac{\text{constant}}{a^4}$$
 
 റേഡിയേഷന്‍ കൊണ്ട് നിറഞ്ഞ പ്രപഞ്ചത്തില്‍, എനര്‍ജി ഡെന്‍സിറ്റി \\(\frac{1}{a^4}\\) ന് ആനുപാതികമായി “ഡൈല്യൂട്ട്” ആകുന്നു.
 
+ഇനി ഒരു കേസ് കൂടി ഉണ്ട് – വാക്വം എനര്‍ജി/കോസ്മളോജിക്കല്‍ കോണ്‍സ്റ്റന്‍റ് കേസ്. പക്ഷെ അതിനു മുന്‍പ്, പ്രപഞ്ചത്തിന്‍റെ ജിയോമെട്രിയെ കുറിച്ച് നോക്കാം, അടുത്ത ചാപ്റ്ററില്‍.
+
+<table>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation">മുമ്പത്തെ  ചാപ്റ്റര്&zwj;</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
+<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
+</tr>
+</tbody>
+</table>
