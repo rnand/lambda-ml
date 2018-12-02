@@ -858,7 +858,7 @@ $$\left( \frac{ \dot a}{a} \right)^2 = \Lambda$$
 
 സ്ക്വയര്‍ റൂട്ട് എടുത്താല്‍:
 
-$$\\frac {\dot a}{a} = \sqrt{\Lambda}$$
+$$\frac {\dot a}{a} = \sqrt{\Lambda}$$
 
 അതായത്:
 
