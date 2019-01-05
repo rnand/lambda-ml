@@ -363,7 +363,7 @@ nav_order: 6
   </foreignObject>
   
   <line x1="240" y1="2950" x2="260" y2="2950" style="stroke:black; stroke-width:1;" />  <!-- Mark 29.5 with 1.2 x 10^13 s-->
-  <foreignObject x="270" y="2930" width="100" height="100">
+  <foreignObject x="270" y="2930" width="130" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Times; font-size:15px">
     \(\scriptsize{1.2 * 10^{13}} (380,000 years)\)
     </div>
