@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 1
+---
+
 
 # കോസ്മോളജി  --- സ്റ്റാൻഡേർഡ് മോഡൽ 
 The Standard Model of Cosmology (in Malayalam)
