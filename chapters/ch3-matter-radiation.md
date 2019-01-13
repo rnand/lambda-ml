@@ -598,7 +598,10 @@ $$\nu = \frac {\text{number of photons}}{\text{volume}}$$
 
 
 നമ്മുടെ പെട്ടിയുടെ ഒരു ഭിത്തി എടുക്കാം:
-[[]]
+
+<p align="center">
+ <img src="../images/photons-that-hit-in-time-t.png" width="320" title="Photons that hit the wall within a small interval t"/>
+ </p>
 
 ഫോട്ടോണുകള്‍ ഈ ഭിത്തിയുടെ ഇടതു വശത്താണ്.
 
