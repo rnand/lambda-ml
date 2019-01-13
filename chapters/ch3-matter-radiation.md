@@ -630,6 +630,10 @@ $$\Delta x = \Delta t$$
 
 $$\Delta x = \Delta t \; cos \theta$$
 
+<p align="center">
+ <img src="../images/photons-that-hit---cosine-theta.png" width="320" title="Photons that hit the at angle theta"/>
+ </p>
+
 \\( cos \theta = 1\\) ആണെങ്കില്‍, ഫോട്ടോണ്‍ ഭിത്തിക്ക് ലംബമായി ചലിക്കുന്നു എന്ന് അര്‍ത്ഥം.  \\( cos \theta =0\\) ആണെങ്കില്‍, ഫോട്ടോണ്‍ നേരെ മേല്‍പ്പോട്ടു പോകുന്നു എന്നും അര്‍ത്ഥം.
 
 ഇനി, ഒരു ഫോട്ടോണ്‍ ഭിത്തിയില്‍ ഇടിച്ചു എന്നിരിക്കട്ടെ. അതിന്‍റെ മൊമെന്‍റത്തില്‍ ഉണ്ടായ മാറ്റം എത്രയാകും?
