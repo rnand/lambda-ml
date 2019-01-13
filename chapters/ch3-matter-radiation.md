@@ -600,7 +600,7 @@ $$\nu = \frac {\text{number of photons}}{\text{volume}}$$
 നമ്മുടെ പെട്ടിയുടെ ഒരു ഭിത്തി എടുക്കാം:
 
 <p align="center">
- <img src="../images/photons-that-hit-in-time-t.png" width="320" title="Photons that hit the wall within a small interval t"/>
+ <img src="../images/photons-that-hit-in-time-t.png" width="320" title="Photons and the wall"/>
  </p>
 
 ഫോട്ടോണുകള്‍ ഈ ഭിത്തിയുടെ ഇടതു വശത്താണ്.
@@ -612,6 +612,10 @@ $$\nu = \frac {\text{number of photons}}{\text{volume}}$$
 ഉത്തരം: ഭിത്തിയോട് ഏറ്റവും അടുത്തുത്തുള്ള ഫോട്ടോണുകള്‍ ആകും ഭിത്തിയില്‍ സമയം  \\(\Delta t\\)യില്‍ ഇടിക്കുക – അവ വലത്തേക്ക് ചലിക്കുകയാണെങ്കില്‍.
 
 ഒരു ചെറിയ ദൂരം: \\(\Delta x\\) എടുക്കാം.
+
+<p align="center">
+ <img src="../images/photons-that-hit-in-distance-x.png" width="320" title="Photons that hit the wall within a small distance x"/>
+ </p>
 
 \\(\Delta x\\)ക്ക് ഉള്ളില്‍ ഉള്ള, ഭിത്തിക്ക് നേര്‍ ലംബമായി ചലിക്കുന്ന ഫോട്ടോണുകള്‍, \\(\Delta t\\) സമയത്തിനുള്ളില്‍ ഭിത്തിയില്‍ വന്നിടിക്കും.
 
