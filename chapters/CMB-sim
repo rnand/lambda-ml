@@ -1,0 +1,6 @@
+---
+title: External Posts in Jekyll
+nav_order: 7
+layout: external
+external_url: https://rnand.github.io/planckapps/Simulator/
+---
