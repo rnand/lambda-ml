@@ -508,3 +508,5 @@ $$a = t^{\frac{2}{3}}$$
 </tr>
 </tbody>
 </table>
+
+[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation){: .btn .btn-purple } 
