@@ -499,14 +499,4 @@ $$a = t^{\frac{2}{3}}$$
 അതിലേക്കു പോകുന്നതിനു മുന്‍പ് നമുക്ക് പ്രപഞ്ചത്തില്‍ ഉള്ള മറ്റുതരം വസ്തുക്കളെ കുറിച്ചും, അവയെക്കൊണ്ടു പ്രപഞ്ചം നിറഞ്ഞിരുന്നാല്‍ ഈ സമവാക്യങ്ങള്‍ എങ്ങനെ മാറും എന്നും എല്ലാം നോക്കാം, അടുത്ത ചാപ്ടറില്‍.
 
 
-<table>
-<tbody>
-<tr>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch1-intro.html">മുമ്പത്തെ  ചാപ്റ്റര്&zwj;</a></td>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
-</tr>
-</tbody>
-</table>
-
 [മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation){: .btn .btn-purple } 
