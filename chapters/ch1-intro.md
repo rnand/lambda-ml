@@ -276,7 +276,7 @@ $$C = HD$$
 <div style="background-color:#f2dede; border-color: #ebccd1;padding: 8px">
   ഹെഡ് ഫോണ്‍ ഉപയോഗിക്കുന്നവര്‍ വോള്യം കുറയ്ക്കുക
 </div>  
-<audio src="https://upload.wikimedia.org/wikipedia/commons/9/90/Speeding-car-horn_doppler_effect_sample.ogg" controls preload style="width: 200px;"></audio>
+<audio src="https://upload.wikimedia.org/wikipedia/commons/9/90/Speeding-car-horn_doppler_effect_sample.ogg" controls preload style="width: 100%;"></audio>
 <p align="left" style = "font-size:8px"> <a href="https://en.wikipedia.org/wiki/File:Speeding-car-horn_doppler_effect_sample.ogg">Credit: Wikipedia user Magickallwiz</a></p>
 
 <p align="center">
