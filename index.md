@@ -132,10 +132,7 @@ We will not be afraid to speculate. But we'll be careful to distinguish speculat
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."</p>
 </div>
  
- <br/>
  
-[ഇവിടുന്നു വായിച്ചു തുടങ്ങൂ](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html){: .btn .btn-purple }
-
 
 ### ഇത് മൊത്തം കണക്കാണല്ലോ! ഹൊ തലവേദനയെടുക്കുന്നു!
 
@@ -159,3 +156,6 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 The goal is to understand, not to memorize.<br/>
 മനസ്സിലാക്കുക എന്നതാണ് നമ്മുടെ ലക്ഷ്യം, കാണാപ്പാഠം ആക്കുക അല്ല.
  </div>
+ 
+<br/>
+[ഇവിടുന്നു വായിച്ചു തുടങ്ങൂ](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html){: .btn .btn-purple }
