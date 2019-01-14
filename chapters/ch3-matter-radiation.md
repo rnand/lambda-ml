@@ -936,12 +936,4 @@ $$a = constant \; e^{Ht}$$
 
 
 
-<table>
-<tbody>
-<tr>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation">മുമ്പത്തെ  ചാപ്റ്റര്&zwj;</a></td>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
-</tr>
-</tbody>
-</table>
+[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe){: .btn .btn-purple } 
