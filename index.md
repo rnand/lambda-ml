@@ -132,6 +132,7 @@ We will not be afraid to speculate. But we'll be careful to distinguish speculat
 The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, of the awesome machinery of nature."</p>
 </div>
  
+ <br/>
  
 [ഇവിടുന്നു വായിച്ചു തുടങ്ങൂ](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html){: .btn .btn-purple }
 
