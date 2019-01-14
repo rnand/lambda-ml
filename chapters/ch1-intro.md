@@ -393,11 +393,5 @@ $$ z = \frac {\lambda_{o}}{\lambda_{e}} - 1 $$<br/><br/>
 
 [പ്രപഞ്ച പരിണാമത്തിന്‍റെ ടൈം ലൈന്‍](https://rnand.github.io/lambda-ml/chapters/universe-timeline.html){: .btn .btn-purple}
 
-<table style=" border=1">
-<tbody>
-<tr>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml">ഹോം</a></td>
-<td style="text-align:center"><a href="https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html">അടുത്ത ചാപ്റ്റര്&zwj;</a></td>
-</tr>
-</tbody>
-</table>
+<br/>
+[ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html){: .btn .btn-purple }
