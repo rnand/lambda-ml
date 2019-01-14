@@ -133,15 +133,7 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 </div>
  
  
-### ചാപ്റ്ററുകള്‍
-
-[Chapter 1 - Introductory ideas](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html) 
-
-[Chapter 2 - Mass/Energy density and the Friedmann Equations from Newton](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html)
-
-[Chapter 3 - Matter, Radiation and the scale factor](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation.html)
-
-[Timeline of the Universe](https://rnand.github.io/lambda-ml/chapters/universe-timeline)
+[ഇവിടുന്നു വായിച്ചു തുടങ്ങൂ](https://rnand.github.io/lambda-ml/chapters/ch1-intro.html){: .btn .btn-purple }
 
 
 ### ഇത് മൊത്തം കണക്കാണല്ലോ! ഹൊ തലവേദനയെടുക്കുന്നു!
