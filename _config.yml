@@ -1,2 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
+# Aux links for the upper right navigation
+aux_links:
+    "സി എം ബി സിമുലേറ്റര്‍":
+      - "https://rnand.github.io/planckapps/Simulator/"
