@@ -259,4 +259,4 @@ $$d \Omega_1^2 = dS^2 = d \phi^2$$
 
 അതിന്‍റെ മെട്രിക് ഇങ്ങനെ എഴുതാം:
 
-$$dS^2 = d \theta + sin^2 \theta + d \phi^2$$
+$$dS^2 = d \theta^2 + sin^2 \theta + d \phi^2$$
