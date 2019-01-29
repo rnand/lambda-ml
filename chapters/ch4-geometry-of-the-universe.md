@@ -231,11 +231,19 @@ $$x^2 + y^2 + z^2 + w^2 = 1  = \Omega_3 $$
 
 അങ്ങനെയാണെങ്കില്‍ ആ  വൃത്തത്തിലെ രണ്ടു പോയിന്‍റുകള്‍  തമ്മിലുള്ള ദൂരം എങ്ങനെ വിവരിക്കും?
 
-[[]]
 
-ചിത്രം നോക്കുകയാണെങ്കില്‍, ആ പോയിന്‍റുകള്‍  തമ്മിലുള്ള  അകലം, അവ തമ്മിലുള്ള ആങ്കിളിന് ആനുപാതികമാണെന്ന് കാണാം.
+<p align="center">
+ <img src="../images/distance-between-two-points-on-a-circle.png" width="320" title="Distance between two points on a circle."/>
+</p>
+
+ചിത്രം നോക്കുകയാണെങ്കില്‍, ആ പോയിന്‍റുകള്‍ തമ്മിലുള്ള അകലം, അവ തമ്മിലുള്ള ആങ്കിളിന്‍റെ വ്യത്യാസത്തിനു ആനുപാതികമാണെന്ന് കാണാം.
 
  
 അപ്പോള്‍ നമുക്ക് ആ അകലം ഇങ്ങനെ വിവരിക്കാം:
 
 $$dS^2 = d \phi^2$$
+
+<p align="center">
+ <img src="../images/distance-between-two-points-on-a-circle-using-angle-phi.png" width="320" title="Distance between two points on a circle described using an angle."/>
+</p>
+
