@@ -247,3 +247,8 @@ $$dS^2 = d \phi^2$$
  <img src="../images/distance-between-two-points-on-a-circle-using-angle-phi.png" width="320" title="Distance between two points on a circle described using an angle."/>
 </p>
 
+മുമ്പ് ചെയ്ത പോലെ ഇതിനും ഒരു പേര് നല്‍കാം: \\(d \Omega_1^2\\) (ഡി ഒമേഗ വണ്‍ സ്ക്വയേഡ്)
+
+അതായത്,
+
+$$d \Omega_1^2 = dS^2 = d \phi^2$$
