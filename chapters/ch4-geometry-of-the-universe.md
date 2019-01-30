@@ -267,7 +267,7 @@ $$d \Omega_1^2 = dS^2 = d \phi^2$$
 ഒരു 2-സ്ഫിയറിനെ ഇതുപോലെ വിവരിക്കാന്‍ രണ്ട് ആങ്കിളുകള്‍ ആവശ്യമാണ്‌: \\( \phi\\)യും \\( \alpha\\)യും.
 
 
-\\( \phi\\) എന്ന ആങ്കിള്‍ 1-സ്ഫിയരുകളെ വിവരിക്കുന്നു:
+\\( \phi\\) എന്ന ആങ്കിള്‍ 1-സ്ഫിയറുകളെ വിവരിക്കുന്നു:
 
 <p align="center">
  <img src="../images/2-sphere-from-1-spheres--angle-phi.png" width="320" title="Angle phi describes the 1-spheres."/>
