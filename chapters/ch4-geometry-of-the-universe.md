@@ -310,16 +310,16 @@ $$d \Omega_2^2 = d \alpha^2 + sin^2 \alpha \; d \Omega_1^2 $$
 
 അപ്പോള്‍, ഒരു 3-സ്ഫിയറിനെ ഇങ്ങനെ വിവരിക്കാം:
 
-$$dS^2 = d \alpha^2 + sin^2 \alpha  d \Omega_2^2$$
+$$dS^2 = d \alpha^2 + sin^2 \alpha \; d \Omega_2^2$$
 
 ഇതിനെ പൂര്‍ണ്ണമായി എഴുതിയാല്‍:
 
-$$dS^2 = d \alpha^2 + sin^2 \alpha  [d \alpha^2 + sin^2 \alpha  d \Omega_1^2]$$
+$$dS^2 = d \alpha^2 + sin^2 \alpha \;  \left( d \alpha^2 + sin^2 \alpha \;  d \Omega_1^2 \right)$$
 
 ഒരു 4-സ്ഫിയറിനെ ഇങ്ങനെ വിവരിക്കാം:
 
-$$dS^2 = d \alpha^2 + sin^2 \alpha  d \Omega_3^2$$
+$$dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_3^2$$
 
 ഒരു 5-സ്ഫിയറിനെ ഇങ്ങനെ വിവരിക്കാം:
 
-$$dS^2 = d \alpha^2 + sin^2 \alpha  d \Omega_4^2$$
+$$dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_4^2$$
