@@ -262,8 +262,17 @@ $$d \Omega_1^2  = d \phi^2$$
  <img src="../images/2-sphere-from-1-spheres.png" width="320" title="A 2-sphere made up of 1-spheres."/>
 </p>
 
-വൃത്തത്തിന്‍റെ മെട്രിക് എഴുതിയപോലെ, ഇവിടെയും നമ്മള്‍  1-സ്ഫിയറിന്‍റെ മദ്ധ്യത്തില്‍ നില്‍ക്കുകയാണ് എന്ന് സങ്കല്‍പ്പിക്കുക. അതായത് ഈ ഗോളങ്ങളുടെ ഏതെങ്കിലും ഒരു ധ്രുവത്തില്‍ ആണ് നാം.
+വൃത്തത്തിന്‍റെ മെട്രിക് എഴുതിയപോലെ, ഇവിടെയും നമ്മള്‍  1-സ്ഫിയറിന്‍റെ മദ്ധ്യത്തില്‍ നില്‍ക്കുകയാണ് എന്ന് സങ്കല്‍പ്പിക്കുക. അതായത് ഈ ഗോളങ്ങളുടെ ഏതെങ്കിലും ഒരു ധ്രുവത്തില്‍ ആണ് നാം:
 
+<p align="center">
+ <img src="../images/2-sphere-from-1-spheres--angle-phi---our-position.png" width="320" title="Our position on the sphere."/>
+</p>
+
+ഈ ധ്രുവങ്ങള്‍ ഇങ്ങനെ തന്നെ ആകണം എന്നില്ല. ഏതു രണ്ടു പോയിന്‍റുകള്‍ വേണമെങ്കിലും എടുക്കാം:
+
+<p align="center">
+ <img src="../images/2-sphere-from-1-spheres--angle-phi---our-position-arbitrary.png" width="320" title="Our position on the sphere is arbitrary."/>
+</p>
 
 ഒരു 2-സ്ഫിയറിനെ ഇതുപോലെ വിവരിക്കാന്‍ രണ്ട് ആങ്കിളുകള്‍ ആവശ്യമാണ്‌: \\( \phi\\)യും \\( \alpha\\)യും.
 
