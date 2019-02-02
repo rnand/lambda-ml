@@ -154,7 +154,7 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 ബന്ധപ്പെട്ട മറ്റു പുസ്തകങ്ങള്‍:
 
-1. The Universe in a Heliup Droplet by Grigory E. Volovik : exploring the fundamental relations between three vast areas of physics - particle physics, cosmology and condensed matter physics
+1. The Universe in a Helium Droplet by Grigory E. Volovik : exploring the fundamental relations between three vast areas of physics - particle physics, cosmology and condensed matter physics
 
 2. A course in modern mathematical physics by Peter Szekeres: Deep Mathematical concepts that underpin the natural world
 
