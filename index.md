@@ -148,9 +148,20 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 (From beginner to advanced level)
 
 1. Introduction to Cosmology 2nd Edition by Barbara Ryden
-2. Cosmology lecture series by Leonard Susskind
+2. Cosmology lecture series by Leonard Susskind (available on youtube)
 3. Modern Cosmology 1st Edition by Scott Dodelson
 4. Physical Foundations of Cosmology 1st Edition by Viatcheslav Mukhanov
+
+ബന്ധപ്പെട്ട മറ്റു പുസ്തകങ്ങള്‍:
+
+1. The Universe in a Heliup Droplet by Grigory E. Volovik : exploring the fundamental relations between three vast areas of physics - particle physics, cosmology and condensed matter physics
+
+2. A course in modern mathematical physics by Peter Szekeres: Deep Mathematical concepts that underpin the natural world
+
+3. QED - The Strange Theory of Light and Matter by Richard P. Feynman: All about Quantum Electro Dynamics
+
+4. Mathematics - Its Content, Methods and Meaning by A. D. Aleksandrov, A. N. Kolmogorov, M. A. Lavrent'ev: Covers topics such as Analysis and Analytic Geometry. This is mainly a Mathematics focused book but gives deep understanding of some concepts that are helpful.
+
 
 <div style="background-color:#d2e1c8; padding: 8px">
 The goal is to understand, not to memorize.<br/>
