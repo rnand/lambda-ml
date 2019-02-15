@@ -371,6 +371,12 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
  <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Usgs_map_mercator.svg"> Credit: Wikipedia</a></p>
 </p>
 
+
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Worlds_animate.gif" width="320" title="Mercator projection distortions."/>
+ <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Worlds_animate.gif"> Credit: Wikipedia</a></p>
+</p>
+
 നാം ചെയ്യാന്‍ പോകുന്ന പ്രൊജക്ഷന്‍റെ പേര് “സ്റ്റെരിയോഗ്രാഫിക് പ്രൊജക്ഷന്‍” എന്നാണ്.
 
 ഇതിനും പല പ്രത്യേകതകള്‍ ഉണ്ട്. ഇത് ഒരു കണ്‍ഫോര്‍മല്‍ (conformal) പ്രൊജക്ഷന്‍  ആണ്. അതായത് ആങ്കിളുകള്‍ കാത്തുസൂക്ഷിക്കപ്പെടുന്നു.
