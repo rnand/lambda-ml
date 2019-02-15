@@ -367,7 +367,7 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
  മെര്‍ക്കേറ്റര്‍ പ്രൊജക്ഷന്‍റെ ഒരു പ്രത്യേകത എന്തെന്നാല്‍ അത് ആങ്കിളുകളും ഷെയിപ്പുകളും കാത്തുസൂക്ഷിക്കുന്നു എന്നതാണ്. പക്ഷെ അവയുടെ വലിപ്പം കാത്തുസൂക്ഷിക്കുന്നില്ല. അതായത് ഒരു ഗ്ലോബില്‍ നിന്നും ഭൂപടത്തിലേക്ക് ഒരു ഭൂഖണ്ഡത്തെ ചിത്രീകരിക്കുമ്പോള്‍, അവയുടെ ഷെയിപ്പ് കൃത്യമായിരിക്കും പക്ഷെ അവയുടെ വലിപ്പം ധ്രുവങ്ങളോട് അടുക്കുംതോറും വളരെയധികം വലുതാകുന്നു.
  
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Usgs_map_mercator.svg" width="320" title="Mercator projection distortions."/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Usgs_map_mercator.svg" width="620" title="Mercator projection distortions."/>
  <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Usgs_map_mercator.svg"> Credit: Wikipedia</a></p>
 </p>
 
