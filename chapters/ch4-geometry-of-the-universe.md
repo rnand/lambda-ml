@@ -398,7 +398,7 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 ആ 3-സ്ഫിയറിന്‍റെ ഏതെങ്കിലും ഒരു ധ്രുവം ഒറിജിന്‍ പോയിന്‍റില്‍ വരുന്ന രീതിയില്‍ വേണം വെക്കാന്‍. ആ ധ്രുവത്തിലാണ്  നമ്മള്‍ എന്ന് സങ്കല്‍പ്പിക്കുക (അതിനെ നമുക്ക് തെക്കേ ധ്രുവം (South pole) എന്ന് വിളിക്കാം):
 
 <p align="center">
- <img src="../images/3sphere-on-an-Infinite-plane.png" width="320" title="A 3-sphere on an infinite plane"/>
+ <img src="../images/3sphere-on-an-Infinite-plane.png" width="520" title="A 3-sphere on an infinite plane"/>
 </p>
 
 3-സ്ഫിയറില്‍ ഉള്ള ഒരു പോയിന്‍റ് എടുക്കാം. ഇതിനെ പ്ലെയിനിലേക്ക് പ്രൊജെക്റ്റ്‌ ചെയ്യാന്‍ താഴെ പറയുന്ന കാര്യങ്ങള്‍ ചെയ്യുക:
