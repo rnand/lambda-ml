@@ -162,6 +162,7 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 4. Mathematics - Its Content, Methods and Meaning by A. D. Aleksandrov, A. N. Kolmogorov, M. A. Lavrent'ev: Covers topics such as Analysis and Analytic Geometry. This is mainly a Mathematics focused book but gives deep understanding of some concepts that are helpful.
 
+5. Mathematical Methods in Quantum Mechanics With Applications to Schrodinger Operators by Gerald Teschl - Mathematical Foundations of Quantum Mechanics. (Available for free here:  https://www.mat.univie.ac.at/%7Egerald/ftp/book-schroe/schroe.pdf)
 
 <div style="background-color:#d2e1c8; padding: 8px">
 The goal is to understand, not to memorize.<br/>
