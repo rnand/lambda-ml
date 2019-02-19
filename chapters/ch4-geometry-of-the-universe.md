@@ -409,15 +409,18 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 
 1.	വടക്കേ ധ്രുവത്തില്‍ നിന്നും ആരംഭിച്ച്, നമ്മള്‍ പരിഗണിക്കുന്ന പോയിന്‍റിലൂടെ കടന്നു പോകുന്ന ഒരു സ്ട്രെയിറ്റ് ലൈന്‍ വരക്കുക.
 
-[[]]
+<p align="center">
+ <img src="../images/project-point-to-plane1.png" width="520" title="Project a point onto an infinite plane"/>
+</p>
 
 2.	ഈ ലൈന്‍, പ്ലെയിനില്‍ വന്നിടിക്കുന്ന പോയിന്‍റ് അടയാളപ്പെടുത്തുക.
 
-[[]]
+<p align="center">
+ <img src="../images/project-point-to-plane2.png" width="520" title="Project a point onto an infinite plane"/>
+</p>
 
 3.	ഈ പോയിന്‍റ് ആണ് 2-സ്ഫിയറിലെ പോയിന്‍റിന്‍റെ പ്ലെയിനില്‍ ഉള്ള പ്രൊജക്ഷന്‍.
 
-[[]]
 
 
 
