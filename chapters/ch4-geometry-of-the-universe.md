@@ -465,7 +465,7 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 
 
 <p align="center">
-    <img src="../images/plane-looking-head-on.png" width="520" title="The plane - looking head-on"/>
+    <img src="../images/plane-looking-head-on.png" width="320" title="The plane - looking head-on"/>
 </p>
 
 ### FLRW മെട്രിക്
