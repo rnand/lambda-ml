@@ -442,6 +442,12 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
     <img src="../images/project-a-circle-to-plane-lines.png" width="520" title="Project a circle on the sphere onto an infinite plane"/>
 </p>
 
+സൗത്ത്‌ പോളില്‍ നിന്നും കുറച്ചുകൂടി അകലെ ഉള്ള ഒരു വൃത്തം എങ്ങനെ പ്രൊജെക്റ്റ് ആകും എന്ന് നോക്കാം:
+
+<p align="center">
+    <img src="../images/project-a-farther-circle-to-plane-lines.png" width="520" title="Projection of a circle farther away from the south pole on the sphere onto an infinite plane"/>
+</p>
+
 ### FLRW മെട്രിക്
 
 നമ്മുടെ പ്രപഞ്ചത്തിന്‍റെ ജിയോമെട്രിയെ വിവരിക്കുന്ന മെട്രിക് ആണ് FLRW മെട്രിക്. ജനറല്‍ ആപേക്ഷികതയില്‍ നിന്നാണ് ഇത് ഡിറൈവ് ചെയ്തിട്ടുള്ളത്. അത് ഇങ്ങനെ:
