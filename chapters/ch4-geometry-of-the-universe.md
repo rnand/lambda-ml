@@ -422,8 +422,11 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 (3)	ഈ പോയിന്‍റ് ആണ് 2-സ്ഫിയറിലെ പോയിന്‍റിന്‍റെ പ്ലെയിനില്‍ ഉള്ള പ്രൊജക്ഷന്‍.
 
 
+മറ്റൊരു ഉദാഹരണം:
 
-
+ <p align="center">
+    <img src="../images/project-point-to-plane-line-another-example" width="520" title="Project another point onto an infinite plane"/>
+   </p>
 
 ### FLRW മെട്രിക്
 
