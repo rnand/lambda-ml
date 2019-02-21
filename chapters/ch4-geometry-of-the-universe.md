@@ -434,7 +434,13 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 
 <p align="center">
     <img src="../images/project-a-circle-to-plane.png" width="520" title="Project a circle on the sphere onto an infinite plane"/>
-   </p>
+</p>
+   
+നേരത്തെ ചെയ്ത പോലെ, നോര്‍ത്ത് പോളില്‍ നിന്നും വൃത്തത്തിലൂടെ കടന്നുപോകുന്ന സ്ട്രെയിറ്റ് ലൈനുകള്‍ വരക്കുക, അവ പ്ലെയിനില്‍ വന്നിടിക്കുന്ന പോയിന്‍റുകള്‍ അടയാളപ്പെടുത്തുക, ആ പോയിന്‍റുകള്‍ യോജിപ്പിച്ചാല്‍ വൃത്തമായി :
+
+<p align="center">
+    <img src="../images/project-a-circle-to-plane-lines.png" width="520" title="Project a circle on the sphere onto an infinite plane"/>
+</p>
 
 ### FLRW മെട്രിക്
 
