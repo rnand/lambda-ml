@@ -492,7 +492,7 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 
 ഉദാഹരണത്തിന്, ഒരു 2 ഡൈമെന്‍ഷണല്‍ ഹൈപര്‍ബോളിക് ജിയോമെട്രിയുടെ മെട്രിക്ക് (\\(d\mathscr{H}^2\\)) ഇങ്ങനെ എഴുതാം:
 
-$$dS^2 = d\alpha^2 + sinh^2 \alpha d\Omega_2^2$$ 
+$$dS^2 = d\alpha^2 + sinh^2 \alpha \; d\Omega_2^2$$ 
 
 
 ### FLRW മെട്രിക്
