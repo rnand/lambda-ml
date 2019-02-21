@@ -479,7 +479,7 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 ഒരു ഫ്ലാറ്റ് സ്പേസ് ആണെങ്കില്‍, സബ്ടെന്‍റ് ചെയ്യുന്ന ആങ്കിളുകള്‍, ഒബ്ജെകറ്റുകള്‍ അകലുന്തോറും കുറഞ്ഞു കുറഞ്ഞു വരും:
 
 <p align="center">
-    <img src="../images/angle-of-subtend.png" width="420" title="Angle of subtend on a flat space"/>
+    <img src="../images/angle-of-subtend.png" width="520" title="Angle of subtend on a flat space"/>
 </p>
 
 <hr>
