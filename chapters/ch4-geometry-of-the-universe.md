@@ -425,7 +425,15 @@ $$  dS^2 = d \alpha^2 + sin^2 \alpha \;  d \Omega_{D-1}^2$$
 മറ്റൊരു ഉദാഹരണം:
 
  <p align="center">
-    <img src="../images/project-point-to-plane-line-another-example" width="520" title="Project another point onto an infinite plane"/>
+    <img src="../images/project-point-to-plane-line-another-example.png" width="520" title="Project another point onto an infinite plane"/>
+   </p>
+   
+സ്ഫിയറില്‍ ഉള്ള വൃത്തങ്ങളെ ഇത്തരത്തില്‍ എങ്ങനെ പ്രൊജെക്റ്റ് ചെയ്യും എന്ന് നോക്കാം.
+
+സൗത്ത്‌ പോളിന് ചുറ്റും വളരെ അകലെ അല്ലാതെയുള്ള ഒരു വൃത്തം പരിഗണിക്കാം (സൗത്ത്‌ പോളിന് ചുറ്റും എന്നുവെച്ചാല്‍ നമ്മുടെ ചുറ്റും; നമ്മള്‍ സൗത്ത്‌ പോളില്‍ ആണെന്ന് നേരത്തെ സങ്കല്‍പ്പിച്ചല്ലോ):
+
+<p align="center">
+    <img src="../images/project-a-circle-to-plane.png" width="520" title="Project a circle on the sphere onto an infinite plane"/>
    </p>
 
 ### FLRW മെട്രിക്
