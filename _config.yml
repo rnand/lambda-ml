@@ -2,7 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
-title: The Standard Model of Cosmology in Malayalam
 # Aux links for the upper right navigation
 aux_links:
     "സി എം ബി സിമുലേറ്റര്‍":
