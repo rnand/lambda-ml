@@ -543,6 +543,24 @@ $$T^2-x^2- y^2 = 1$$
 <p align="center">
     <img src="../images/hyperboloid_w_plane.png" width="520" title="Steriographic projection - hyperboloid to plane"/>
  </p>
+ 
+ ഹൈപര്‍ബൊളോയിഡിലെ ഒരു പോയിന്‍റ് എടുക്കാം:
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-a-point.png" width="520" title="A point on the hyperboloid to project onto the plane."/>
+ </p>
+
+നാം നിര്‍മ്മിച്ച കോര്‍ഡിനേറ്റിന്‍റെ ഒറിജിനില്‍ നിന്നും (അതായത് \\(T=0\\) യില്‍ നിന്നും) ഈ പോയിന്‍റിലൂടെ കടന്നുപോകുന്ന ഒരു സ്ട്രൈറ്റ്‌ ലൈന്‍ വരക്കുക:
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-a-point-straight-line.png" width="520" title="A straight line from the origin of the coordinates to through the point on the hyperboloid."/>
+ </p>
+
+ഈ ലൈന്‍ പ്ലെയിനില്‍ ഇടിക്കുന്ന പോയിന്‍റ് ആണ് ഹൈപര്‍ബൊളോയിഡിലെ പോയിന്‍റിന്‍റെ മാപ്പിങ്ങ്:
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-a-point-straight-line-intersection.png" width="520" title="The intersection of the line on the plane is the mapping."/>
+ </p>
 
 ### FLRW മെട്രിക്
 
