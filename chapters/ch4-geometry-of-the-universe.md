@@ -529,6 +529,10 @@ $$T^2-x^2- y^2 = 1$$
 
 ഇത് ഇങ്ങനെ ഇരിക്കും:
 
+<p align="center">
+    <img src="../images/hyperboloid.png" width="520" title="A hyperboloid (in purple)"/>
+    <p align="center" style = "font-size:8px"> പര്‍പിള്‍ നിറത്തില്‍ കാണുന്നതാണ് ഒരു ഹൈപര്‍ബൊളോയിഡ് </p>
+</p>
 
 
 
