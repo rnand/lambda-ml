@@ -563,6 +563,23 @@ $$T^2-x^2- y^2 = 1$$
 <p align="center">
     <img src="../images/hyperboloid_w_plane-a-point-straight-line-intersection.png" width="520" title="The intersection of the line on the plane is the mapping."/>
  </p>
+ 
+ കൂടുതല്‍ ഉദാഹരണങ്ങള്‍:
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-a-point-straight-line-intersection2.png" width="520" title="Another mapping."/>
+ </p>
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-a-point-straight-line-intersection3.png" width="520" title="Yet another mapping."/>
+ </p>
+
+ഒരു കാര്യം ശ്രദ്ധിക്കുക: ഹൈപര്‍ബൊളോയിഡിലെ പോയിന്‍റുകള്‍ ഉയരത്തില്‍ പോകുന്തോറും അതിന്‍റെ പ്ലെയിനിലെ മാപ്പിംഗ് ഇരുവശവും ഉള്ള അസിംടോട്ടുകളോട് അടുക്കുന്നു. അതായത് ഹൈപര്‍ബൊളോയിഡിലെ എല്ലാ പോയിന്‍റും പ്ലെയിനിലെ ഒരു വൃത്തത്തിനുള്ളില്‍ ആയി മാപ് ചെയ്യപ്പെടും:
+
+<p align="center">
+    <img src="../images/hyperboloid_w_plane-projection-boundary.png" width="520" title="The boundary of projections"/>
+ </p>
+
 
 ### FLRW മെട്രിക്
 
