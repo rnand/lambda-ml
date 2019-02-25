@@ -542,7 +542,7 @@ $$T^2-x^2- y^2 = 1$$
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Lorentz_transform_of_world_line.gif" width="320" title="Lorentz transformation on the world line."/>
- <p align="center" style = "font-size:8px"> ലൊറെന്‍സ് ട്രാന്‍സ്ഫോര്‍മേഷന്‍. ഡാഷ് ഇട്ട ലൈന്‍ ആണ് ഒരു വീക്ഷകന്‍റെ (observer) സ്പേസ്-ടൈം.</p>
+ <p align="center" style = "font-size:8px"> ലൊറെന്‍സ് ട്രാന്‍സ്ഫോര്‍മേഷന്‍. ഡാഷ് ഇട്ട ലൈന്‍ ആണ് ഒരു വീക്ഷകന്‍റെ (observer) സ്പേസ്-ടൈം. Credit: <a href="https://en.wikipedia.org/wiki/File:Lorentz_transform_of_world_line.gif" Wikipedia</a></p>
  </p>
 
 സ്റ്റെരിയോഗ്രാഫിക് പ്രൊജക്ഷന്, ഒരു പ്ലെയിന്‍, \\(T=1\\) എന്ന പോയിന്‍റില്‍ ഒറിജിന്‍ തൊടുന്ന രീതിയില്‍ വെക്കുക:
