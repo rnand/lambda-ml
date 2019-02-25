@@ -588,7 +588,7 @@ $$T^2-x^2- y^2 = 1$$
 ആപേക്ഷികതയിലെ ലൈറ്റ് കോണ്‍ ഡയഗ്രാമുമായി ഏറെ സാദൃശ്യമുണ്ട് ഈ ചിത്രീകരണങ്ങള്‍ക്ക്:
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/World_line2.svg" width="320" title="Light cones"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/World_line2.svg" width="520" title="Light cones"/>
  <p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:World_line2.svg"> Credit: Wikipedia</a></p>
  </p>
 
