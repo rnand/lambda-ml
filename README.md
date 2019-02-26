@@ -2,6 +2,8 @@
 # കോസ്മോളജി  --- സ്റ്റാൻഡേർഡ് മോഡൽ 
 The Standard Model of Cosmology (in Malayalam)
 
+# [CLICK HERE TO VISIT THE SITE](http://rnand.github.io/lambda-ml) 
+
 ### എന്താണ് കോസ്മോളജി?
 
 വളരെ വലിയ സ്കെയിലുകളിലെ പ്രപഞ്ചത്തിന്‍റെ ഘടന , അതിന്‍റെ പരിണാമം എന്നിവയെ കുറിച്ച് പഠിക്കുന്ന ശാസ്ത്ര ശാഖയാണ് കോസ്മോളജി. 
@@ -20,5 +22,5 @@ The Standard Model of Cosmology (in Malayalam)
 
 ഇന്‍റര്‍വെബില്‍ കോസ്മോളജിയെ കുറിച്ച് മലയാളത്തില്‍ വളരെയധികം വിവരങ്ങളൊന്നും ലഭ്യമല്ലാത്തത് കൊണ്ടും, ഞാന്‍ മനസ്സിലാക്കിയ കാര്യങ്ങള്‍ ഒന്നുകൂടി ദൃഠമാക്കാനും വേണ്ടിയാണ് ഈ പ്രോജക്ട് തുടങ്ങിയത്. 
 
-# [CLICK HERE TO VISIT THE PROPERLY RENDERED SITE](http://rnand.github.io/lambda-ml) 
+
 
