@@ -10,10 +10,13 @@ nav_order: 2
 <br/>
 
 <div style="background-color:#d2e1c8; padding: 8px">
- The White Rabbit put on his spectacles. "Where shall I begin, please your Majesty?" he asked.
+ The White Rabbit put on his spectacles.
+ <br/>
+ "Where shall I begin, please your Majesty?" he asked.
+ <br/>
 
 "Begin at the beginning," the King said gravely, "and go on till you come to the end: then stop." 
-
+<br/>
 -Alice's Adventures in Wonderland by Lewis Carroll
 
  </div>
