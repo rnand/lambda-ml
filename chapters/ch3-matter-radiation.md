@@ -936,4 +936,4 @@ $$a = constant \; e^{Ht}$$
 
 
 
-[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch5-Dark-matter.html){: .btn .btn-purple } 
+[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch2-from-newton.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe){: .btn .btn-purple } 
