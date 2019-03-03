@@ -21,7 +21,7 @@ nav_order: 5
 ഉദാഹരണത്തിന് ഭൂമിയില്‍ നില്‍ക്കുന്ന ഒരാള്‍ ചുറ്റും നോക്കിയാല്‍ ഭൂമി പരന്നതാണ് എന്ന് പറയും. ഭൂമിയുടെ കര്‍വേച്ചര്‍ കാണണമെങ്കില്‍ കുറച്ചു സൂം ഔട്ട്‌ ചെയ്യണം. അല്ലെങ്കില്‍, പണ്ട് എറടോസ്തനീസ് ഭൂമിയുടെ കര്‍വേച്ചര്‍ കണക്കാക്കിയ പോലെ ചെയ്യേണ്ടി വരും.
 
 <p align="center">
- <img src="../images/https://upload.wikimedia.org/wikipedia/commons/c/c7/Eratosthenes%27_method_for_determining_the_size_of_the_Earth.svg" width="320" title="Eratosthenes' method for determining the size of the Earth"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Eratosthenes%27_method_for_determining_the_size_of_the_Earth.svg" width="320" title="Eratosthenes' method for determining the size of the Earth"/>
 	<p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Eratosthenes%27_method_for_determining_the_size_of_the_Earth.svg"> Credit: Wikipedia</a></p>
 </p>
 
