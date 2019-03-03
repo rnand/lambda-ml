@@ -8,6 +8,17 @@ nav_order: 2
  പ്രത്യേകിച്ചു എടുത്തു പറയാത്തിടത്തോളം, എല്ലായിടത്തും പ്രകാശ വേഗം, c = 1 ആയി പരിഗണിക്കുന്നു. 
  </div>
 <br/>
+
+<div style="background-color:#d2e1c8; padding: 8px">
+ The White Rabbit put on his spectacles. "Where shall I begin, please your Majesty?" he asked.
+
+"Begin at the beginning," the King said gravely, "and go on till you come to the end: then stop." 
+
+-Alice's Adventures in Wonderland by Lewis Carroll
+
+ </div>
+<br/>
+
 ചില നിരീക്ഷണങ്ങളിൽ നിന്നും തുടങ്ങാം.
 
 ### 1.	പ്രപഞ്ചത്തിന്‍റെ  ഐസോട്രോപ്പിയും ഹോമോജെനേയിറ്റിയും 
