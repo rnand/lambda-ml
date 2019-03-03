@@ -683,3 +683,6 @@ $$d\tau^2  = dt^2 – a(t)^2 (dx^2+dy^2+dz^2) $$
 സീറോ കര്‍വെച്ചര്‍ ഉള്ള മെട്രിക് ആയതിനാല്‍ ഇതിനെ \\(k=0 \\) എന്ന കേസ് എന്ന് വിളിക്കുന്നു.
 
 നമ്മുടെ പ്രപഞ്ചം \\(k=0 \\) എന്ന കേസ് ആണ് എന്നാണു പരീക്ഷണങ്ങള്‍ പറയുന്നത്. ഏകദേശം 0.4% മാര്‍ജിന്‍ ഓഫ് എറര്‍ ആണ് ഇന്ന് ലഭ്യമായ ഡാറ്റക്ക്. 
+
+
+[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch3-matter-radiation.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch5-Dark-matter.html){: .btn .btn-purple } 
