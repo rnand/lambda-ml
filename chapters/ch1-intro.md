@@ -16,7 +16,7 @@ nav_order: 2
  <br/>
 
 "Begin at the beginning," the King said gravely, "and go on till you come to the end: then stop." 
-<br/>
+<br/><br/>
 -Alice's Adventures in Wonderland by Lewis Carroll
 
  </div>
