@@ -37,7 +37,7 @@ nav_order: 6
  <img src="../images/a-star-in-galaxy-in-orbit-about-the-center.png" width="320" title="A star in a galaxy in orbit about the center."/>
 </p>
 
-ഈ നക്ഷത്രം മദ്ധ്യത്തിലെ മാസ്സിന്‍റെ ചുറ്റും ഓര്‍ബിറ്റ് ചെയ്യുന്നു (നീല നിറത്തില്‍ ഓര്‍ബിറ്റ്).\
+ഈ നക്ഷത്രം മദ്ധ്യത്തിലെ മാസ്സിന്‍റെ ചുറ്റും ഓര്‍ബിറ്റ് ചെയ്യുന്നു (നീല നിറത്തില്‍ ഓര്‍ബിറ്റ്).
 
 <p align="center">
  <img src="../images/a-star-in-galaxy-at-radius-r-from-center.png" width="320" title="A star in a galaxy in orbit at radius r from the center."/>
