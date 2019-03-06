@@ -20,3 +20,27 @@ nav_order: 6
 
 ഇതിനെ കുറിച്ച് മനസ്സിലാക്കാന്‍, ഒരു ഗ്രാവിറ്റെഷണല്‍ ഫീല്‍ഡില്‍ ഒരു ഒബ്ജെക്റ്റ് എങ്ങനെ ചലിക്കും എന്ന് നോക്കാം. ഉദാഹരണത്തിന് ഒരു നക്ഷത്രത്തിന് ചുറ്റും ഒരു ഗ്രഹം അല്ലെങ്കില്‍ ഒരു ഗാലക്സിയിലെ ഒരു നക്ഷത്രം.
 
+
+<p align="center">
+ <img src="../images/a_galaxy.png" width="320" title="A galaxy"/>
+</p>
+
+ഒരു ഗാലക്സി. ചുവന്ന നിറം മാസ് ഡിസ്ട്രിബ്യൂഷനെ കാണിക്കുന്നു. (അതായത്, മദ്ധ്യത്തില്‍ ആണ് കൂടുതല്‍ മാസ്)
+
+<p align="center">
+ <img src="../images/a-star-in-galaxy.png" width="320" title="A star in a galaxy"/>
+</p>
+
+ഒരു നക്ഷത്രത്തെ പരിഗണിക്കാം (പച്ച).
+
+<p align="center">
+ <img src="../images/a-star-in-galaxy-in-orbit-about-the-center.png" width="320" title="A star in a galaxy in orbit about the center."/>
+</p>
+
+ഈ നക്ഷത്രം മദ്ധ്യത്തിലെ മാസ്സിന്‍റെ ചുറ്റും ഓര്‍ബിറ്റ് ചെയ്യുന്നു (നീല നിറത്തില്‍ ഓര്‍ബിറ്റ്).\
+
+<p align="center">
+ <img src="../images/a-star-in-galaxy-at-radius-r-from-center.png" width="320" title="A star in a galaxy in orbit at radius r from the center."/>
+</p>
+
+ഈ ഓര്‍ബിറ്റ്, മദ്ധ്യത്തില്‍ നിന്നും \\(r\\) റേഡിയസ് അകലെ ആണ് എന്ന് വെക്കുക.
