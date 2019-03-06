@@ -73,5 +73,5 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 
 അതായത്, വെലോസിറ്റി, \\(\frac{1}{\sqrt{r}}\\)ന് ആനുപാതികമായി കുറയുന്നു എന്ന്.
 
-ഇത് കെപ്ലറുടെ മൂന്നാം നിയമമാണ് (Keplar’s laws of planetary motion).
+കുറിപ്പ്: ഇത് കെപ്ലറുടെ മൂന്നാം നിയമമാണ് (Keplar’s laws of planetary motion).
 
