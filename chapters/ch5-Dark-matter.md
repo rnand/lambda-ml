@@ -91,10 +91,12 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 
 അതായത്, ഗാലക്സികളിലെ നക്ഷത്രങ്ങളുടെ ചലനം, മദ്ധ്യത്തില്‍ നിന്നും അവ എത്ര അകലെയാണ് എന്നത് അനുസരിച്ചല്ല. മദ്ധ്യത്തില്‍ നിന്നും എത്ര ദൂരത്തായാലും ഏകദേശം ഒരേ ഓര്‍ബിറ്റല്‍ വെലോസിറ്റി ആകും അവയ്ക്ക്.
 
-<p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Galaxy_rotation_under_the_influence_of_dark_matter.ogv" width="320" title="Rotational curve of galaxies"/>
+
+<video style="display:block; margin: 0 auto;" width="300" autoplay="" loop="" muted="" controls="">
+        <source src="https://upload.wikimedia.org/wikipedia/commons/3/33/Galaxy_rotation_under_the_influence_of_dark_matter.ogv">        
+        <p class="warning">Your browser does not support HTML5 video.</p>
+</video>
  <p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/w/index.php?title=File%3AGalaxy_rotation_under_the_influence_of_dark_matter.ogv"> Credit: Wikipedia</a></p>
-</p>
 
 
 ഇങ്ങനെ സംഭവിക്കണമെങ്കില്‍ രണ്ടു വഴിയേ ഉള്ളൂ.
