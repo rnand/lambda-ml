@@ -130,7 +130,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 ഈ പ്രതിഭാസത്തെ ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് എന്ന് വിളിക്കുന്നു.
 
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/A_Horseshoe_Einstein_Ring_from_Hubble.JPG" width="320" title="Gravitational lensing of LRG 3-757."/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/A_Horseshoe_Einstein_Ring_from_Hubble.JPG" width="520" title="Gravitational lensing of LRG 3-757."/>
  <p align="center" style = "font-size:9px"> LRG 3-757 (Luminous Red Galaxy 3-757) എന്ന ഗാലക്സിയുടെ ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് കാരണം മറ്റൊരു വിദൂര ബ്ലൂ ഗാലക്സി ഒരു “റിംഗ്‌” ഷെയിപ്പില്‍ കാണപ്പെടുന്നു. ഐന്‍സ്റ്റൈന്‍ റിംഗ് എന്നാണു ഈ പ്രതിഭാസം അറിയപ്പെടുന്നത്. <a href="https://en.wikipedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG"> Credit: Wikipedia</a></p>
 </p>
 
