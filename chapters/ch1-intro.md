@@ -51,7 +51,7 @@ nav_order: 2
 
 പക്ഷെ പാര്‍ടിക്ക്ളുടെ എണ്ണം കൂടുന്നതനുസരിച്ച് അവയുടെ ഡിസ്ട്രിബ്യൂഷന്‍ ഐസോട്രോപിക്കും ഹോമോജീനിയസ്സും ആകാന്‍ തുടങ്ങുന്നു:
 
-<video style="display:block; margin: 0 auto;" width="300" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto; width:100%; height:100%"  autoplay="" loop="" muted="" controls="">
         <source src="../videos/gas distribution.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
