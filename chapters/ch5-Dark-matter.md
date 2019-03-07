@@ -131,7 +131,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/A_Horseshoe_Einstein_Ring_from_Hubble.JPG" width="520" title="Gravitational lensing of LRG 3-757."/>
- <p align="center" style = "font-size:9px"> LRG 3-757 (Luminous Red Galaxy 3-757) എന്ന ഗാലക്സിയുടെ ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് കാരണം മറ്റൊരു വിദൂര ബ്ലൂ ഗാലക്സി ഒരു “റിംഗ്‌” ഷെയിപ്പില്‍ കാണപ്പെടുന്നു. ഐന്‍സ്റ്റൈന്‍ റിംഗ് എന്നാണു ഈ പ്രതിഭാസം അറിയപ്പെടുന്നത്. <a href="https://en.wikipedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG"> Credit: Wikipedia</a></p>
+ <p align="center" style = "font-size:9px"> LRG 3-757 (Luminous Red Galaxy 3-757) എന്ന ഗാലക്സിയുടെ ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് കാരണം മറ്റൊരു വിദൂര ബ്ലൂ ഗാലക്സി ഒരു “റിംഗ്‌” ഷെയിപ്പില്‍ കാണപ്പെടുന്നു. ഐന്‍സ്റ്റൈന്‍ റിംഗ് എന്നാണു ഈ പ്രതിഭാസം അറിയപ്പെടുന്നത്. <a href="https://en.wikipedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG"> Credit: ESA/Hubble & NASA Hosted on Wikipedia</a></p>
 </p>
 
 പ്രകാശ രശ്മികള്‍ എന്തുമാത്രം വളയുന്നു എന്ന് നോക്കിയാല്‍, അവ സഞ്ചരിച്ച ഗ്രാവിറ്റേഷണല്‍ ഫീല്‍ഡിന്‍റെ ശക്തി കണക്കാക്കാം. ഇതില്‍ നിന്നും അവിടെ എന്തുമാത്രം മാസ് ഉണ്ട് എന്നും കണക്കാക്കാം.
