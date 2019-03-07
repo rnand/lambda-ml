@@ -88,3 +88,5 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 <p align="center">
  <img src="../images/velocity-distance-curve-observed.png" width="320" title="Observed Velocity - Distance curve"/>
 </p>
+
+അതായത്, ഗാലക്സികളിലെ നക്ഷത്രങ്ങളുടെ ചലനം, മദ്ധ്യത്തില്‍ നിന്നും അവ എത്ര അകലെയാണ് എന്നത് അനുസരിച്ചല്ല. മദ്ധ്യത്തില്‍ നിന്നും എത്ര ദൂരത്തായാലും ഏകദേശം ഒരേ ഓര്‍ബിറ്റല്‍ വെലോസിറ്റി ആകും അവയ്ക്ക്.
