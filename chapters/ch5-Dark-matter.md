@@ -149,12 +149,12 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് ഉപയോഗിച്ച് മാസ് ഡിസ്ട്രിബ്യൂഷന്‍ നീല നിറത്തില്‍:
 
 <p align="center">
- <img src="http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/17846/web_print.jpg" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
+ <img src="Bullet cluster CxO.harvard" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
  <p align="center" style = "font-size:9px"><a href="http://hubblesite.org/image/2401/news_release/2008-32"> Credit: NASA, ESA, CXC, M. Bradac (University of California, Santa Barbara), and S. Allen (Stanford University)</a></p>
 </p>
 
 <br/>
-<video style="display:block; margin: 0 auto; width:50%; height:50%" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto; " width ="320" autoplay="" loop="" muted="" controls="">
         <source src="../videos/1e0657_dark_matter_lg.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video><br/>
@@ -162,7 +162,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 <br/>
 ഈ ഗാലക്സികളുടെ കൊളിഷന്‍ സിമുലേഷന്‍:
 <br/>
-<video style="display:block; margin: 0 auto; width:50%; height:50%" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto;" width ="320" autoplay="" loop="" muted="" controls="">
         <source src="../videos/bullet_lg_3dsim.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video><br/>
