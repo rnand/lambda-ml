@@ -149,7 +149,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് ഉപയോഗിച്ച് മാസ് ഡിസ്ട്രിബ്യൂഷന്‍ നീല നിറത്തില്‍:
 
 <p align="center">
- <img src="../images/Bullet cluster CxO.harvard" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
+ <img src="../images/Bullet cluster CxO.harvard.jpg" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
  <p align="center" style = "font-size:9px"><a href="http://hubblesite.org/image/2401/news_release/2008-32"> Credit: NASA, ESA, CXC, M. Bradac (University of California, Santa Barbara), and S. Allen (Stanford University)</a></p>
 </p>
 
@@ -158,7 +158,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
         <source src="../videos/1e0657_dark_matter_lg.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video><br/>
-<p align="center" style = "font-size:9px"><a href="http://chandra.harvard.edu/photo/2006/1e0657/animations.html"> Credit: X-ray: NASA/CXC/CfA/M.Markevitch et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al. Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al.</a></p>
+<p align="center" style = "font-size:9px"><a href="http://chandra.harvard.edu/photo/2006/1e0657/animations.html"> Credit: X-ray: NASA/CXC/CfA/M.Markevitch et al. <br/>Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.<br/>Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al.</a></p>
 <br/>
 ഈ ഗാലക്സികളുടെ കൊളിഷന്‍ സിമുലേഷന്‍:
 <br/>
