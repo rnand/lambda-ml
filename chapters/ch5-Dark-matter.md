@@ -137,6 +137,11 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 പ്രകാശ രശ്മികള്‍ എന്തുമാത്രം വളയുന്നു എന്ന് നോക്കിയാല്‍, അവ സഞ്ചരിച്ച ഗ്രാവിറ്റേഷണല്‍ ഫീല്‍ഡിന്‍റെ ശക്തി കണക്കാക്കാം. ഇതില്‍ നിന്നും അവിടെ എന്തുമാത്രം മാസ് ഉണ്ട് എന്നും കണക്കാക്കാം.
 
 
-2006ല്‍, ഡഗ്ലസ് ക്ലോവ് തുടങ്ങിയവര്‍ നേതൃത്വം നല്‍കിയ ഒരു ഇന്‍റര്‍നാഷണല്‍ കൊളാബറേഷന്‍,   നാസയുടെ ചന്ദ്ര x-ray ഒബ്സര്‍വേറ്ററിയുടെ സഹായത്തോടെ നടത്തിയ നിരീക്ഷണങ്ങളുടെ ഫലമായി, ആസ്ട്രോ ഫിസിക്കല്‍ ജേര്‍ണല്‍ ലെറ്റേര്‍സില്‍ ഒരു പേപ്പര്‍ പബ്ലിഷ് ചെയ്തു (A Direct Empirical Proof of the Existence of Dark Matter, Douglas Clowe; et al. 2006, The Astrophysical Journal Letters). 
+2006ല്‍, ഡഗ്ലസ് ക്ലോവ് തുടങ്ങിയവര്‍ നേതൃത്വം നല്‍കിയ ഒരു ഇന്‍റര്‍നാഷണല്‍ കൊളാബറേഷന്‍, നാസയുടെ ചന്ദ്ര x-ray ഒബ്സര്‍വേറ്ററിയുടെ സഹായത്തോടെ നടത്തിയ നിരീക്ഷണങ്ങളുടെ ഫലമായി, ആസ്ട്രോ ഫിസിക്കല്‍ ജേര്‍ണല്‍ ലെറ്റേര്‍സില്‍ ഒരു പേപ്പര്‍ പബ്ലിഷ് ചെയ്തു (A Direct Empirical Proof of the Existence of Dark Matter, Douglas Clowe; et al. 2006, The Astrophysical Journal Letters). ഇതില്‍ ഇവര്‍ നിരീക്ഷിച്ചത് “ബുള്ളറ്റ് ക്ലസ്റ്റര്‍” എന്നറിയപ്പെടുന്ന ഒരു ഗാലക്സി ക്ലസ്റ്ററിനെ ആണ്.
 
-ഡാര്‍ക്ക്‌ മാറ്ററിന്‍റെ അസ്തിത്വം സംശയാതീതമായി അടിവരയിട്ട് ഈ പേപ്പറില്‍ പ്രസ്താവിക്കുന്നു.
+ബുള്ളറ്റ് ക്ലസ്റ്റര്‍ x-ray വഴി നോക്കുമ്പോള്‍ ഇങ്ങനെ:
+
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bullet_cluster.jpg" width="520" title="The Bullet Cluster through X-Ray"/>
+ <p align="center" style = "font-size:9px"><a href="https://en.wikipedia.org/wiki/File:Bullet_cluster.jpg"> Credit: Chandra X-Ray Observatory - NASA, Hosted on Wikipedia</a></p>
+</p>
