@@ -152,3 +152,10 @@ $$\sqrt{\frac{MG}{r}} =  v$$
  <img src="http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/17846/web_print.jpg" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
  <p align="center" style = "font-size:9px"><a href="http://hubblesite.org/image/2401/news_release/2008-32"> Credit: NASA, ESA, CXC, M. Bradac (University of California, Santa Barbara), and S. Allen (Stanford University)</a></p>
 </p>
+
+<br/>
+<video style="display:block; margin: 0 auto; width:100%; height:100%" autoplay="" loop="" muted="" controls="">
+        <source src="../videos/1e0657_dark_matter_lg.mpg">        
+        <p class="warning">Your browser does not support HTML5 video.</p>
+</video>
+<br/>
