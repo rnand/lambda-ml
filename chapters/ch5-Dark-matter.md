@@ -145,3 +145,10 @@ $$\sqrt{\frac{MG}{r}} =  v$$
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bullet_cluster.jpg" width="520" title="The Bullet Cluster through X-Ray"/>
  <p align="center" style = "font-size:9px"><a href="https://en.wikipedia.org/wiki/File:Bullet_cluster.jpg"> Credit: Chandra X-Ray Observatory - NASA, Hosted on Wikipedia</a></p>
 </p>
+
+ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് ഉപയോഗിച്ച് മാസ് ഡിസ്ട്രിബ്യൂഷന്‍ നീല നിറത്തില്‍:
+
+<p align="center">
+ <img src="http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/17846/web_print.jpg" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
+ <p align="center" style = "font-size:9px"><a href="http://hubblesite.org/image/2401/news_release/2008-32"> Credit: NASA, ESA, CXC, M. Bradac (University of California, Santa Barbara), and S. Allen (Stanford University)</a></p>
+</p>
