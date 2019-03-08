@@ -154,18 +154,18 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 </p>
 
 <br/>
-<video style="display:block; margin: 0 auto; width:100%; height:100%" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto; width:50%; height:50%" autoplay="" loop="" muted="" controls="">
         <source src="../videos/1e0657_dark_matter_lg.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
-</video>
+</video><br/>
 <p align="center" style = "font-size:9px"><a href="http://chandra.harvard.edu/photo/2006/1e0657/animations.html"> Credit: X-ray: NASA/CXC/CfA/M.Markevitch et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al. Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al.</a></p>
 <br/>
 ഈ ഗാലക്സികളുടെ കൊളിഷന്‍ സിമുലേഷന്‍:
 <br/>
-<video style="display:block; margin: 0 auto; width:100%; height:100%" autoplay="" loop="" muted="" controls="">
+<video style="display:block; margin: 0 auto; width:50%; height:50%" autoplay="" loop="" muted="" controls="">
         <source src="../videos/bullet_lg_3dsim.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
-</video>
+</video><br/>
 <p align="center" style = "font-size:9px"><a href="http://chandra.harvard.edu/photo/2006/1e0657/animations.html"> Credit: KIPAC/John Wise</a></p>
 <br/>
 
