@@ -149,7 +149,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 ഗ്രാവിറ്റേഷണല്‍ ലെന്‍സിങ്ങ് ഉപയോഗിച്ച് മാസ് ഡിസ്ട്രിബ്യൂഷന്‍ നീല നിറത്തില്‍:
 
 <p align="center">
- <img src="Bullet cluster CxO.harvard" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
+ <img src="../images/Bullet cluster CxO.harvard" width="520" title="The Bullet Cluster - mass distribution through Gravitational Lensing (in blue)"/>
  <p align="center" style = "font-size:9px"><a href="http://hubblesite.org/image/2401/news_release/2008-32"> Credit: NASA, ESA, CXC, M. Bradac (University of California, Santa Barbara), and S. Allen (Stanford University)</a></p>
 </p>
 
