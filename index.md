@@ -22,6 +22,11 @@ The Standard Model of Cosmology (in Malayalam)
 * D - ഡാര്‍ക്ക്‌
 * M - മാറ്റര്‍
 
+### എന്താണ് ഒരു "മോഡല്‍"?
+
+<p align="center">
+  <img src="../images/what-is-a-model.png" width="520" title="A model"/>
+ </p>
 
 ### എന്താണ് "സ്റ്റാന്‍ഡേര്‍ഡ് മോഡല്‍"?
 
