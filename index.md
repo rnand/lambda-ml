@@ -171,7 +171,7 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 <div style="background-color:#d2e1c8; padding: 8px">
 The goal is to understand, not to memorize.<br/>
-മനസ്സിലാക്കുക എന്നതാണ് നമ്മുടെ ലക്ഷ്യം, കാണാപ്പാഠം ആക്കുക അല്ല.
+മനസ്സിലാക്കുക എന്നതാണ് ലക്ഷ്യം, കാണാപ്പാഠം ആക്കുക അല്ല.
  </div>
  
 <br/>
