@@ -160,6 +160,9 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 </video><br/>
 <p align="center" style = "font-size:9px"><a href="http://chandra.harvard.edu/photo/2006/1e0657/animations.html"> Credit: X-ray: NASA/CXC/CfA/M.Markevitch et al. <br/>Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.<br/>Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al.</a></p>
 <br/>
+
+രണ്ടു ഗാലക്സികള്‍ കൂടിച്ചേര്‍ന്ന് ഉണ്ടായതാണ് ബുള്ളറ്റ് ക്ലസ്റ്റര്‍. പക്ഷെ ഈ ഗാലക്സി കളിലെ ബാരിയോണിക് മാറ്റര്‍ (അതായത് സാധാരണമായ മാറ്റര്‍) മാത്രമാണ് കൂടിച്ചേര്‍ന്നത്. ഡാര്‍ക്ക്‌ മാറ്റര്‍ അതേ സ്ഥലത്ത് തന്നെ തുടര്‍ന്നു. ഇതിനു കാരണം ഡാര്‍ക്ക്‌ മാറ്റര്‍ വളരെ വീക്ക് ആയി മാത്രമേ ഇന്‍ററാക്റ്റ് ചെയ്യുള്ളൂ  എന്നതാണ്.
+
 ഈ ഗാലക്സികളുടെ കൊളിഷന്‍ സിമുലേഷന്‍:
 <br/>
 <video style="display:block; margin: 0 auto;" width ="320" autoplay="" loop="" muted="" controls="">
