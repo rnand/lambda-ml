@@ -93,7 +93,7 @@ $$\sqrt{\frac{MG}{r}} =  v$$
 
 <div>
 <video style="display:block; margin: 0 auto; width:100%; height:100%" autoplay="" loop="" muted="" controls="">
-        <source src="https://upload.wikimedia.org/wikipedia/commons/3/33/Galaxy_rotation_under_the_influence_of_dark_matter.ogv">        
+        <source src="../videos/Galaxy_rotation_under_the_influence_of_dark_matter.mp4">        
         <p class="warning">Your browser does not support HTML5 video.</p>
 </video>
  <p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/w/index.php?title=File%3AGalaxy_rotation_under_the_influence_of_dark_matter.ogv"> Credit: Wikipedia</a></p>
