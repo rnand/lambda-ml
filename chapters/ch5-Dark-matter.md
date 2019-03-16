@@ -193,17 +193,17 @@ $$ \left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho +  \frac {\kappa
 ഇനി, എനര്‍ജി ഡെന്‍സിറ്റി റോ (\\( \rho\\)) എന്നത് പല തരത്തിലുള്ളവയില്‍ നിന്നാണ് ഉണ്ടാകുന്നത്:
 
  
-\\(C_R)\\) - റേഡിയേഷന്‍
+\\(C_R\\) - റേഡിയേഷന്‍
 
 
-\\(C_M)\\) - മാറ്റര്‍
+\\(C_M\\) - മാറ്റര്‍
 
 
-\\(C_\Lambda)\\) - ഡാര്‍ക്ക്‌ എനര്‍ജി
+\\(C_\Lambda\\) - ഡാര്‍ക്ക്‌ എനര്‍ജി
 
 എന്നുവെച്ചാല്‍ ചുരുക്കത്തില്‍:
 
-$$C_R + C_M + C_Lambda + C_\kappa = H^2$$
+$$C_R + C_M + C_\Lambda + C_\kappa = H^2$$
 
 ഇതിനെ പൊതുവേ മറ്റൊരു തരത്തില്‍ എഴുതാറുണ്ട്: \\(H\\)ന്‍റെ റേഷിയോ ആയി:
 
@@ -211,10 +211,10 @@ $$\Omega_R + \Omega_M + \Omega_\Lambda + \Omega_\kappa = 1 $$
 
 ഇവിടെ,
 
-\\(\Omega_R\\) = \\(\frac{C_R}{H^2})\\) 
+\\(\Omega_R\\) = \\(\frac{C_R}{H^2}\\) 
 
-\\(\Omega_M\\) = \\(\frac{C_M}{H^2})\\) 
+\\(\Omega_M\\) = \\(\frac{C_M}{H^2}\\) 
 
-\\(\Omega_\Lambda\\) = \\(\frac{C_\Lambda}{H^2})\\) 
+\\(\Omega_\Lambda\\) = \\(\frac{C_\Lambda}{H^2}\\) 
 
-\\(\Omega_\kappa\\) = \\(\frac{C_\kappa}{H^2})\\) 
+\\(\Omega_\kappa\\) = \\(\frac{C_\kappa}{H^2}\\)
