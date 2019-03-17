@@ -214,7 +214,7 @@ $$C_R + C_M + C_\Lambda - C_\kappa = H^2$$
 
 ഇതിനെ പൊതുവേ മറ്റൊരു തരത്തില്‍ എഴുതാറുണ്ട്: \\(H\\)ന്‍റെ റേഷിയോ ആയി:
 
-$$\Omega_R + \Omega_M + \Omega_\Lambda - \Omega_\kappa = 1 $$
+$$\Omega_R + \Omega_M + \Omega_\Lambda + \Omega_\kappa = 1 $$
 
 ഇവിടെ,
 
