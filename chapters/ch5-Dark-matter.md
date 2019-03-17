@@ -194,7 +194,7 @@ $$ \left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho $$
 
 പ്രപഞ്ചത്തിന്‍റെ ജിയോമെട്രി കൂടി പരിഗണിച്ചാല്‍, വലതുവശത്ത്‌ ഒരു ഘടകം കൂടി വരും:
 
-$$ \left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho +  \frac {\kappa}{a^2}$$
+$$ \left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho -  \frac {\kappa}{a^2}$$
 
 
 ഇനി, എനര്‍ജി ഡെന്‍സിറ്റി റോ (\\( \rho\\)) എന്നത് പല തരത്തിലുള്ളവയില്‍ നിന്നാണ് ഉണ്ടാകുന്നത്:
@@ -210,11 +210,11 @@ $$ \left( \frac {\dot a}{a}\right)^2 = \frac {8}{3} \pi  G \rho +  \frac {\kappa
 
 എന്നുവെച്ചാല്‍ ചുരുക്കത്തില്‍:
 
-$$C_R + C_M + C_\Lambda + C_\kappa = H^2$$
+$$C_R + C_M + C_\Lambda - C_\kappa = H^2$$
 
 ഇതിനെ പൊതുവേ മറ്റൊരു തരത്തില്‍ എഴുതാറുണ്ട്: \\(H\\)ന്‍റെ റേഷിയോ ആയി:
 
-$$\Omega_R + \Omega_M + \Omega_\Lambda + \Omega_\kappa = 1 $$
+$$\Omega_R + \Omega_M + \Omega_\Lambda - \Omega_\kappa = 1 $$
 
 ഇവിടെ,
 
