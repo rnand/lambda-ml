@@ -261,7 +261,7 @@ $$\frac{1}{a^2} \approx  H^2$$
 
 അപ്പോള്‍:
 
-$$\frac{\dot a}{a} = \frac {2}{3} t^{\frac{-1}{2} \; t^{\frac{-2}{3}}} = \frac{2}{3t}$$
+$$\frac{\dot a}{a} = \frac {2}{3} t^{\frac{-1}{2}} \; t^{\frac{-2}{3}} = \frac{2}{3t}$$
 
 അതായത്,
 
