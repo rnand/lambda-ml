@@ -309,8 +309,11 @@ $$\Omega_R + \Omega_c +  \Omega_b  + \Omega_\Lambda + \Omega_\kappa = 1 $$
 Try different values for these here: [സിഎംബി സിമുലേറ്റര്‍](https://rnand.github.io/planckapps/Simulator/){: .btn .btn-purple}
 
 <br/>
+
+### എന്താണ് ഡാര്‍ക്ക്‌ മാറ്റര്‍?
+
+ഡാര്‍ക്ക്‌ മാറ്റര്‍ എന്നൊരു സംഭവം ഉണ്ട് എന്ന് നമുക്ക് ഇന്ന് അറിയാം. പക്ഷെ എന്താണ് ഇതിന്‍റെ ആന്തരിക സ്ട്രക്ചര്‍, എന്തുകൊണ്ട് ഇവ ഇന്‍ററാക്റ്റ് ചെയ്യുന്നില്ല എന്നൊന്നും നമുക്ക് വലിയ പിടിയില്ല.
+
+
 <br/>
-
-
-
 [മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch6-The-CMB.html){: .btn .btn-purple } 
