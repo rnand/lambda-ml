@@ -307,3 +307,10 @@ $$\Omega_R + \Omega_c +  \Omega_b  + \Omega_\Lambda + \Omega_\kappa = 1 $$
 \\(\Omega_\kappa = 0\\)
 
 Try different values for these here: [സിഎംബി സിമുലേറ്റര്‍](https://rnand.github.io/planckapps/Simulator/){: .btn .btn-purple}
+
+<br/>
+<br/>
+
+
+
+[മുമ്പത്തെ  ചാപ്റ്റര്&zwj;](https://rnand.github.io/lambda-ml/chapters/ch4-geometry-of-the-universe.html){: .btn } [ഹോം](https://rnand.github.io/lambda-ml){: .btn } [അടുത്ത ചാപ്റ്റര്‍](https://rnand.github.io/lambda-ml/chapters/ch6-The-CMB.html){: .btn .btn-purple } 
