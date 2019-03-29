@@ -306,7 +306,7 @@ $$\Omega_R + \Omega_c +  \Omega_b  + \Omega_\Lambda + \Omega_\kappa = 1 $$
 
 \\(\Omega_\kappa = 0\\)
 
-Try different values for these here: [സിഎംബി സിമുലേറ്റര്‍](https://rnand.github.io/planckapps/Simulator/){: .btn .btn-purple}
+ഇവയുടെ വിവിധ വാല്യൂകള്‍ ഇവിടെ ടെസ്റ്റ്‌ ചെയ്യാം: [സിഎംബി സിമുലേറ്റര്‍](https://rnand.github.io/planckapps/Simulator/){: .btn .btn-purple}
 
 <br/>
 
