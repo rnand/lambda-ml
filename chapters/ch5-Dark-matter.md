@@ -352,7 +352,7 @@ $$\Omega_R + \Omega_c +  \Omega_b  + \Omega_\Lambda + \Omega_\kappa = 1 $$
 
 അതായത്, ഡാര്‍ക്ക്‌ മാറ്റര്‍ കുമിഞ്ഞു കൂടി ഉണ്ടായ ഗ്രാവിറ്റെഷണല്‍ വെല്ലിന് (Gravitational well) ഉള്ളിലേക്ക് വീണ ബാരിയോണിക് മാറ്റര്‍  പരിണമിച്ചുണ്ടായതാകാം ഗാലക്സികള്‍.
 
-എല്ലാ ഗാലക്സികള്‍ക്ക് ചുറ്റും ഡാര്‍ക്ക്‌ മാറ്റര്‍ കാണപ്പെടണം എന്നില്ല. ഈ അടുത്ത ഇടക്ക്, ഡാര്‍ക്ക്‌ മാറ്റര്‍ ഇല്ലാത്ത ചില ഗാലക്സികള്‍ കണ്ടെത്തുകയുണ്ടായി. ([https://news.yale.edu/2019/03/29/new-studies-confirm-existence-galaxies-almost-no-dark-matter](https://news.yale.edu/2019/03/29/new-studies-confirm-existence-galaxies-almost-no-dark-matter))
+എല്ലാ ഗാലക്സികള്‍ക്ക് ചുറ്റും ഡാര്‍ക്ക്‌ മാറ്റര്‍ കാണപ്പെടണം എന്നില്ല. ഈ അടുത്ത ഇടക്ക്, ഡാര്‍ക്ക്‌ മാറ്റര്‍ ഇല്ലാത്ത ചില ഗാലക്സികള്‍ കണ്ടെത്തുകയുണ്ടായി. ([Source](https://news.yale.edu/2019/03/29/new-studies-confirm-existence-galaxies-almost-no-dark-matter))
 
 
 <br/>
