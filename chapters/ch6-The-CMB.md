@@ -29,7 +29,7 @@ nav_order: 6
 ഇതാണ് ഇവര്‍ കണ്ടെത്തിയ സിഗ്നലിന്‍റെ സിഗ്നെച്ചര്‍:
 
 <p align="center">
-  <img src="../images/cmb-blackbody-curve.png" width="300" title="CMB Black body spectrum">
+  <img src="../images/cmb-blackbody-curve.png" width="320" title="CMB Black body spectrum">
 </p>
 
 ഫിസിക്സില്‍ ബാക്ക്ഗ്രൌണ്ട് ഉള്ള എല്ലാവര്‍ക്കും പെട്ടന്ന് മനസ്സിലാകും ഇത് എന്താണെന്ന് – പ്രശസ്തമായ ബ്ലാക്ക് ബോഡി കര്‍വ്.
