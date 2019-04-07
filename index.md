@@ -169,7 +169,7 @@ The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelation
 
 5. Mathematical Methods in Quantum Mechanics With Applications to Schrodinger Operators by Gerald Teschl - Mathematical Foundations of Quantum Mechanics. (Available for free [here:](https://www.mat.univie.ac.at/%7Egerald/ftp/book-schroe/schroe.pdf))
 
-6. The Road To Reality by Roger Penrose: Provides all the necessory tools for understanding the laws of the universe from the foundations of science, basics of mathematics, to ideas in New Physics.
+6. The Road To Reality by Roger Penrose: Provides all the necessary tools for understanding the laws of the universe from the foundations of science, basics of mathematics, to ideas in New Physics.
 
 <div style="background-color:#d2e1c8; padding: 8px">
 The goal is to understand, not to memorize.<br/>
