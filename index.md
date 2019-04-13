@@ -95,7 +95,9 @@ The Standard Model of Cosmology (in Malayalam)
 
  ഇതില്ലാതെ ഒന്നും നടക്കില്ല!
  
- ### ആരെ ഉദ്ദേശിച്ചാണ്  ഇത് എഴുതിയിരിക്കുന്നത്? 
+ ### Who is the intended audience
+
+
 
 ### എന്തിന്?
 
