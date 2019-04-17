@@ -152,4 +152,14 @@ nav_order: 6
 ഇങ്ങനെ ഫീല്‍ഡിലെ വല്യൂകളുടെ ട്രാന്‍സ്ഫര്‍ ആണ് റേഡിയേഷന്‍.
 
 
+ഉദാഹരണത്തിന് പ്രകാശം എടുക്കാം. പ്രകാശം എന്നത് ഒരു തരം ഇലക്ട്രോ മാഗ്നറ്റിക് റേഡിയേഷന്‍ ആണ് എന്ന് മുമ്പ് പറഞ്ഞു. 
+
+ക്വാണ്ടം മെക്കാനിക്ക്സിന്‍റെ കാഴ്ചപ്പാടില്‍ ഇവ ഇലക്ട്രിക്‌, മാഗ്നട്ടിക് ഫീല്‍ഡുകളില്‍ ഉണ്ടാകുന്ന വാല്യൂ മാറ്റങ്ങളുടെ ക്വാണ്ടൈസേഷന്‍ ആണ്. ഇവയെ ഫോട്ടോണുകള്‍ എന്ന് വിളിക്കുന്നു. ഇവ ഇങ്ങനെ:
+
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif" width="320" title="Harmonic Oscillators"/>
+	<p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/wiki/File:EM-Wave.gif"> Credit: Wikipedia</a></p>
+</p>
+
+
 <<This page is under construction>>
