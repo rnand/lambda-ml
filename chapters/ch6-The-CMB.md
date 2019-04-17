@@ -161,5 +161,6 @@ nav_order: 6
 	<p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/wiki/File:EM-Wave.gif"> Credit: Wikipedia</a></p>
 </p>
 
+ഇതില്‍ \\(\vec{E}\\) എന്നത് ഇലക്ട്രിക് ഫീല്‍ഡ് വെക്ടര്‍, \\(\vec{B}\\) എന്നത് മാഗ്നട്ടിക് ഫീല്‍ഡ് വെക്ടര്‍.
 
 <<This page is under construction>>
