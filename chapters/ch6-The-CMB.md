@@ -157,7 +157,7 @@ nav_order: 6
 ക്വാണ്ടം മെക്കാനിക്ക്സിന്‍റെ കാഴ്ചപ്പാടില്‍ ഇവ ഇലക്ട്രിക്‌, മാഗ്നട്ടിക് ഫീല്‍ഡുകളില്‍ ഉണ്ടാകുന്ന വാല്യൂ മാറ്റങ്ങളുടെ ക്വാണ്ടൈസേഷന്‍ ആണ്. ഇവയെ ഫോട്ടോണുകള്‍ എന്ന് വിളിക്കുന്നു. ഇവ ഇങ്ങനെ:
 
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif" width="320" title="Harmonic Oscillators"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif" width="320" title="Electro Magnetic Wave"/>
 	<p align="center" style = "font-size:9px"> <a href="https://commons.wikimedia.org/wiki/File:EM-Wave.gif"> Credit: Wikipedia</a></p>
 </p>
 
