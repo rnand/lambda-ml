@@ -98,7 +98,7 @@ The Standard Model of Cosmology (in Malayalam)
 
 ### ആരെ ഉദ്ദേശിച്ചാണ്  ഇത് എഴുതിയിരിക്കുന്നത്? 
 
-(ഈ സെക്ഷന്‍ എഴുതേണ്ടി വന്നതില്‍ ഖേദിക്കുന്നു.)
+(ഈ സെക്ഷന്‍ എഴുതേണ്ടി വന്നതില്‍ ഖേദിക്കുന്നു, but we must call a spade a spade. No point in beating around the bush.)
 
 'സയന്‍ന്‍റിഫിക് ലിറ്ററസി' ഉള്ളരെ ഉദ്ദേശിച്ചാണ്  ഇത് എഴുതിയിരിക്കുന്നത്.
 
