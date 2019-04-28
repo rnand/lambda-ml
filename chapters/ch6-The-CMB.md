@@ -281,5 +281,15 @@ nav_order: 6
 
 അതായത്, ഇലക്‌ട്രോണുകളില്‍ നിന്നും പുറത്തു വിടുന്ന റേഡിയേഷന്‍, ആ വസ്തുവിന്‍റെ ടെമ്പറെച്ചറിന് അനുസരിച്ച് ഇരിക്കും. ഈ റേഡിയേഷന്‍റെ വേവ് ലെങ്ങ്ത്, ഫ്രീക്വന്‍സി എന്നിവ ടെമ്പറെച്ചറുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു.
 
+ഈ റിലേഷന്‍ഷിപ്‌ കാണിക്കുന്ന കര്‍വ് ആണ് ബ്ലാക്ക് ബോഡി കര്‍വ്.
+
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Black_body.svg" width="320" title="The black body curve."/>
+	<p align="center" style = "font-size:9px"> <a href="https://en.wikipedia.org/wiki/File:Black_body.svg"> Credit: Wikipedia</a></p>
+</p>
+
+ഒരു തെര്‍മല്‍ ഇക്വിലിബ്രിയത്തില്‍ നിലനില്‍ക്കുന്ന ഒരു വസ്തുവില്‍ നിന്നും പുറത്തുവിടപ്പെടുന്ന റേഡിയേഷന്‍ ആണ് ബ്ലാക്ക് ബോഡി റേഡിയേഷന്‍.
+
+
 
 <<This page is under construction>>
