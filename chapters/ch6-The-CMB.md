@@ -287,7 +287,7 @@ nav_order: 6
 </p>
 
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Hot_metalwork.jpg"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Hot_metalwork.jpg" width="320" title="Hot metal emitting light."/>
 	<p align="center" style = "font-size:9px">ഇരുമ്പ് കമ്പി പോലുള്ള ലോഹങ്ങള്‍ ചൂടാക്കുമ്പോള്‍ പഴുത്ത് പ്രകാശം പുരതുവിടുന്നതും ഇത്കൊണ്ടാണ്. <a href="https://en.wikipedia.org/wiki/File:Hot_metalwork.jpg"> Credit: Wikipedia</a></p>
 </p>
 
