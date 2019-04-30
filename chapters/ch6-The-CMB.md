@@ -284,7 +284,7 @@ nav_order: 6
 ഈ ചാപ്റ്ററിന്‍റെ തുടക്കത്തില്‍ ചോദിച്ച മെഴുകുതിരിയുടെയും ഗ്യാസ് സ്റ്റൌവിന്‍റെയും ചോദ്യത്തിനു ഉത്തരം ഇതില്‍ നിന്നും ഊഹിക്കാം. വ്യത്യസ്ഥ വേവ് ലെങ്ങ്ത്, ഫ്രീക്വന്‍സി എന്നിവയാണല്ലോ പ്രകാശത്തിന്‍റെ പല നിറങ്ങള്‍ ആയി നാം കാണുന്നത്.
 
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Color_temperature_black_body_800-12200K.svg" width="320" title="Color and temperature of black bodies"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Color_temperature_black_body_800-12200K.svg" width="520" title="Color and temperature of black bodies"/>
 	<p align="center" style = "font-size:9px">ബ്ലാക്ക് ബോഡി റേഡിയേഷനും അതിന്‍റെ നിറവും, താപനിലയും (കെല്‍വിനില്‍) <a href="https://en.wikipedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg"> Credit: Wikipedia</a></p>
 </p>
 
