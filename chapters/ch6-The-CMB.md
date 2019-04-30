@@ -283,7 +283,7 @@ nav_order: 6
 
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Color_temperature_black_body_800-12200K.svg" width="320" title="Color and temperature of black bodies"/>
-	<p align="center" style = "font-size:9px">ബ്ലാക്ക് ബോഡി റേഡിയേഷനും അതിന്‍റെ നിറവും, താപനിലയും <a href="https://en.wikipedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg"> Credit: Wikipedia</a></p>
+	<p align="center" style = "font-size:9px">ബ്ലാക്ക് ബോഡി റേഡിയേഷനും അതിന്‍റെ നിറവും, താപനിലയും (കെല്‍വിനില്‍) <a href="https://en.wikipedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg"> Credit: Wikipedia</a></p>
 </p>
 
 <p align="center">
