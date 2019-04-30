@@ -286,6 +286,12 @@ nav_order: 6
 	<p align="center" style = "font-size:9px">ബ്ലാക്ക് ബോഡി റേഡിയേഷനും അതിന്‍റെ നിറവും, താപനിലയും <a href="https://en.wikipedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg"> Credit: Wikipedia</a></p>
 </p>
 
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Hot_metalwork.jpg"/>
+	<p align="center" style = "font-size:9px">ഇരുമ്പ് കമ്പി പോലുള്ള ലോഹങ്ങള്‍ ചൂടാക്കുമ്പോള്‍ പഴുത്ത് പ്രകാശം പുരതുവിടുന്നതും ഇത്കൊണ്ടാണ്. <a href="https://en.wikipedia.org/wiki/File:Hot_metalwork.jpg"> Credit: Wikipedia</a></p>
+</p>
+
+
 ഈ റിലേഷന്‍ഷിപ്‌ കാണിക്കുന്ന കര്‍വ് ആണ് ബ്ലാക്ക് ബോഡി കര്‍വ്.
 
 <p align="center">
