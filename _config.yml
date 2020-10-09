@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: rnand/just-the-docs
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
